@@ -1,0 +1,4 @@
+model,wer,cer
+gradtts-bigvgan,0.009983,0.002897
+gradtts-hifigan,0.009983,0.002897
+glowtts-hifigan,0.013750,0.003948

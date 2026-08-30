@@ -1,0 +1,32 @@
+# Modelos pesados
+*.pt
+*.pth
+*.ckpt
+*.onnx
+*.safetensors
+
+# Pastas de modelos
+edresson-glowtts/
+glowtts/
+hifigan/
+prototype-final-gradtts/
+whisper-large-v3/
+
+# Audios
+*.wav
+*.mp3
+*.flac
+*.ogg
+audios_utmos/
+
+# Arquivos temporários
+__pycache__/
+*.pyc
+*.pyo
+*.log
+.gitignore.save
+
+# Checkpoints do PitchExtractor
+PitchExtractor/Checkpoint/*.pth
+PitchExtractor/Checkpoint/tensorboard/
+PitchExtractor/Checkpoint/*.log

@@ -9,7 +9,7 @@ import torch
 # PATHS BASE
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 PROJECT_ROOT = os.path.join(BASE_DIR, "prototype-final-gradtts")
-CKPT_DIR = os.path.join("/mnt/efs/wilmer_tts/checkpoints/TTS", "gradtts-all")
+CKPT_DIR = os.path.join("/mnt/c/Users/rainh/TCC_Miruna/prototype-final-gradtts", "ckpts")
 
 sys.path.append(PROJECT_ROOT)
 sys.path.append(os.path.join(PROJECT_ROOT, "hifigan"))

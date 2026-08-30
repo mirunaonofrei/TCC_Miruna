@@ -11,10 +11,10 @@ from TTS_glow.vocoder.models import setup_generator
 
 
 # CONFIG
-MODEL_PATH = "/mnt/efs/wilmer_tts/checkpoints/TTS/edresson-glowtts/glowtts/best_model.pth.tar"
-CONFIG_PATH = "/mnt/efs/wilmer_tts/checkpoints/TTS/edresson-glowtts/glowtts/config.json"
-VOCODER_MODEL_PATH = "/mnt/efs/wilmer_tts/checkpoints/TTS/edresson-glowtts/hifigan/best_model.pth.tar"
-VOCODER_CONFIG_PATH = "/mnt/efs/wilmer_tts/checkpoints/TTS/edresson-glowtts/hifigan/config.json"
+MODEL_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/glowtts/best_model.pth.tar"
+CONFIG_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/glowtts/config.json"
+VOCODER_MODEL_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/hifigan/best_model.pth.tar"
+VOCODER_CONFIG_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/hifigan/config.json"
 #CORPUS_PATH = "corpus_rtf.txt"
 #CORPUS_PATH = "corpus_wer.txt"
 CORPUS_PATH = "corpus_utmos.txt"

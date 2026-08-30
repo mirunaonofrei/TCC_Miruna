@@ -6,8 +6,8 @@ import whisper
 from tqdm import tqdm
 
 # CONFIG
-AUDIO_ROOT = "audios_wer"
-CORPUS_PATH = "corpus_wer.txt"
+AUDIO_ROOT = "audios_utmos"
+CORPUS_PATH = "corpus_utmos.txt"
 #CORPUS_PATH = "corpus_benchmark.txt"
 OUTPUT_JSON = "wer_results.json"
 OUTPUT_CSV = "wer_summary.csv"
@@ -15,7 +15,7 @@ OUTPUT_CSV = "wer_summary.csv"
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 #WHISPER_MODEL_PATH = "/mnt/efs/wilmer_tts/checkpoints/small.pt"
-WHISPER_MODEL_PATH = "/mnt/efs/wilmer_tts/checkpoints/large-v3.pt"
+WHISPER_MODEL_PATH = "/mnt/c/Users/rainh/TCC_Miruna/large-v3.pt"
 
 # LOAD CORPUS
 def load_corpus(path):

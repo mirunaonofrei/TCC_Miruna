@@ -1,0 +1,146 @@
+{
+    "tts_models":{
+        "en":{
+            "ek1":{
+                "tacotron2": {
+                    "description": "EK1 en-rp tacotron2 by NMStoker",
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/tts_models--en--ek1--tacotron2.zip",
+                    "default_vocoder": "vocoder_models/en/ek1/wavegrad",
+                    "commit": "c802255"
+                }
+            },
+            "ljspeech":{
+                "glow-tts":{
+                    "description": "",
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/tts_models--en--ljspeech--glow-tts.zip",
+                    "stats_file": null,
+                    "default_vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+                    "commit": "",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                },
+                "tacotron2-DCA": {
+                    "description": "",
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/tts_models--en--ljspeech--tacotron2-DCA.zip",
+                    "default_vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+                    "commit": "",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                },
+                "speedy-speech-wn":{
+                    "description": "Speedy Speech model with wavenet decoder.",
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/tts_models--en--ljspeech--speedy-speech-wn.zip",
+                    "default_vocoder": "vocoder_models/en/ljspeech/multiband-melgan",
+                    "commit": "77b6145",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                }
+            }
+        },
+        "es":{
+            "mai":{
+                "tacotron2-DDC":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/tts_models--es--mai--tacotron2-DDC.zip",
+                    "default_vocoder": "vocoder_models/universal/libri-tts/fullband-melgan",
+                    "commit": "",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                }
+            }
+        },
+        "fr":{
+            "mai":{
+                "tacotron2-DDC":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/tts_models--fr--mai--tacotron2-DDC.zip",
+                    "default_vocoder": "vocoder_models/universal/libri-tts/fullband-melgan",
+                    "commit": "",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                }
+            }
+        },
+        "zh-CN":{
+            "baker":{
+                "tacotron2-DDC-GST":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/tts_models--zh-CN--baker--tacotron2-DDC-GST.zip",
+                    "commit": "unknown",
+                    "author": "@kirianguiller"
+                }
+            }
+        },
+        "nl":{
+            "mai":{
+                "tacotron2-DDC":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/tts_models--nl--mai--tacotron2-DDC.zip",
+                    "author": "@r-dh",
+                    "default_vocoder": "vocoder_models/nl/mai/parallel-wavegan",
+                    "stats_file": null,
+                    "commit": "540d811"
+                }
+            }
+        },
+        "ru":{
+            "ruslan":{
+                "tacotron2-DDC":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/tts_models--ru--ruslan--tacotron2-DDC.zip",
+                    "author": "@erogol",
+                    "default_vocoder": "vocoder_models/universal/libri-tts/fullband-melgan",
+                    "license":"",
+                    "contact": "egolge@coqui.com"
+                }
+            }
+        }
+    },
+    "vocoder_models":{
+        "universal":{
+            "libri-tts":{
+                "wavegrad":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/vocoder_models--universal--libri-tts--wavegrad.zip",
+                    "commit": "ea976b0",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                },
+                "fullband-melgan":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/vocoder_models--universal--libri-tts--fullband-melgan.zip",
+                    "commit": "4132240",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                }
+            }
+        },
+        "en": {
+            "ek1":{
+                "wavegrad": {
+                    "description": "EK1 en-rp wavegrad by NMStoker",
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/vocoder_models--en--ek1--wavegrad.zip",
+                    "commit": "c802255"
+                }
+            },
+            "ljspeech":{
+                "multiband-melgan":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.9/vocoder_models--en--ljspeech--mulitband-melgan.zip",
+                    "commit": "ea976b0",
+                    "author": "Eren Gölge @erogol",
+                    "license": "MPL",
+                    "contact":"egolge@coqui.com"
+                }
+            }
+        },
+        "nl":{
+            "mai":{
+                "parallel-wavegan":{
+                    "github_rls_url": "https://github.com/coqui-ai/TTS/releases/download/v0.0.10/vocoder_models--nl--mai--parallel-wavegan.zip",
+                    "author": "@r-dh",
+                    "commit": "unknown"
+                }
+            }
+        }
+    }
+}

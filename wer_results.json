@@ -1,0 +1,2721 @@
+{
+  "summary": [
+    {
+      "model": "gradtts-bigvgan",
+      "wer": 0.009983389080349238,
+      "cer": 0.002897381156829878
+    },
+    {
+      "model": "gradtts-hifigan",
+      "wer": 0.009983389080349238,
+      "cer": 0.002897381156829878
+    },
+    {
+      "model": "glowtts-hifigan",
+      "wer": 0.01374987974987975,
+      "cer": 0.0039480178227958365
+    }
+  ],
+  "details": [
+    {
+      "model": "glowtts-hifigan",
+      "id": 1,
+      "audio": "glowtts_edresson_001.wav",
+      "reference": "Olá! Como posso ajudar você hoje?",
+      "transcription": " Olá, como posso ajudar você hoje?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 2,
+      "audio": "glowtts_edresson_002.wav",
+      "reference": "Claro, vou procurar essa informação e retornar com a resposta em instantes.",
+      "transcription": " Claro, vou procurar essa informação e retornar com a resposta em instantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 3,
+      "audio": "glowtts_edresson_003.wav",
+      "reference": "Tudo certo! O processamento foi concluído com sucesso e já está disponível para consulta.",
+      "transcription": " Tudo certo, o processamento foi concluído com sucesso e já está disponível para consulta.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 4,
+      "audio": "glowtts_edresson_004.wav",
+      "reference": "Sem problemas. Posso explicar cada etapa do procedimento de maneira simples e objetiva.",
+      "transcription": " Sem problemas, posso explicar cada etapa do procedimento de maneira simples e objetiva.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 5,
+      "audio": "glowtts_edresson_005.wav",
+      "reference": "Obrigado por aguardar. Encontrei exatamente o que você estava procurando.",
+      "transcription": " Obrigado por aguardar, encontrei exatamente o que você estava procurando.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 6,
+      "audio": "glowtts_edresson_006.wav",
+      "reference": "Se preferir, posso apresentar uma explicação mais detalhada sobre esse assunto.",
+      "transcription": " Se preferir, posso apresentar uma explicação mais detalhada sobre esse assunto.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 7,
+      "audio": "glowtts_edresson_007.wav",
+      "reference": "Não se preocupe. Vamos resolver essa situação passo a passo até encontrar a melhor solução.",
+      "transcription": " Não se preocupe, vamos resolver essa situação passo a passo até encontrar a melhor solução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 8,
+      "audio": "glowtts_edresson_008.wav",
+      "reference": "Antes de continuar, confirme se todas as informações apresentadas estão corretas.",
+      "transcription": " Antes de continuar, confirme se todas as informações apresentadas estão corretas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 9,
+      "audio": "glowtts_edresson_009.wav",
+      "reference": "Caso tenha alguma dúvida durante o processo, basta perguntar que ficarei feliz em ajudar.",
+      "transcription": " Caso tenha alguma dúvida durante o processo, basta perguntar que ficarei feliz em ajudar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 10,
+      "audio": "glowtts_edresson_010.wav",
+      "reference": "Perfeito! Todas as configurações necessárias foram aplicadas corretamente e o sistema já está pronto para uso.",
+      "transcription": " Perfeito, todas as configurações necessárias foram aplicadas corretamente e o sistema já está pronto para uso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 11,
+      "audio": "glowtts_edresson_011.wav",
+      "reference": "Posso repetir a explicação utilizando palavras mais simples, caso isso facilite o entendimento.",
+      "transcription": " Posso repetir a explicação utilizando palavras mais simples, caso isso facilite o entendimento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 12,
+      "audio": "glowtts_edresson_012.wav",
+      "reference": "Se desejar, também posso apresentar alguns exemplos práticos para ilustrar melhor esse conceito.",
+      "transcription": " Se desejar, também posso apresentar alguns exemplos práticos para ilustrar melhor esse conceito.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 13,
+      "audio": "glowtts_edresson_013.wav",
+      "reference": "Tudo foi executado conforme o planejado, sem interrupções ou mensagens de erro durante o processamento.",
+      "transcription": " Tudo foi executado conforme o planejado, sem interrupções ou mensagens de erro durante o processamento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 14,
+      "audio": "glowtts_edresson_014.wav",
+      "reference": "Vamos começar pela primeira etapa e avançar gradualmente até concluir toda a atividade proposta.",
+      "transcription": " Vamos começar pela primeira etapa e avançar gradualmente até concluir toda a atividade proposta.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 15,
+      "audio": "glowtts_edresson_015.wav",
+      "reference": "Os resultados obtidos até o momento indicam que o sistema está funcionando exatamente como esperado.",
+      "transcription": " Os resultados obtidos até o momento indicam que o sistema está funcionando exatamente como esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 16,
+      "audio": "glowtts_edresson_016.wav",
+      "reference": "Fique à vontade para interromper a qualquer momento caso deseje esclarecer algum detalhe adicional.",
+      "transcription": " que quer a vontade para interromper a qualquer momento caso deseje esclarecer algum detalhe adicional.",
+      "wer": 0.21428571428571427,
+      "cer": 0.061224489795918366
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 17,
+      "audio": "glowtts_edresson_017.wav",
+      "reference": "Já finalizei todas as verificações solicitadas e posso apresentar um resumo completo dos resultados encontrados.",
+      "transcription": " Já finalizei todas as verificações solicitadas e posso apresentar um resumo completo dos resultados encontrados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 18,
+      "audio": "glowtts_edresson_018.wav",
+      "reference": "Ótimo! A conexão foi estabelecida com sucesso e todos os serviços necessários estão disponíveis novamente.",
+      "transcription": " Ótimo! A conexão foi estabelecida com sucesso e todos os serviços necessários estão disponíveis novamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 19,
+      "audio": "glowtts_edresson_019.wav",
+      "reference": "Assim que a próxima atualização estiver concluída, informarei imediatamente todas as alterações realizadas.",
+      "transcription": " Assim que a próxima atualização estiver concluída, informarei imediatamente todas as alterações realizadas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 20,
+      "audio": "glowtts_edresson_020.wav",
+      "reference": "Foi um prazer ajudar você. Sempre que precisar de novas informações ou esclarecimentos, estarei disponível para colaborar.",
+      "transcription": " Foi um prazer ajudar você sempre que precisar de novas informações ou esclarecimentos, estarei disponível para colaborar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 21,
+      "audio": "glowtts_edresson_021.wav",
+      "reference": "O sol começava a surgir lentamente atrás das montanhas enquanto uma leve névoa cobria os campos silenciosos ao redor da pequena cidade.",
+      "transcription": " O sol começava a surgir lentamente atrás das montanhas enquanto uma leve névoa cobria os campos silenciosos ao redor da pequena cidade.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 22,
+      "audio": "glowtts_edresson_022.wav",
+      "reference": "Durante a caminhada pelo parque, era possível ouvir o canto dos pássaros misturado ao som das folhas balançando suavemente com o vento.",
+      "transcription": " Durante a caminhada pelo parque, era possível ouvir o canto dos pássaros misturado ao som das folhas balançando suavemente com o vento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 23,
+      "audio": "glowtts_edresson_023.wav",
+      "reference": "Depois de alguns minutos de conversa, todos perceberam que a solução para o problema era muito mais simples do que imaginavam inicialmente.",
+      "transcription": " Depois de alguns minutos de conversa, todos perceberam que a solução para o problema era muito mais simples do que imaginavam inicialmente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 24,
+      "audio": "glowtts_edresson_024.wav",
+      "reference": "Ao chegar à biblioteca, Ana escolheu um livro sobre astronomia e passou boa parte da tarde explorando histórias fascinantes sobre o universo.",
+      "transcription": " Ao chegar à biblioteca, Panna escolheu um livro sobre astronomia e passou boa parte da tarde explorando histórias fascinantes sobre o universo.",
+      "wer": 0.045454545454545456,
+      "cer": 0.014388489208633094
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 25,
+      "audio": "glowtts_edresson_025.wav",
+      "reference": "Enquanto observava a chuva pela janela, Pedro aproveitou o momento de tranquilidade para organizar suas ideias e planejar os próximos desafios.",
+      "transcription": " Enquanto observava a chuva pela janela, Pedro aproveitou o momento de tranquilidade para organizar suas ideias e planejar os próximos desafios.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 26,
+      "audio": "glowtts_edresson_026.wav",
+      "reference": "A praça estava movimentada naquela manhã, com crianças brincando, famílias caminhando e músicos animando o ambiente com apresentações ao ar livre.",
+      "transcription": " A praça estava movimentada naquela manhã, com crianças brincando, famílias caminhando e músicos animando o ambiente com apresentações ao ar livre.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 27,
+      "audio": "glowtts_edresson_027.wav",
+      "reference": "Assim que o trem deixou a estação, a paisagem começou a mudar lentamente, revelando montanhas, rios e pequenas comunidades espalhadas pelo caminho.",
+      "transcription": " Assim que o trem deixou a estação, a paisagem começou a mudar lentamente, revelando montanhas, rios e pequenas comunidades espalhadas pelo caminho.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 28,
+      "audio": "glowtts_edresson_028.wav",
+      "reference": "Depois de concluir todas as atividades do dia, a equipe reuniu-se para compartilhar experiências e discutir novas possibilidades para os próximos projetos.",
+      "transcription": " Depois de concluir todas as atividades do dia, a equipe reuniu-se para compartilhar experiências e discutir novas possibilidades para os próximos projetos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 29,
+      "audio": "glowtts_edresson_029.wav",
+      "reference": "Durante a viagem, os passageiros aproveitaram o tempo para conversar, admirar a paisagem e registrar fotografias dos lugares mais interessantes.",
+      "transcription": " Durante a viagem, os passageiros aproveitaram o tempo para conversar, admirar a paisagem e registrar fotografias dos lugares mais interessantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 30,
+      "audio": "glowtts_edresson_030.wav",
+      "reference": "No início da noite, as luzes da cidade começaram a refletir sobre o rio, criando um cenário tranquilo e agradável para quem caminhava pela margem.",
+      "transcription": " No início da noite, as luzes da cidade começaram a refletir sobre o rio, criando um cenário tranquilo e agradável para quem caminhava pela margem.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 31,
+      "audio": "glowtts_edresson_031.wav",
+      "reference": "A professora iniciou a aula contando uma breve história que despertou a curiosidade dos alunos e tornou o restante da explicação muito mais envolvente.",
+      "transcription": " A professora iniciou a aula contando uma breve história que despertou a curiosidade dos alunos e tornou o restante da explicação muito mais envolvente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 32,
+      "audio": "glowtts_edresson_032.wav",
+      "reference": "Enquanto preparava o café da manhã, João observava pela janela o movimento das pessoas que começavam mais um dia de trabalho na cidade.",
+      "transcription": " Enquanto preparava o café da manhã, João observava pela janela o movimento das pessoas que começavam mais um dia de trabalho na cidade.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 33,
+      "audio": "glowtts_edresson_033.wav",
+      "reference": "O museu apresentava diferentes exposições distribuídas em várias salas, permitindo que os visitantes conhecessem obras de diferentes períodos históricos.",
+      "transcription": " O museu apresentava diferentes exposições distribuídas em várias salas, permitindo que os visitantes conhecessem obras de diferentes períodos históricos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 34,
+      "audio": "glowtts_edresson_034.wav",
+      "reference": "Após concluir o experimento, os pesquisadores analisaram cuidadosamente todos os resultados antes de iniciar a preparação da próxima etapa do estudo.",
+      "transcription": " Após concluir o experimento, os pesquisadores analisaram cuidadosamente todos os resultados antes de iniciar a preparação da próxima etapa do estudo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 35,
+      "audio": "glowtts_edresson_035.wav",
+      "reference": "Ao final da tarde, uma brisa agradável percorreu a praça enquanto as primeiras estrelas começavam a aparecer em um céu completamente limpo.",
+      "transcription": " Ao final da tarde, uma brisa agradável percorreu a praça enquanto as primeiras estrelas começavam a aparecer em um céu completamente limpo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 36,
+      "audio": "glowtts_edresson_036.wav",
+      "reference": "A sala era ampla, bem iluminada e possuía grandes janelas que permitiam a entrada abundante de luz natural durante toda a manhã.",
+      "transcription": " A sala era ampla, bem iluminada e possuía grandes janelas que permitiam a entrada abundante de luz natural durante toda a manhã.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 37,
+      "audio": "glowtts_edresson_037.wav",
+      "reference": "O jardim apresentava árvores altas, flores coloridas e caminhos de pedra cuidadosamente distribuídos entre pequenos lagos ornamentais.",
+      "transcription": " O jardim apresentava árvores altas, flores coloridas e caminhos de pedra cuidadosamente distribuídos entre pequenos lagos ornamentais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 38,
+      "audio": "glowtts_edresson_038.wav",
+      "reference": "A biblioteca reunia milhares de livros organizados em estantes de madeira, oferecendo um ambiente silencioso e bastante acolhedor para os leitores.",
+      "transcription": " A biblioteca reunia milhares de livros organizados em estantes de madeira, oferecendo um ambiente silencioso e bastante acolhedor para os leitores.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 39,
+      "audio": "glowtts_edresson_039.wav",
+      "reference": "O laboratório contava com equipamentos modernos, bancadas espaçosas e instrumentos cuidadosamente calibrados para os experimentos realizados diariamente.",
+      "transcription": " O laboratório contava com equipamentos modernos, bancadas espaçosas e instrumentos cuidadosamente calibrados para os experimentos realizados diariamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 40,
+      "audio": "glowtts_edresson_040.wav",
+      "reference": "A praia possuía areia clara, águas tranquilas e uma extensa faixa de vegetação preservada que tornava a paisagem ainda mais agradável.",
+      "transcription": " A praia possui areia clara, águas tranquilas e uma extensa faixa de vegetação preservada que tornava a paisagem ainda mais agradável.",
+      "wer": 0.047619047619047616,
+      "cer": 0.015151515151515152
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 41,
+      "audio": "glowtts_edresson_041.wav",
+      "reference": "O restaurante oferecia um ambiente confortável, iluminação suave e uma decoração elegante que valorizava a experiência dos clientes.",
+      "transcription": " O restaurante oferecia um ambiente confortável, iluminação suave e uma decoração elegante que valorizava a experiência dos clientes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 42,
+      "audio": "glowtts_edresson_042.wav",
+      "reference": "A montanha era cercada por uma vegetação densa, trilhas bem sinalizadas e diversos pontos de observação com vistas panorâmicas da região.",
+      "transcription": " A montanha era cercada por uma vegetação densa, trilhas bem sinalizadas e diversos pontos de observação com vistas panorâmicas da região.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 43,
+      "audio": "glowtts_edresson_043.wav",
+      "reference": "O auditório dispunha de excelente acústica, cadeiras confortáveis e um sistema de iluminação projetado para diferentes tipos de apresentações.",
+      "transcription": " O auditório dispunha de excelente acústica, cadeiras confortáveis e um sistema de iluminação projetado para diferentes tipos de apresentações.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 44,
+      "audio": "glowtts_edresson_044.wav",
+      "reference": "A cidade combinava edifícios modernos, praças arborizadas e ruas movimentadas, mantendo um equilíbrio harmonioso entre desenvolvimento e qualidade de vida.",
+      "transcription": " A cidade combinava edifícios modernos, praças arborizadas e ruas movimentadas, mantendo um equilíbrio harmonioso entre desenvolvimento e qualidade de vida.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 45,
+      "audio": "glowtts_edresson_045.wav",
+      "reference": "O escritório apresentava um espaço organizado, mesas amplas e equipamentos atualizados que favoreciam a realização das atividades diárias.",
+      "transcription": " O escritório apresentava um espaço organizado, mesas amplas e equipamentos atualizados que favoreciam a realização das atividades diárias.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 46,
+      "audio": "glowtts_edresson_046.wav",
+      "reference": "O céu permaneceu completamente limpo durante toda a tarde, permitindo observar o horizonte com grande nitidez e cores bastante intensas.",
+      "transcription": " O céu permaneceu completamente limpo durante toda a tarde, permitindo observar o horizonte com grandes nítides e cores bastante intensas.",
+      "wer": 0.1,
+      "cer": 0.022388059701492536
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 47,
+      "audio": "glowtts_edresson_047.wav",
+      "reference": "O museu preservava obras de diferentes épocas em ambientes cuidadosamente preparados para garantir conforto aos visitantes e proteção ao acervo.",
+      "transcription": " O museu preservava obras de diferentes épocas em ambientes cuidadosamente preparados para garantir o conforto aos visitantes e proteção ao passeio.",
+      "wer": 0.1,
+      "cer": 0.04895104895104895
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 48,
+      "audio": "glowtts_edresson_048.wav",
+      "reference": "A trilha atravessava uma floresta silenciosa, riachos cristalinos e pequenas pontes de madeira construídas ao longo do percurso.",
+      "transcription": " A trilha atravessava uma floresta silenciosa e arcos cristalinos e pequenas pontes de madeira construídas ao longo do percurso.",
+      "wer": 0.1111111111111111,
+      "cer": 0.031746031746031744
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 49,
+      "audio": "glowtts_edresson_049.wav",
+      "reference": "O centro de pesquisa reunia profissionais de diferentes áreas, laboratórios especializados e infraestrutura adequada para o desenvolvimento de projetos científicos.",
+      "transcription": " O Centro de Pesquisa reunia profissionais de diferentes áreas, laboratórios especializados em infraestrutura adequada para o desenvolvimento de projetos científicos.",
+      "wer": 0.05,
+      "cer": 0.006172839506172839
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 50,
+      "audio": "glowtts_edresson_050.wav",
+      "reference": "O sistema apresentou funcionamento estável, baixo consumo de recursos e desempenho consistente durante todo o período de avaliação experimental.",
+      "transcription": " O sistema apresentou funcionamento estável, baixo consumo de recursos e desempenho consistente durante todo o período de avaliação experimental.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 51,
+      "audio": "glowtts_edresson_051.wav",
+      "reference": "Você conseguiu concluir todas as tarefas previstas para hoje?",
+      "transcription": " Você conseguiu concluir todas as tarefas previstas para hoje.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 52,
+      "audio": "glowtts_edresson_052.wav",
+      "reference": "Como posso ajudar você da melhor maneira possível neste momento?",
+      "transcription": " Como posso ajudar você da melhor maneira possível neste momento?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 53,
+      "audio": "glowtts_edresson_053.wav",
+      "reference": "Qual foi o resultado obtido após a execução completa do experimento?",
+      "transcription": " Qual foi o resultado obtido após a execução completa do experimento?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 54,
+      "audio": "glowtts_edresson_054.wav",
+      "reference": "Você prefere iniciar os testes agora ou aguardar mais alguns minutos?",
+      "transcription": " Você preferir iniciar os testes agora ou aguardar mais alguns minutos?",
+      "wer": 0.09090909090909091,
+      "cer": 0.029411764705882353
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 55,
+      "audio": "glowtts_edresson_055.wav",
+      "reference": "Será que todas as configurações foram aplicadas corretamente antes da inferência?",
+      "transcription": " Será que todas as configurações foram aplicadas corretamente antes da inferência?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 56,
+      "audio": "glowtts_edresson_056.wav",
+      "reference": "Podemos revisar os resultados mais uma vez antes de finalizar a análise?",
+      "transcription": " Podemos revisar os resultados mais uma vez antes de finalizar a análise.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 57,
+      "audio": "glowtts_edresson_057.wav",
+      "reference": "O sistema permaneceu estável durante toda a execução do benchmark?",
+      "transcription": " O sistema permaneceu estável durante toda a execução do benchmark.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 58,
+      "audio": "glowtts_edresson_058.wav",
+      "reference": "Você acredita que este modelo apresenta desempenho suficiente para aplicações em tempo real?",
+      "transcription": " Você acredita que este modelo apresenta desempenho suficiente para aplicações em tempo real?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 59,
+      "audio": "glowtts_edresson_059.wav",
+      "reference": "Existe alguma outra informação que possa tornar esta avaliação ainda mais completa?",
+      "transcription": " Existe alguma outra informação que possa tornar essa avaliação ainda mais completa?",
+      "wer": 0.08333333333333333,
+      "cer": 0.012195121951219513
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 60,
+      "audio": "glowtts_edresson_060.wav",
+      "reference": "Depois de analisar todos os resultados, qual modelo apresentou o melhor equilíbrio entre qualidade e velocidade?",
+      "transcription": " Depois de analisar todos os resultados, qual modelo apresentou o melhor equilíbrio entre qualidade e velocidade?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 61,
+      "audio": "glowtts_edresson_061.wav",
+      "reference": "Excelente! Todos os testes foram concluídos com sucesso.",
+      "transcription": " Excelente! Todos os testes foram concluídos com sucesso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 62,
+      "audio": "glowtts_edresson_062.wav",
+      "reference": "Ótima notícia! O sistema funcionou exatamente como esperado.",
+      "transcription": " Ótima notícia, o sistema funcionou exatamente como esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 63,
+      "audio": "glowtts_edresson_063.wav",
+      "reference": "Perfeito! Agora podemos iniciar a próxima etapa da avaliação.",
+      "transcription": " Perfeito, agora podemos iniciar a próxima etapa da avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 64,
+      "audio": "glowtts_edresson_064.wav",
+      "reference": "Que resultado impressionante! O tempo de inferência ficou muito abaixo do esperado.",
+      "transcription": " que resultado impressionante que o tempo de inferência ficou muito abaixo do esperado.",
+      "wer": 0.08333333333333333,
+      "cer": 0.04938271604938271
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 65,
+      "audio": "glowtts_edresson_065.wav",
+      "reference": "Finalmente! Todos os arquivos foram processados corretamente.",
+      "transcription": " Finalmente, todos os arquivos foram processados corretamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 66,
+      "audio": "glowtts_edresson_066.wav",
+      "reference": "Muito bem! A configuração foi aplicada sem apresentar qualquer problema.",
+      "transcription": " Muito bem, a configuração foi aplicada sem apresentar qualquer problema.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 67,
+      "audio": "glowtts_edresson_067.wav",
+      "reference": "Que ótimo! A conexão permaneceu estável durante toda a execução.",
+      "transcription": " Que ótimo! A conexão permaneceu estável durante toda a execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 68,
+      "audio": "glowtts_edresson_068.wav",
+      "reference": "Fantástico! Conseguimos concluir todas as medições previstas para este experimento.",
+      "transcription": " Fantástico! Conseguimos concluir todas as medições previstas para esse experimento.",
+      "wer": 0.1,
+      "cer": 0.012345679012345678
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 69,
+      "audio": "glowtts_edresson_069.wav",
+      "reference": "Parabéns! O benchmark foi executado com sucesso e sem interrupções.",
+      "transcription": " Parabéns, o benchmark foi executado com sucesso e sem interrupções.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 70,
+      "audio": "glowtts_edresson_070.wav",
+      "reference": "Excelente trabalho! Os resultados estão prontos para serem analisados e comparados.",
+      "transcription": " Excelente trabalho. Os resultados estão prontos para serem analisados e comparados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 71,
+      "audio": "glowtts_edresson_071.wav",
+      "reference": "O sistema registrou temperatura, pressão, velocidade, consumo de energia e utilização de memória durante toda a execução.",
+      "transcription": " O sistema registrou temperatura, pressão, velocidade, consumo de energia e utilização de memória durante toda a execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 72,
+      "audio": "glowtts_edresson_072.wav",
+      "reference": "Para concluir a instalação, verifique os arquivos, atualize as dependências, reinicie o sistema e execute novamente os testes.",
+      "transcription": " Para concluir a instalação, verifique os arquivos, atualize as dependências, reinicie o sistema e execute novamente os testes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 73,
+      "audio": "glowtts_edresson_073.wav",
+      "reference": "A mochila continha um notebook, um carregador, um caderno, uma garrafa de água e alguns documentos importantes.",
+      "transcription": " A mochila continha um notebook, um carregador, um caderno, uma garrafa de água e alguns documentos importantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 74,
+      "audio": "glowtts_edresson_074.wav",
+      "reference": "Durante a avaliação foram analisadas a qualidade da voz, a inteligibilidade, a naturalidade, a latência e o consumo de memória.",
+      "transcription": " Durante a avaliação foram analisadas a qualidade da voz, a inteligibilidade, a naturalidade, a latência e o consumo de memória.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 75,
+      "audio": "glowtts_edresson_075.wav",
+      "reference": "O café da manhã incluía frutas, pães, ovos, queijo, café, suco natural e iogurte.",
+      "transcription": " O café da manhã incluía frutas, pães, ovos, queijo, café, suco natural e yogurt.",
+      "wer": 0.07142857142857142,
+      "cer": 0.02666666666666667
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 76,
+      "audio": "glowtts_edresson_076.wav",
+      "reference": "O laboratório possuía computadores, placas de desenvolvimento, microfones, alto-falantes e diversos instrumentos de medição.",
+      "transcription": " O laboratório possuía computadores, placas de desenvolvimento, microfones, alto-falantes e diversos instrumentos de medição.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 77,
+      "audio": "glowtts_edresson_077.wav",
+      "reference": "Antes da apresentação, organize os slides, revise o roteiro, teste o projetor e confirme o funcionamento do áudio.",
+      "transcription": " Antes da apresentação, organize os slides, revise o roteiro, teste o projetor e confirme o funcionamento do áudio.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 78,
+      "audio": "glowtts_edresson_078.wav",
+      "reference": "A equipe era formada por engenheiros, pesquisadores, desenvolvedores, estudantes e especialistas em processamento de sinais.",
+      "transcription": " A equipe era formada por engenheiros, pesquisadores, desenvolvedores, estudantes e especialistas em processamento de sinais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 79,
+      "audio": "glowtts_edresson_079.wav",
+      "reference": "O experimento utilizou gravações em estúdio, textos cuidadosamente selecionados, modelos treinados previamente e métricas padronizadas de avaliação.",
+      "transcription": " O experimento utilizou gravações em estúdio, textos cuidadosamente selecionados, modelos treinados previamente e métricas padronizadas de avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 80,
+      "audio": "glowtts_edresson_080.wav",
+      "reference": "Durante a comparação foram considerados o tempo de inferência, o fator de tempo real, a qualidade perceptual, a inteligibilidade e a estabilidade dos modelos.",
+      "transcription": " Durante a comparação foram considerados o tempo de inferência, o fator de tempo real, a qualidade perceptual, a inteligibilidade e a estabilidade dos modelos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 81,
+      "audio": "glowtts_edresson_081.wav",
+      "reference": "Bem... acho que podemos tentar novamente sem alterar nenhuma configuração.",
+      "transcription": " Bem, acho que podemos tentar novamente sem alterar nenhuma configuração.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 82,
+      "audio": "glowtts_edresson_082.wav",
+      "reference": "Antes de continuar, por favor, confirme se todos os arquivos foram carregados corretamente.",
+      "transcription": " Antes de continuar, por favor, confirme se todos os arquivos foram carregados corretamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 83,
+      "audio": "glowtts_edresson_083.wav",
+      "reference": "Existem três etapas principais: preparação dos dados, síntese da fala e avaliação dos resultados.",
+      "transcription": " Existem três etapas principais, preparação dos dados, síntese da fala e avaliação dos resultados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 84,
+      "audio": "glowtts_edresson_084.wav",
+      "reference": "O procedimento foi concluído; agora basta analisar cuidadosamente as métricas obtidas.",
+      "transcription": " O procedimento foi concluído, agora basta analisar cuidadosamente as métricas obtidas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 85,
+      "audio": "glowtts_edresson_085.wav",
+      "reference": "O resultado foi excelente — muito melhor do que imaginávamos no início do experimento.",
+      "transcription": " O resultado foi excelente, muito melhor do que imaginávamos no início do experimento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 86,
+      "audio": "glowtts_edresson_086.wav",
+      "reference": "Sim, exatamente! Esse foi o comportamento esperado durante toda a avaliação.",
+      "transcription": " Sim, exatamente esse foi o comportamento esperado durante toda a avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 87,
+      "audio": "glowtts_edresson_087.wav",
+      "reference": "Enquanto o modelo processava a entrada, a equipe acompanhava, em tempo real, cada etapa da execução.",
+      "transcription": " Enquanto o modelo processava a entrada, a equipe acompanhava, em tempo real, cada etapa da execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 88,
+      "audio": "glowtts_edresson_088.wav",
+      "reference": "Primeiro verifique a configuração, depois execute o benchmark e, finalmente, compare todos os resultados.",
+      "transcription": " Primeiro verifique a configuração, depois execute o benchmark e, finalmente, compare todos os resultados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 89,
+      "audio": "glowtts_edresson_089.wav",
+      "reference": "O sistema respondeu rapidamente, sem interrupções, sem atrasos e sem apresentar qualquer mensagem de erro.",
+      "transcription": " O sistema respondeu rapidamente, sem interrupções, sem atrasos e sem apresentar qualquer mensagem dele.",
+      "wer": 0.13333333333333333,
+      "cer": 0.038834951456310676
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 90,
+      "audio": "glowtts_edresson_090.wav",
+      "reference": "Depois de revisar cuidadosamente todas as informações, podemos prosseguir com segurança para a próxima etapa da análise.",
+      "transcription": " Depois de revisar cuidadosamente todas as informações, podemos prosseguir com segurança para a próxima etapa da análise.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 91,
+      "audio": "glowtts_edresson_091.wav",
+      "reference": "Enquanto caminhava tranquilamente pelo parque durante o início da manhã, Ana observava as árvores refletidas sobre a água do lago e aproveitava o silêncio para organizar os planos que havia feito para os próximos dias.",
+      "transcription": " Enquanto caminhava tranquilamente pelo parque durante o início da manhã, Ana observava as árvores refletidas sobre a água do lago e aproveitava o silêncio para organizar os planos que havia feito para os próximos dias.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 92,
+      "audio": "glowtts_edresson_092.wav",
+      "reference": "Depois de concluir todas as atividades previstas para aquela tarde, a equipe reuniu-se novamente para discutir os resultados obtidos, identificar possíveis melhorias e definir as próximas etapas do projeto.",
+      "transcription": " Depois de concluir todas as atividades previstas para aquela tarde, a equipe reuniu-se novamente para discutir os resultados obtidos, identificar possíveis melhorias e definir as próximas etapas do projeto.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 93,
+      "audio": "glowtts_edresson_093.wav",
+      "reference": "Durante a viagem de trem, os passageiros observavam a paisagem pela janela enquanto conversavam sobre diferentes assuntos, compartilhavam histórias e registravam fotografias dos lugares mais interessantes.",
+      "transcription": " Durante a viagem de trem, os passageiros observavam a paisagem pela janela enquanto conversavam sobre diferentes assuntos, compartilhavam histórias e registravam fotografias dos lugares mais interessantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 94,
+      "audio": "glowtts_edresson_094.wav",
+      "reference": "Ao visitar o museu pela primeira vez, Carlos percebeu que cada sala apresentava detalhes únicos sobre diferentes períodos da história, tornando toda a experiência muito mais interessante do que imaginava.",
+      "transcription": " Ao visitar o museu pela primeira vez, Carlos percebeu que cada sala apresentava detalhes únicos sobre diferentes períodos da história, tornando toda a experiência muito mais interessante do que imaginava.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 95,
+      "audio": "glowtts_edresson_095.wav",
+      "reference": "Assim que a chuva terminou, as famílias voltaram a ocupar a praça, as crianças retomaram as brincadeiras e o ambiente recuperou rapidamente o movimento tranquilo característico das tardes de domingo.",
+      "transcription": " Assim que a chuva terminou, as famílias voltaram a ocupar a praça, as crianças retomaram as brincadeiras e o ambiente recuperou rapidamente o movimento tranquilo característico das tardes de domingo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 96,
+      "audio": "glowtts_edresson_096.wav",
+      "reference": "Enquanto preparava cuidadosamente o jantar, Mariana escutava uma música tranquila ao fundo, observava a luz do entardecer entrando pela janela e aproveitava aquele momento de calma para relaxar.",
+      "transcription": " Enquanto preparava cuidadosamente o jantar, Mariana escutava uma música tranquila ao fundo, observava a luz do vento ardecer entrando pela janela e aproveitava aquele momento de palma para relaxar.",
+      "wer": 0.10714285714285714,
+      "cer": 0.020942408376963352
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 97,
+      "audio": "glowtts_edresson_097.wav",
+      "reference": "Depois de vários meses de planejamento, treinamento e testes experimentais, os pesquisadores finalmente conseguiram desenvolver um sistema estável que atendeu aos objetivos definidos no início do estudo.",
+      "transcription": " Depois de vários meses de planejamento, treinamento e testes experimentais, os pesquisadores finalmente conseguiram desenvolver um sistema testável que atendeu aos objetivos definidos no início do estudo.",
+      "wer": 0.037037037037037035,
+      "cer": 0.005
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 98,
+      "audio": "glowtts_edresson_098.wav",
+      "reference": "Ao longo da apresentação, o professor explicou cada conceito de maneira clara, respondeu às dúvidas dos alunos e utilizou exemplos práticos para tornar o conteúdo mais acessível e fácil de compreender.",
+      "transcription": " Ao longo da apresentação, o professor explicou cada conceito de maneira clara, respondeu às dúvidas dos alunos e utilizou exemplos práticos para tornar o conteúdo mais acessível e fácil de compreender.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 99,
+      "audio": "glowtts_edresson_099.wav",
+      "reference": "Mesmo após várias horas de utilização contínua, o sistema permaneceu estável, respondeu rapidamente às solicitações dos usuários e manteve o mesmo nível de desempenho observado durante os testes iniciais.",
+      "transcription": " Mesmo após várias horas de utilização contínua, o sistema permaneceu estável, respondeu rapidamente às solicitações dos usuários e manteve o mesmo nível de desempenho observado durante os testes iniciais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "glowtts-hifigan",
+      "id": 100,
+      "audio": "glowtts_edresson_100.wav",
+      "reference": "Enquanto o sol desaparecia lentamente no horizonte e as primeiras luzes da cidade começavam a se acender, as pessoas caminhavam tranquilamente pelas ruas aproveitando o clima agradável do início da noite.",
+      "transcription": " Enquanto o sol desaparecia lentamente no horizonte e as primeiras luzes da cidade começavam a se acender, as pessoas caminhavam tranquilamente pelas ruas aproveitando o clima agradável do início da noite.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 1,
+      "audio": "gradtts_bigvgan_polly-camila_001.wav",
+      "reference": "Olá! Como posso ajudar você hoje?",
+      "transcription": " Olá, como posso ajudar você hoje?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 2,
+      "audio": "gradtts_bigvgan_polly-camila_002.wav",
+      "reference": "Claro, vou procurar essa informação e retornar com a resposta em instantes.",
+      "transcription": " Claro, vou procurar essa informação e retornar com a resposta em instantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 3,
+      "audio": "gradtts_bigvgan_polly-camila_003.wav",
+      "reference": "Tudo certo! O processamento foi concluído com sucesso e já está disponível para consulta.",
+      "transcription": " Tudo certo, o processamento foi concluído com sucesso e já está disponível para consulta.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 4,
+      "audio": "gradtts_bigvgan_polly-camila_004.wav",
+      "reference": "Sem problemas. Posso explicar cada etapa do procedimento de maneira simples e objetiva.",
+      "transcription": " Sem problemas, posso explicar cada etapa do procedimento de maneira simples e objetiva.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 5,
+      "audio": "gradtts_bigvgan_polly-camila_005.wav",
+      "reference": "Obrigado por aguardar. Encontrei exatamente o que você estava procurando.",
+      "transcription": " Obrigado por aguardar, encontrei exatamente o que você estava procurando.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 6,
+      "audio": "gradtts_bigvgan_polly-camila_006.wav",
+      "reference": "Se preferir, posso apresentar uma explicação mais detalhada sobre esse assunto.",
+      "transcription": " Se preferir, posso apresentar uma explicação mais detalhada sobre esse assunto.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 7,
+      "audio": "gradtts_bigvgan_polly-camila_007.wav",
+      "reference": "Não se preocupe. Vamos resolver essa situação passo a passo até encontrar a melhor solução.",
+      "transcription": " Não se preocupe, vamos resolver essa situação passo a passo até encontrar a melhor solução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 8,
+      "audio": "gradtts_bigvgan_polly-camila_008.wav",
+      "reference": "Antes de continuar, confirme se todas as informações apresentadas estão corretas.",
+      "transcription": " Antes de continuar, confirme se todas as informações apresentadas estão corretas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 9,
+      "audio": "gradtts_bigvgan_polly-camila_009.wav",
+      "reference": "Caso tenha alguma dúvida durante o processo, basta perguntar que ficarei feliz em ajudar.",
+      "transcription": " Caso tenha alguma dúvida durante o processo, basta perguntar que ficarei feliz em ajudar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 10,
+      "audio": "gradtts_bigvgan_polly-camila_010.wav",
+      "reference": "Perfeito! Todas as configurações necessárias foram aplicadas corretamente e o sistema já está pronto para uso.",
+      "transcription": " Perfeito! Todas as configurações necessárias foram aplicadas corretamente e o sistema já está pronto para uso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 11,
+      "audio": "gradtts_bigvgan_polly-camila_011.wav",
+      "reference": "Posso repetir a explicação utilizando palavras mais simples, caso isso facilite o entendimento.",
+      "transcription": " Posso repetir a explicação utilizando palavras mais simples, caso isso facilite o entendimento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 12,
+      "audio": "gradtts_bigvgan_polly-camila_012.wav",
+      "reference": "Se desejar, também posso apresentar alguns exemplos práticos para ilustrar melhor esse conceito.",
+      "transcription": " Se desejar, também posso apresentar alguns exemplos práticos para ilustrar melhor esse conceito.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 13,
+      "audio": "gradtts_bigvgan_polly-camila_013.wav",
+      "reference": "Tudo foi executado conforme o planejado, sem interrupções ou mensagens de erro durante o processamento.",
+      "transcription": " Tudo foi executado conforme o planejado, sem interrupções ou mensagens de erro durante o processamento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 14,
+      "audio": "gradtts_bigvgan_polly-camila_014.wav",
+      "reference": "Vamos começar pela primeira etapa e avançar gradualmente até concluir toda a atividade proposta.",
+      "transcription": " Vamos começar pela primeira etapa e avançar gradualmente até concluir toda a atividade proposta.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 15,
+      "audio": "gradtts_bigvgan_polly-camila_015.wav",
+      "reference": "Os resultados obtidos até o momento indicam que o sistema está funcionando exatamente como esperado.",
+      "transcription": " Os resultados obtidos até o momento indicam que o sistema está funcionando exatamente como esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 16,
+      "audio": "gradtts_bigvgan_polly-camila_016.wav",
+      "reference": "Fique à vontade para interromper a qualquer momento caso deseje esclarecer algum detalhe adicional.",
+      "transcription": " Fique à vontade para interromper a qualquer momento caso deseje esclarecer algum detalhe adicional.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 17,
+      "audio": "gradtts_bigvgan_polly-camila_017.wav",
+      "reference": "Já finalizei todas as verificações solicitadas e posso apresentar um resumo completo dos resultados encontrados.",
+      "transcription": " Já finalizei todas as verificações solicitadas e posso apresentar um resumo completo dos resultados encontrados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 18,
+      "audio": "gradtts_bigvgan_polly-camila_018.wav",
+      "reference": "Ótimo! A conexão foi estabelecida com sucesso e todos os serviços necessários estão disponíveis novamente.",
+      "transcription": " Ótimo, a conexão foi estabelecida com sucesso e todos os serviços necessários estão disponíveis novamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 19,
+      "audio": "gradtts_bigvgan_polly-camila_019.wav",
+      "reference": "Assim que a próxima atualização estiver concluída, informarei imediatamente todas as alterações realizadas.",
+      "transcription": " Assim que a próxima atualização estiver concluída, informarei imediatamente todas as alterações realizadas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 20,
+      "audio": "gradtts_bigvgan_polly-camila_020.wav",
+      "reference": "Foi um prazer ajudar você. Sempre que precisar de novas informações ou esclarecimentos, estarei disponível para colaborar.",
+      "transcription": " Foi um prazer ajudar você. Sempre que precisar de novas informações ou esclarecimentos, estarei disponível para colaborar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 21,
+      "audio": "gradtts_bigvgan_polly-camila_021.wav",
+      "reference": "O sol começava a surgir lentamente atrás das montanhas enquanto uma leve névoa cobria os campos silenciosos ao redor da pequena cidade.",
+      "transcription": " O sol começava a surgir lentamente atrás das montanhas enquanto uma leve nevoa cobria os campos silenciosos ao redor da pequena cidade.",
+      "wer": 0.045454545454545456,
+      "cer": 0.007462686567164179
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 22,
+      "audio": "gradtts_bigvgan_polly-camila_022.wav",
+      "reference": "Durante a caminhada pelo parque, era possível ouvir o canto dos pássaros misturado ao som das folhas balançando suavemente com o vento.",
+      "transcription": " Durante a caminhada pelo parque, é possível ouvir o canto dos pássaros misturado ao som das folhas balançando suavemente com o vento.",
+      "wer": 0.045454545454545456,
+      "cer": 0.022556390977443608
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 23,
+      "audio": "gradtts_bigvgan_polly-camila_023.wav",
+      "reference": "Depois de alguns minutos de conversa, todos perceberam que a solução para o problema era muito mais simples do que imaginavam inicialmente.",
+      "transcription": " Depois de alguns minutos de conversa, todos perceberam que a solução para o problema era muito mais simples do que imaginavam inicialmente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 24,
+      "audio": "gradtts_bigvgan_polly-camila_024.wav",
+      "reference": "Ao chegar à biblioteca, Ana escolheu um livro sobre astronomia e passou boa parte da tarde explorando histórias fascinantes sobre o universo.",
+      "transcription": " Ao chegar à biblioteca, Anna escolheu um livro sobre astronomia e passou boa parte da tarde explorando histórias fascinantes sobre o Universo.",
+      "wer": 0.045454545454545456,
+      "cer": 0.007194244604316547
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 25,
+      "audio": "gradtts_bigvgan_polly-camila_025.wav",
+      "reference": "Enquanto observava a chuva pela janela, Pedro aproveitou o momento de tranquilidade para organizar suas ideias e planejar os próximos desafios.",
+      "transcription": " Enquanto observava a chuva pela janela, Pedro aproveitou o momento de tranquilidade para organizar suas ideias e planejar os próximos desafios.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 26,
+      "audio": "gradtts_bigvgan_polly-camila_026.wav",
+      "reference": "A praça estava movimentada naquela manhã, com crianças brincando, famílias caminhando e músicos animando o ambiente com apresentações ao ar livre.",
+      "transcription": " A praça estava movimentada naquela manhã, com crianças brincando, famílias caminhando e músicos animando o ambiente com apresentações ao ar livre.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 27,
+      "audio": "gradtts_bigvgan_polly-camila_027.wav",
+      "reference": "Assim que o trem deixou a estação, a paisagem começou a mudar lentamente, revelando montanhas, rios e pequenas comunidades espalhadas pelo caminho.",
+      "transcription": " Assim que o trem deixou a estação, a paisagem começou a mudar lentamente, revelando montanhas, rios e pequenas comunidades espalhadas pelo caminho.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 28,
+      "audio": "gradtts_bigvgan_polly-camila_028.wav",
+      "reference": "Depois de concluir todas as atividades do dia, a equipe reuniu-se para compartilhar experiências e discutir novas possibilidades para os próximos projetos.",
+      "transcription": " Depois de concluir todas as atividades do dia, a equipe reúne-se para compartilhar experiências e discutir novas possibilidades para os próximos projetos.",
+      "wer": 0.045454545454545456,
+      "cer": 0.019736842105263157
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 29,
+      "audio": "gradtts_bigvgan_polly-camila_029.wav",
+      "reference": "Durante a viagem, os passageiros aproveitaram o tempo para conversar, admirar a paisagem e registrar fotografias dos lugares mais interessantes.",
+      "transcription": " Durante a viagem, os passageiros aproveitaram o tempo para conversar, admirar a paisagem e registrar fotografias dos lugares mais interessantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 30,
+      "audio": "gradtts_bigvgan_polly-camila_030.wav",
+      "reference": "No início da noite, as luzes da cidade começaram a refletir sobre o rio, criando um cenário tranquilo e agradável para quem caminhava pela margem.",
+      "transcription": " No início da noite, as luzes da cidade começaram a refletir sobre o rio, criando um cenário tranquilo e agradável para quem caminhava pela margem.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 31,
+      "audio": "gradtts_bigvgan_polly-camila_031.wav",
+      "reference": "A professora iniciou a aula contando uma breve história que despertou a curiosidade dos alunos e tornou o restante da explicação muito mais envolvente.",
+      "transcription": " A professora iniciou a aula contando uma breve história que despertou a curiosidade dos alunos e tornou o restante da explicação muito mais envolvente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 32,
+      "audio": "gradtts_bigvgan_polly-camila_032.wav",
+      "reference": "Enquanto preparava o café da manhã, João observava pela janela o movimento das pessoas que começavam mais um dia de trabalho na cidade.",
+      "transcription": " Enquanto preparava o café da manhã, João observava pela janela o movimento das pessoas que começavam mais um dia de trabalho na cidade.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 33,
+      "audio": "gradtts_bigvgan_polly-camila_033.wav",
+      "reference": "O museu apresentava diferentes exposições distribuídas em várias salas, permitindo que os visitantes conhecessem obras de diferentes períodos históricos.",
+      "transcription": " O museu apresentava diferentes exposições distribuídas em várias salas, permitindo que os visitantes conhecessem obras de diferentes períodos históricos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 34,
+      "audio": "gradtts_bigvgan_polly-camila_034.wav",
+      "reference": "Após concluir o experimento, os pesquisadores analisaram cuidadosamente todos os resultados antes de iniciar a preparação da próxima etapa do estudo.",
+      "transcription": " Após concluir o experimento, os pesquisadores analisaram cuidadosamente todos os resultados antes de iniciar a preparação da próxima etapa do estudo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 35,
+      "audio": "gradtts_bigvgan_polly-camila_035.wav",
+      "reference": "Ao final da tarde, uma brisa agradável percorreu a praça enquanto as primeiras estrelas começavam a aparecer em um céu completamente limpo.",
+      "transcription": " Ao final da tarde, uma brisa agradável percorreu a praça enquanto as primeiras estrelas começavam a aparecer em um seu completamente limpo.",
+      "wer": 0.045454545454545456,
+      "cer": 0.014598540145985401
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 36,
+      "audio": "gradtts_bigvgan_polly-camila_036.wav",
+      "reference": "A sala era ampla, bem iluminada e possuía grandes janelas que permitiam a entrada abundante de luz natural durante toda a manhã.",
+      "transcription": " A sala era ampla, bem iluminada e possuía grandes janelas que permitiam a entrada abundante de luz natural durante toda a manhã.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 37,
+      "audio": "gradtts_bigvgan_polly-camila_037.wav",
+      "reference": "O jardim apresentava árvores altas, flores coloridas e caminhos de pedra cuidadosamente distribuídos entre pequenos lagos ornamentais.",
+      "transcription": " O jardim apresentava árvores altas, flores coloridas e caminhos de pedra cuidadosamente distribuídos entre pequenos lagos ornamentais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 38,
+      "audio": "gradtts_bigvgan_polly-camila_038.wav",
+      "reference": "A biblioteca reunia milhares de livros organizados em estantes de madeira, oferecendo um ambiente silencioso e bastante acolhedor para os leitores.",
+      "transcription": " A biblioteca reúne a milhares de livros organizados em estantes de madeira, oferecendo um ambiente silencioso e bastante acolhedor para os leitores.",
+      "wer": 0.09523809523809523,
+      "cer": 0.020689655172413793
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 39,
+      "audio": "gradtts_bigvgan_polly-camila_039.wav",
+      "reference": "O laboratório contava com equipamentos modernos, bancadas espaçosas e instrumentos cuidadosamente calibrados para os experimentos realizados diariamente.",
+      "transcription": " O laboratório contava com equipamentos modernos, bancadas espacosas e instrumentos cuidadosamente calibrados para os experimentos realizados diariamente.",
+      "wer": 0.058823529411764705,
+      "cer": 0.006622516556291391
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 40,
+      "audio": "gradtts_bigvgan_polly-camila_040.wav",
+      "reference": "A praia possuía areia clara, águas tranquilas e uma extensa faixa de vegetação preservada que tornava a paisagem ainda mais agradável.",
+      "transcription": " A praia possuía areia clara, águas tranquilas e uma extensa faixa de vegetação preservada que tornava a paisagem ainda mais agradável.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 41,
+      "audio": "gradtts_bigvgan_polly-camila_041.wav",
+      "reference": "O restaurante oferecia um ambiente confortável, iluminação suave e uma decoração elegante que valorizava a experiência dos clientes.",
+      "transcription": " O restaurante oferece um ambiente confortável, iluminação suave e uma decoração elegante que valorizava a experiência dos clientes.",
+      "wer": 0.05555555555555555,
+      "cer": 0.015384615384615385
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 42,
+      "audio": "gradtts_bigvgan_polly-camila_042.wav",
+      "reference": "A montanha era cercada por uma vegetação densa, trilhas bem sinalizadas e diversos pontos de observação com vistas panorâmicas da região.",
+      "transcription": " A montanha era cercada por uma vegetação densa, trilhas bem sinalizadas e diversos pontos de observação com vistas panorâmicas da região.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 43,
+      "audio": "gradtts_bigvgan_polly-camila_043.wav",
+      "reference": "O auditório dispunha de excelente acústica, cadeiras confortáveis e um sistema de iluminação projetado para diferentes tipos de apresentações.",
+      "transcription": " O auditório dispõe de excelente acústica, cadeiras confortáveis e um sistema de iluminação projetado para diferentes tipos de apresentações.",
+      "wer": 0.05263157894736842,
+      "cer": 0.02857142857142857
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 44,
+      "audio": "gradtts_bigvgan_polly-camila_044.wav",
+      "reference": "A cidade combinava edifícios modernos, praças arborizadas e ruas movimentadas, mantendo um equilíbrio harmonioso entre desenvolvimento e qualidade de vida.",
+      "transcription": " A cidade combinava edifícios modernos, praças arborizadas e ruas movimentadas, mantendo um equilíbrio harmonioso entre desenvolvimento e qualidade de vida.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 45,
+      "audio": "gradtts_bigvgan_polly-camila_045.wav",
+      "reference": "O escritório apresentava um espaço organizado, mesas amplas e equipamentos atualizados que favoreciam a realização das atividades diárias.",
+      "transcription": " O escritório apresentava um espaço organizado, mesas amplas e equipamentos atualizados que favoreciam a realização das atividades diárias.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 46,
+      "audio": "gradtts_bigvgan_polly-camila_046.wav",
+      "reference": "O céu permaneceu completamente limpo durante toda a tarde, permitindo observar o horizonte com grande nitidez e cores bastante intensas.",
+      "transcription": " O céu permaneceu completamente limpo durante toda a tarde, permitindo observar o horizonte com grande nitidez e cores bastante intensas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 47,
+      "audio": "gradtts_bigvgan_polly-camila_047.wav",
+      "reference": "O museu preservava obras de diferentes épocas em ambientes cuidadosamente preparados para garantir conforto aos visitantes e proteção ao acervo.",
+      "transcription": " O museu preservava obras de diferentes épocas em ambientes cuidadosamente preparados para garantir conforto aos visitantes e proteção ao acervo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 48,
+      "audio": "gradtts_bigvgan_polly-camila_048.wav",
+      "reference": "A trilha atravessava uma floresta silenciosa, riachos cristalinos e pequenas pontes de madeira construídas ao longo do percurso.",
+      "transcription": " A trilha atravessava uma floresta silenciosa, riachos cristalinos e pequenas pontes de madeira construídas ao longo do percurso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 49,
+      "audio": "gradtts_bigvgan_polly-camila_049.wav",
+      "reference": "O centro de pesquisa reunia profissionais de diferentes áreas, laboratórios especializados e infraestrutura adequada para o desenvolvimento de projetos científicos.",
+      "transcription": " O Centro de Pesquisa reúne a profissionais de diferentes áreas, laboratórios especializados e infraestrutura adequada para o desenvolvimento de projetos científicos.",
+      "wer": 0.1,
+      "cer": 0.018518518518518517
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 50,
+      "audio": "gradtts_bigvgan_polly-camila_050.wav",
+      "reference": "O sistema apresentou funcionamento estável, baixo consumo de recursos e desempenho consistente durante todo o período de avaliação experimental.",
+      "transcription": " O sistema apresentou funcionamento estável, baixo consumo de recursos e desempenho consistente durante todo o período de avaliação experimental.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 51,
+      "audio": "gradtts_bigvgan_polly-camila_051.wav",
+      "reference": "Você conseguiu concluir todas as tarefas previstas para hoje?",
+      "transcription": " Você conseguiu concluir todas as tarefas previstas para hoje?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 52,
+      "audio": "gradtts_bigvgan_polly-camila_052.wav",
+      "reference": "Como posso ajudar você da melhor maneira possível neste momento?",
+      "transcription": " Como posso ajudar você da melhor maneira possível neste momento?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 53,
+      "audio": "gradtts_bigvgan_polly-camila_053.wav",
+      "reference": "Qual foi o resultado obtido após a execução completa do experimento?",
+      "transcription": " Qual foi o resultado obtido após a execução completa do experimento?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 54,
+      "audio": "gradtts_bigvgan_polly-camila_054.wav",
+      "reference": "Você prefere iniciar os testes agora ou aguardar mais alguns minutos?",
+      "transcription": " Você prefere iniciar os testes agora ou aguardar mais alguns minutos?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 55,
+      "audio": "gradtts_bigvgan_polly-camila_055.wav",
+      "reference": "Será que todas as configurações foram aplicadas corretamente antes da inferência?",
+      "transcription": " Será que todas as configurações foram aplicadas corretamente antes da inferência?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 56,
+      "audio": "gradtts_bigvgan_polly-camila_056.wav",
+      "reference": "Podemos revisar os resultados mais uma vez antes de finalizar a análise?",
+      "transcription": " Podemos revisar os resultados mais uma vez antes de finalizar a análise?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 57,
+      "audio": "gradtts_bigvgan_polly-camila_057.wav",
+      "reference": "O sistema permaneceu estável durante toda a execução do benchmark?",
+      "transcription": " O sistema permaneceu estável durante toda a execução do benchmark.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 58,
+      "audio": "gradtts_bigvgan_polly-camila_058.wav",
+      "reference": "Você acredita que este modelo apresenta desempenho suficiente para aplicações em tempo real?",
+      "transcription": " Você acredita que este modelo apresenta desempenho suficiente para aplicações em tempo real?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 59,
+      "audio": "gradtts_bigvgan_polly-camila_059.wav",
+      "reference": "Existe alguma outra informação que possa tornar esta avaliação ainda mais completa?",
+      "transcription": " Existe alguma outra informação que possa tornar esta avaliação ainda mais completa?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 60,
+      "audio": "gradtts_bigvgan_polly-camila_060.wav",
+      "reference": "Depois de analisar todos os resultados, qual modelo apresentou o melhor equilíbrio entre qualidade e velocidade?",
+      "transcription": " Depois de analisar todos os resultados, qual modelo apresentou o melhor equilíbrio entre qualidade e velocidade?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 61,
+      "audio": "gradtts_bigvgan_polly-camila_061.wav",
+      "reference": "Excelente! Todos os testes foram concluídos com sucesso.",
+      "transcription": " Excelente! Todos os testes foram concluídos com sucesso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 62,
+      "audio": "gradtts_bigvgan_polly-camila_062.wav",
+      "reference": "Ótima notícia! O sistema funcionou exatamente como esperado.",
+      "transcription": " Ótima notícia! O sistema funcionou exatamente como esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 63,
+      "audio": "gradtts_bigvgan_polly-camila_063.wav",
+      "reference": "Perfeito! Agora podemos iniciar a próxima etapa da avaliação.",
+      "transcription": " Perfeito, agora podemos iniciar a próxima etapa da avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 64,
+      "audio": "gradtts_bigvgan_polly-camila_064.wav",
+      "reference": "Que resultado impressionante! O tempo de inferência ficou muito abaixo do esperado.",
+      "transcription": " Que resultado impressionante, o tempo de inferência ficou muito abaixo do esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 65,
+      "audio": "gradtts_bigvgan_polly-camila_065.wav",
+      "reference": "Finalmente! Todos os arquivos foram processados corretamente.",
+      "transcription": " Finalmente, todos os arquivos foram processados corretamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 66,
+      "audio": "gradtts_bigvgan_polly-camila_066.wav",
+      "reference": "Muito bem! A configuração foi aplicada sem apresentar qualquer problema.",
+      "transcription": " Muito bem, a configuração foi aplicada sem apresentar qualquer problema.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 67,
+      "audio": "gradtts_bigvgan_polly-camila_067.wav",
+      "reference": "Que ótimo! A conexão permaneceu estável durante toda a execução.",
+      "transcription": " Que ótimo! A conexão permaneceu estável durante toda a execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 68,
+      "audio": "gradtts_bigvgan_polly-camila_068.wav",
+      "reference": "Fantástico! Conseguimos concluir todas as medições previstas para este experimento.",
+      "transcription": " Fantástico! Conseguimos concluir todas as medições previstas para este experimento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 69,
+      "audio": "gradtts_bigvgan_polly-camila_069.wav",
+      "reference": "Parabéns! O benchmark foi executado com sucesso e sem interrupções.",
+      "transcription": " Parabéns, o benchmark foi executado com sucesso e sem interrupções.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 70,
+      "audio": "gradtts_bigvgan_polly-camila_070.wav",
+      "reference": "Excelente trabalho! Os resultados estão prontos para serem analisados e comparados.",
+      "transcription": " Excelente trabalho! Os resultados estão prontos para serem analisados e comparados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 71,
+      "audio": "gradtts_bigvgan_polly-camila_071.wav",
+      "reference": "O sistema registrou temperatura, pressão, velocidade, consumo de energia e utilização de memória durante toda a execução.",
+      "transcription": " O sistema registrou temperatura, pressão, velocidade, consumo de energia e utilização de memória durante toda a execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 72,
+      "audio": "gradtts_bigvgan_polly-camila_072.wav",
+      "reference": "Para concluir a instalação, verifique os arquivos, atualize as dependências, reinicie o sistema e execute novamente os testes.",
+      "transcription": " Para concluir a instalação, verifique os arquivos, atualize as dependências, reinicie o sistema e execute novamente os testes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 73,
+      "audio": "gradtts_bigvgan_polly-camila_073.wav",
+      "reference": "A mochila continha um notebook, um carregador, um caderno, uma garrafa de água e alguns documentos importantes.",
+      "transcription": " A mochila continha um notebook, um carregador, um caderno, uma garrafa de água e alguns documentos importantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 74,
+      "audio": "gradtts_bigvgan_polly-camila_074.wav",
+      "reference": "Durante a avaliação foram analisadas a qualidade da voz, a inteligibilidade, a naturalidade, a latência e o consumo de memória.",
+      "transcription": " Durante a avaliação foram analisadas a qualidade da voz, a inteligibilidade, a naturalidade, a latência e o consumo de memória.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 75,
+      "audio": "gradtts_bigvgan_polly-camila_075.wav",
+      "reference": "O café da manhã incluía frutas, pães, ovos, queijo, café, suco natural e iogurte.",
+      "transcription": " O café da manhã incluía frutas, pais, ovos, queijo, café, suco natural e iogurte.",
+      "wer": 0.07142857142857142,
+      "cer": 0.02666666666666667
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 76,
+      "audio": "gradtts_bigvgan_polly-camila_076.wav",
+      "reference": "O laboratório possuía computadores, placas de desenvolvimento, microfones, alto-falantes e diversos instrumentos de medição.",
+      "transcription": " O laboratório possuía computadores, placas de desenvolvimento, microfones, alto-falantes e diversos instrumentos de medição.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 77,
+      "audio": "gradtts_bigvgan_polly-camila_077.wav",
+      "reference": "Antes da apresentação, organize os slides, revise o roteiro, teste o projetor e confirme o funcionamento do áudio.",
+      "transcription": " Antes da apresentação, organize os laídes, revise o roteiro, teste o projetor e confirme o funcionamento do áudio.",
+      "wer": 0.05555555555555555,
+      "cer": 0.02727272727272727
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 78,
+      "audio": "gradtts_bigvgan_polly-camila_078.wav",
+      "reference": "A equipe era formada por engenheiros, pesquisadores, desenvolvedores, estudantes e especialistas em processamento de sinais.",
+      "transcription": " A equipe era formada por engenheiros, pesquisadores, desenvolvedores, estudantes e especialistas em processamento de sinais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 79,
+      "audio": "gradtts_bigvgan_polly-camila_079.wav",
+      "reference": "O experimento utilizou gravações em estúdio, textos cuidadosamente selecionados, modelos treinados previamente e métricas padronizadas de avaliação.",
+      "transcription": " O experimento utilizou gravações em estúdio, textos cuidadosamente selecionados, modelos treinados previamente e métricas padronizadas de avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 80,
+      "audio": "gradtts_bigvgan_polly-camila_080.wav",
+      "reference": "Durante a comparação foram considerados o tempo de inferência, o fator de tempo real, a qualidade perceptual, a inteligibilidade e a estabilidade dos modelos.",
+      "transcription": " Durante a comparação foram considerados o tempo de inferência, o fator de tempo real, a qualidade perceptual, a inteligibilidade e a estabilidade dos modelos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 81,
+      "audio": "gradtts_bigvgan_polly-camila_081.wav",
+      "reference": "Bem... acho que podemos tentar novamente sem alterar nenhuma configuração.",
+      "transcription": " Bem, acho que podemos tentar novamente sem alterar nenhuma configuração.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 82,
+      "audio": "gradtts_bigvgan_polly-camila_082.wav",
+      "reference": "Antes de continuar, por favor, confirme se todos os arquivos foram carregados corretamente.",
+      "transcription": " Antes de continuar, por favor, confirme se todos os arquivos foram carregados corretamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 83,
+      "audio": "gradtts_bigvgan_polly-camila_083.wav",
+      "reference": "Existem três etapas principais: preparação dos dados, síntese da fala e avaliação dos resultados.",
+      "transcription": " Existem três etapas principais, preparação dos dados, sintese da fala e avaliação dos resultados.",
+      "wer": 0.07142857142857142,
+      "cer": 0.010638297872340425
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 84,
+      "audio": "gradtts_bigvgan_polly-camila_084.wav",
+      "reference": "O procedimento foi concluído; agora basta analisar cuidadosamente as métricas obtidas.",
+      "transcription": " O procedimento foi concluído agora basta analisar cuidadosamente as métricas obtidas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 85,
+      "audio": "gradtts_bigvgan_polly-camila_085.wav",
+      "reference": "O resultado foi excelente — muito melhor do que imaginávamos no início do experimento.",
+      "transcription": " O resultado foi excelente e muito melhor do que imaginávamos no início do experimento.",
+      "wer": 0.07692307692307693,
+      "cer": 0.024096385542168676
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 86,
+      "audio": "gradtts_bigvgan_polly-camila_086.wav",
+      "reference": "Sim, exatamente! Esse foi o comportamento esperado durante toda a avaliação.",
+      "transcription": " Sim, exatamente, esse foi o comportamento esperado durante toda a avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 87,
+      "audio": "gradtts_bigvgan_polly-camila_087.wav",
+      "reference": "Enquanto o modelo processava a entrada, a equipe acompanhava, em tempo real, cada etapa da execução.",
+      "transcription": " Enquanto o modelo processava a entrada, a equipe acompanhava, em tempo real, cada etapa da execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 88,
+      "audio": "gradtts_bigvgan_polly-camila_088.wav",
+      "reference": "Primeiro verifique a configuração, depois execute o benchmark e, finalmente, compare todos os resultados.",
+      "transcription": " Primeiro verifique a configuração, depois execute o benchmark e, finalmente, compare todos os resultados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 89,
+      "audio": "gradtts_bigvgan_polly-camila_089.wav",
+      "reference": "O sistema respondeu rapidamente, sem interrupções, sem atrasos e sem apresentar qualquer mensagem de erro.",
+      "transcription": " O sistema respondeu rapidamente, sem interrupções, sem atrasos e sem apresentar qualquer mensagem de erro.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 90,
+      "audio": "gradtts_bigvgan_polly-camila_090.wav",
+      "reference": "Depois de revisar cuidadosamente todas as informações, podemos prosseguir com segurança para a próxima etapa da análise.",
+      "transcription": " Depois de revisar cuidadosamente todas as informações, podemos prosseguir com segurança para a próxima etapa da análise.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 91,
+      "audio": "gradtts_bigvgan_polly-camila_091.wav",
+      "reference": "Enquanto caminhava tranquilamente pelo parque durante o início da manhã, Ana observava as árvores refletidas sobre a água do lago e aproveitava o silêncio para organizar os planos que havia feito para os próximos dias.",
+      "transcription": " Enquanto caminhava tranquilamente pelo parque durante o início da manhã, Ana observava as árvores refletidas sobre a água do lago e aproveitava o silêncio para organizar os planos que havia feito para os próximos dias.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 92,
+      "audio": "gradtts_bigvgan_polly-camila_092.wav",
+      "reference": "Depois de concluir todas as atividades previstas para aquela tarde, a equipe reuniu-se novamente para discutir os resultados obtidos, identificar possíveis melhorias e definir as próximas etapas do projeto.",
+      "transcription": " Depois de concluir todas as atividades previstas para aquela tarde, a equipe reúne-se novamente para discutir os resultados obtidos, identificar possíveis melhorias e definir as próximas etapas do projeto.",
+      "wer": 0.034482758620689655,
+      "cer": 0.01485148514851485
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 93,
+      "audio": "gradtts_bigvgan_polly-camila_093.wav",
+      "reference": "Durante a viagem de trem, os passageiros observavam a paisagem pela janela enquanto conversavam sobre diferentes assuntos, compartilhavam histórias e registravam fotografias dos lugares mais interessantes.",
+      "transcription": " Durante a viagem de trem, os passageiros observavam a paisagem pela janela enquanto conversavam sobre diferentes assuntos, compartilhavam histórias e registravam fotografias dos lugares mais interessantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 94,
+      "audio": "gradtts_bigvgan_polly-camila_094.wav",
+      "reference": "Ao visitar o museu pela primeira vez, Carlos percebeu que cada sala apresentava detalhes únicos sobre diferentes períodos da história, tornando toda a experiência muito mais interessante do que imaginava.",
+      "transcription": " Ao visitar o museu pela primeira vez, Carlos percebeu que cada sala apresentava detalhes únicos sobre diferentes períodos da história, tornando toda a experiência muito mais interessante do que imaginava.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 95,
+      "audio": "gradtts_bigvgan_polly-camila_095.wav",
+      "reference": "Assim que a chuva terminou, as famílias voltaram a ocupar a praça, as crianças retomaram as brincadeiras e o ambiente recuperou rapidamente o movimento tranquilo característico das tardes de domingo.",
+      "transcription": " Assim que a chuva terminou, as famílias voltaram a ocupar a praça, as crianças retomaram as brincadeiras e o ambiente recuperou rapidamente o movimento tranquilo característico das tardes de domingo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 96,
+      "audio": "gradtts_bigvgan_polly-camila_096.wav",
+      "reference": "Enquanto preparava cuidadosamente o jantar, Mariana escutava uma música tranquila ao fundo, observava a luz do entardecer entrando pela janela e aproveitava aquele momento de calma para relaxar.",
+      "transcription": " Enquanto preparava cuidadosamente o jantar, Mariana escutava uma música tranquila ao fundo, observava a luz do entardecer entrando pela janela e aproveitava aquele momento de calma para relaxar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 97,
+      "audio": "gradtts_bigvgan_polly-camila_097.wav",
+      "reference": "Depois de vários meses de planejamento, treinamento e testes experimentais, os pesquisadores finalmente conseguiram desenvolver um sistema estável que atendeu aos objetivos definidos no início do estudo.",
+      "transcription": " Depois de vários meses de planejamento, treinamento e testes experimentais, os pesquisadores finalmente conseguiram desenvolver um sistema estável que atendeu aos objetivos definidos no início do estudo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 98,
+      "audio": "gradtts_bigvgan_polly-camila_098.wav",
+      "reference": "Ao longo da apresentação, o professor explicou cada conceito de maneira clara, respondeu às dúvidas dos alunos e utilizou exemplos práticos para tornar o conteúdo mais acessível e fácil de compreender.",
+      "transcription": " Ao longo da apresentação, o professor explicou cada conceito de maneira clara, respondeu as dúvidas dos alunos e utilizou exemplos práticos para tornar o conteúdo mais acessível e fácil de compreender.",
+      "wer": 0.03225806451612903,
+      "cer": 0.005050505050505051
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 99,
+      "audio": "gradtts_bigvgan_polly-camila_099.wav",
+      "reference": "Mesmo após várias horas de utilização contínua, o sistema permaneceu estável, respondeu rapidamente às solicitações dos usuários e manteve o mesmo nível de desempenho observado durante os testes iniciais.",
+      "transcription": " Mesmo após várias horas de utilização continua, o sistema permaneceu estável, respondeu rapidamente às solicitações dos usuários e manteve o mesmo nível de desempenho observado durante os testes iniciais.",
+      "wer": 0.034482758620689655,
+      "cer": 0.004975124378109453
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "id": 100,
+      "audio": "gradtts_bigvgan_polly-camila_100.wav",
+      "reference": "Enquanto o sol desaparecia lentamente no horizonte e as primeiras luzes da cidade começavam a se acender, as pessoas caminhavam tranquilamente pelas ruas aproveitando o clima agradável do início da noite.",
+      "transcription": " Enquanto o sol desaparecia lentamente no horizonte e as primeiras luzes da cidade começavam a se acender, as pessoas caminhavam tranquilamente pelas ruas aproveitando o queima agradável do início da noite.",
+      "wer": 0.03225806451612903,
+      "cer": 0.01485148514851485
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 1,
+      "audio": "gradtts_hifigan_polly-camila_001.wav",
+      "reference": "Olá! Como posso ajudar você hoje?",
+      "transcription": " Olá, como posso ajudar você hoje?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 2,
+      "audio": "gradtts_hifigan_polly-camila_002.wav",
+      "reference": "Claro, vou procurar essa informação e retornar com a resposta em instantes.",
+      "transcription": " Claro, vou procurar essa informação e retornar com a resposta em instantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 3,
+      "audio": "gradtts_hifigan_polly-camila_003.wav",
+      "reference": "Tudo certo! O processamento foi concluído com sucesso e já está disponível para consulta.",
+      "transcription": " Tudo certo, o processamento foi concluído com sucesso e já está disponível para consulta.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 4,
+      "audio": "gradtts_hifigan_polly-camila_004.wav",
+      "reference": "Sem problemas. Posso explicar cada etapa do procedimento de maneira simples e objetiva.",
+      "transcription": " Sem problemas, posso explicar cada etapa do procedimento de maneira simples e objetiva.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 5,
+      "audio": "gradtts_hifigan_polly-camila_005.wav",
+      "reference": "Obrigado por aguardar. Encontrei exatamente o que você estava procurando.",
+      "transcription": " Obrigado por aguardar, encontrei exatamente o que você estava procurando.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 6,
+      "audio": "gradtts_hifigan_polly-camila_006.wav",
+      "reference": "Se preferir, posso apresentar uma explicação mais detalhada sobre esse assunto.",
+      "transcription": " Se preferir, posso apresentar uma explicação mais detalhada sobre esse assunto.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 7,
+      "audio": "gradtts_hifigan_polly-camila_007.wav",
+      "reference": "Não se preocupe. Vamos resolver essa situação passo a passo até encontrar a melhor solução.",
+      "transcription": " Não se preocupe, vamos resolver essa situação passo a passo até encontrar a melhor solução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 8,
+      "audio": "gradtts_hifigan_polly-camila_008.wav",
+      "reference": "Antes de continuar, confirme se todas as informações apresentadas estão corretas.",
+      "transcription": " Antes de continuar, confirme se todas as informações apresentadas estão corretas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 9,
+      "audio": "gradtts_hifigan_polly-camila_009.wav",
+      "reference": "Caso tenha alguma dúvida durante o processo, basta perguntar que ficarei feliz em ajudar.",
+      "transcription": " Caso tenha alguma dúvida durante o processo, basta perguntar que ficarei feliz em ajudar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 10,
+      "audio": "gradtts_hifigan_polly-camila_010.wav",
+      "reference": "Perfeito! Todas as configurações necessárias foram aplicadas corretamente e o sistema já está pronto para uso.",
+      "transcription": " Perfeito! Todas as configurações necessárias foram aplicadas corretamente e o sistema já está pronto para uso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 11,
+      "audio": "gradtts_hifigan_polly-camila_011.wav",
+      "reference": "Posso repetir a explicação utilizando palavras mais simples, caso isso facilite o entendimento.",
+      "transcription": " Posso repetir a explicação utilizando palavras mais simples, caso isso facilite o entendimento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 12,
+      "audio": "gradtts_hifigan_polly-camila_012.wav",
+      "reference": "Se desejar, também posso apresentar alguns exemplos práticos para ilustrar melhor esse conceito.",
+      "transcription": " Se desejar, também posso apresentar alguns exemplos práticos para ilustrar melhor esse conceito.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 13,
+      "audio": "gradtts_hifigan_polly-camila_013.wav",
+      "reference": "Tudo foi executado conforme o planejado, sem interrupções ou mensagens de erro durante o processamento.",
+      "transcription": " Tudo foi executado conforme o planejado, sem interrupções ou mensagens de erro durante o processamento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 14,
+      "audio": "gradtts_hifigan_polly-camila_014.wav",
+      "reference": "Vamos começar pela primeira etapa e avançar gradualmente até concluir toda a atividade proposta.",
+      "transcription": " Vamos começar pela primeira etapa e avançar gradualmente até concluir toda a atividade proposta.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 15,
+      "audio": "gradtts_hifigan_polly-camila_015.wav",
+      "reference": "Os resultados obtidos até o momento indicam que o sistema está funcionando exatamente como esperado.",
+      "transcription": " Os resultados obtidos até o momento indicam que o sistema está funcionando exatamente como esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 16,
+      "audio": "gradtts_hifigan_polly-camila_016.wav",
+      "reference": "Fique à vontade para interromper a qualquer momento caso deseje esclarecer algum detalhe adicional.",
+      "transcription": " Fique à vontade para interromper a qualquer momento caso deseje esclarecer algum detalhe adicional.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 17,
+      "audio": "gradtts_hifigan_polly-camila_017.wav",
+      "reference": "Já finalizei todas as verificações solicitadas e posso apresentar um resumo completo dos resultados encontrados.",
+      "transcription": " Já finalizei todas as verificações solicitadas e posso apresentar um resumo completo dos resultados encontrados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 18,
+      "audio": "gradtts_hifigan_polly-camila_018.wav",
+      "reference": "Ótimo! A conexão foi estabelecida com sucesso e todos os serviços necessários estão disponíveis novamente.",
+      "transcription": " Ótimo, a conexão foi estabelecida com sucesso e todos os serviços necessários estão disponíveis novamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 19,
+      "audio": "gradtts_hifigan_polly-camila_019.wav",
+      "reference": "Assim que a próxima atualização estiver concluída, informarei imediatamente todas as alterações realizadas.",
+      "transcription": " Assim que a próxima atualização estiver concluída, informarei imediatamente todas as alterações realizadas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 20,
+      "audio": "gradtts_hifigan_polly-camila_020.wav",
+      "reference": "Foi um prazer ajudar você. Sempre que precisar de novas informações ou esclarecimentos, estarei disponível para colaborar.",
+      "transcription": " Foi um prazer ajudar você. Sempre que precisar de novas informações ou esclarecimentos, estarei disponível para colaborar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 21,
+      "audio": "gradtts_hifigan_polly-camila_021.wav",
+      "reference": "O sol começava a surgir lentamente atrás das montanhas enquanto uma leve névoa cobria os campos silenciosos ao redor da pequena cidade.",
+      "transcription": " O sol começava a surgir lentamente atrás das montanhas enquanto uma leve nevoa cobria os campos silenciosos ao redor da pequena cidade.",
+      "wer": 0.045454545454545456,
+      "cer": 0.007462686567164179
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 22,
+      "audio": "gradtts_hifigan_polly-camila_022.wav",
+      "reference": "Durante a caminhada pelo parque, era possível ouvir o canto dos pássaros misturado ao som das folhas balançando suavemente com o vento.",
+      "transcription": " Durante a caminhada pelo parque, é possível ouvir o canto dos pássaros misturado ao som das folhas balançando suavemente com o vento.",
+      "wer": 0.045454545454545456,
+      "cer": 0.022556390977443608
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 23,
+      "audio": "gradtts_hifigan_polly-camila_023.wav",
+      "reference": "Depois de alguns minutos de conversa, todos perceberam que a solução para o problema era muito mais simples do que imaginavam inicialmente.",
+      "transcription": " Depois de alguns minutos de conversa, todos perceberam que a solução para o problema era muito mais simples do que imaginavam inicialmente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 24,
+      "audio": "gradtts_hifigan_polly-camila_024.wav",
+      "reference": "Ao chegar à biblioteca, Ana escolheu um livro sobre astronomia e passou boa parte da tarde explorando histórias fascinantes sobre o universo.",
+      "transcription": " Ao chegar à biblioteca, Anna escolheu um livro sobre astronomia e passou boa parte da tarde explorando histórias fascinantes sobre o Universo.",
+      "wer": 0.045454545454545456,
+      "cer": 0.007194244604316547
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 25,
+      "audio": "gradtts_hifigan_polly-camila_025.wav",
+      "reference": "Enquanto observava a chuva pela janela, Pedro aproveitou o momento de tranquilidade para organizar suas ideias e planejar os próximos desafios.",
+      "transcription": " Enquanto observava a chuva pela janela, Pedro aproveitou o momento de tranquilidade para organizar suas ideias e planejar os próximos desafios.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 26,
+      "audio": "gradtts_hifigan_polly-camila_026.wav",
+      "reference": "A praça estava movimentada naquela manhã, com crianças brincando, famílias caminhando e músicos animando o ambiente com apresentações ao ar livre.",
+      "transcription": " A praça estava movimentada naquela manhã, com crianças brincando, famílias caminhando e músicos animando o ambiente com apresentações ao ar livre.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 27,
+      "audio": "gradtts_hifigan_polly-camila_027.wav",
+      "reference": "Assim que o trem deixou a estação, a paisagem começou a mudar lentamente, revelando montanhas, rios e pequenas comunidades espalhadas pelo caminho.",
+      "transcription": " Assim que o trem deixou a estação, a paisagem começou a mudar lentamente, revelando montanhas, rios e pequenas comunidades espalhadas pelo caminho.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 28,
+      "audio": "gradtts_hifigan_polly-camila_028.wav",
+      "reference": "Depois de concluir todas as atividades do dia, a equipe reuniu-se para compartilhar experiências e discutir novas possibilidades para os próximos projetos.",
+      "transcription": " Depois de concluir todas as atividades do dia, a equipe reúne-se para compartilhar experiências e discutir novas possibilidades para os próximos projetos.",
+      "wer": 0.045454545454545456,
+      "cer": 0.019736842105263157
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 29,
+      "audio": "gradtts_hifigan_polly-camila_029.wav",
+      "reference": "Durante a viagem, os passageiros aproveitaram o tempo para conversar, admirar a paisagem e registrar fotografias dos lugares mais interessantes.",
+      "transcription": " Durante a viagem, os passageiros aproveitaram o tempo para conversar, admirar a paisagem e registrar fotografias dos lugares mais interessantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 30,
+      "audio": "gradtts_hifigan_polly-camila_030.wav",
+      "reference": "No início da noite, as luzes da cidade começaram a refletir sobre o rio, criando um cenário tranquilo e agradável para quem caminhava pela margem.",
+      "transcription": " No início da noite, as luzes da cidade começaram a refletir sobre o rio, criando um cenário tranquilo e agradável para quem caminhava pela margem.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 31,
+      "audio": "gradtts_hifigan_polly-camila_031.wav",
+      "reference": "A professora iniciou a aula contando uma breve história que despertou a curiosidade dos alunos e tornou o restante da explicação muito mais envolvente.",
+      "transcription": " A professora iniciou a aula contando uma breve história que despertou a curiosidade dos alunos e tornou o restante da explicação muito mais envolvente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 32,
+      "audio": "gradtts_hifigan_polly-camila_032.wav",
+      "reference": "Enquanto preparava o café da manhã, João observava pela janela o movimento das pessoas que começavam mais um dia de trabalho na cidade.",
+      "transcription": " Enquanto preparava o café da manhã, João observava pela janela o movimento das pessoas que começavam mais um dia de trabalho na cidade.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 33,
+      "audio": "gradtts_hifigan_polly-camila_033.wav",
+      "reference": "O museu apresentava diferentes exposições distribuídas em várias salas, permitindo que os visitantes conhecessem obras de diferentes períodos históricos.",
+      "transcription": " O museu apresentava diferentes exposições distribuídas em várias salas, permitindo que os visitantes conhecessem obras de diferentes períodos históricos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 34,
+      "audio": "gradtts_hifigan_polly-camila_034.wav",
+      "reference": "Após concluir o experimento, os pesquisadores analisaram cuidadosamente todos os resultados antes de iniciar a preparação da próxima etapa do estudo.",
+      "transcription": " Após concluir o experimento, os pesquisadores analisaram cuidadosamente todos os resultados antes de iniciar a preparação da próxima etapa do estudo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 35,
+      "audio": "gradtts_hifigan_polly-camila_035.wav",
+      "reference": "Ao final da tarde, uma brisa agradável percorreu a praça enquanto as primeiras estrelas começavam a aparecer em um céu completamente limpo.",
+      "transcription": " Ao final da tarde, uma brisa agradável percorreu a praça enquanto as primeiras estrelas começavam a aparecer em um seu completamente limpo.",
+      "wer": 0.045454545454545456,
+      "cer": 0.014598540145985401
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 36,
+      "audio": "gradtts_hifigan_polly-camila_036.wav",
+      "reference": "A sala era ampla, bem iluminada e possuía grandes janelas que permitiam a entrada abundante de luz natural durante toda a manhã.",
+      "transcription": " A sala era ampla, bem iluminada e possuía grandes janelas que permitiam a entrada abundante de luz natural durante toda a manhã.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 37,
+      "audio": "gradtts_hifigan_polly-camila_037.wav",
+      "reference": "O jardim apresentava árvores altas, flores coloridas e caminhos de pedra cuidadosamente distribuídos entre pequenos lagos ornamentais.",
+      "transcription": " O jardim apresentava árvores altas, flores coloridas e caminhos de pedra cuidadosamente distribuídos entre pequenos lagos ornamentais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 38,
+      "audio": "gradtts_hifigan_polly-camila_038.wav",
+      "reference": "A biblioteca reunia milhares de livros organizados em estantes de madeira, oferecendo um ambiente silencioso e bastante acolhedor para os leitores.",
+      "transcription": " A biblioteca reúne a milhares de livros organizados em estantes de madeira, oferecendo um ambiente silencioso e bastante acolhedor para os leitores.",
+      "wer": 0.09523809523809523,
+      "cer": 0.020689655172413793
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 39,
+      "audio": "gradtts_hifigan_polly-camila_039.wav",
+      "reference": "O laboratório contava com equipamentos modernos, bancadas espaçosas e instrumentos cuidadosamente calibrados para os experimentos realizados diariamente.",
+      "transcription": " O laboratório contava com equipamentos modernos, bancadas espacosas e instrumentos cuidadosamente calibrados para os experimentos realizados diariamente.",
+      "wer": 0.058823529411764705,
+      "cer": 0.006622516556291391
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 40,
+      "audio": "gradtts_hifigan_polly-camila_040.wav",
+      "reference": "A praia possuía areia clara, águas tranquilas e uma extensa faixa de vegetação preservada que tornava a paisagem ainda mais agradável.",
+      "transcription": " A praia possuía areia clara, águas tranquilas e uma extensa faixa de vegetação preservada que tornava a paisagem ainda mais agradável.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 41,
+      "audio": "gradtts_hifigan_polly-camila_041.wav",
+      "reference": "O restaurante oferecia um ambiente confortável, iluminação suave e uma decoração elegante que valorizava a experiência dos clientes.",
+      "transcription": " O restaurante oferece um ambiente confortável, iluminação suave e uma decoração elegante que valorizava a experiência dos clientes.",
+      "wer": 0.05555555555555555,
+      "cer": 0.015384615384615385
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 42,
+      "audio": "gradtts_hifigan_polly-camila_042.wav",
+      "reference": "A montanha era cercada por uma vegetação densa, trilhas bem sinalizadas e diversos pontos de observação com vistas panorâmicas da região.",
+      "transcription": " A montanha era cercada por uma vegetação densa, trilhas bem sinalizadas e diversos pontos de observação com vistas panorâmicas da região.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 43,
+      "audio": "gradtts_hifigan_polly-camila_043.wav",
+      "reference": "O auditório dispunha de excelente acústica, cadeiras confortáveis e um sistema de iluminação projetado para diferentes tipos de apresentações.",
+      "transcription": " O auditório dispõe de excelente acústica, cadeiras confortáveis e um sistema de iluminação projetado para diferentes tipos de apresentações.",
+      "wer": 0.05263157894736842,
+      "cer": 0.02857142857142857
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 44,
+      "audio": "gradtts_hifigan_polly-camila_044.wav",
+      "reference": "A cidade combinava edifícios modernos, praças arborizadas e ruas movimentadas, mantendo um equilíbrio harmonioso entre desenvolvimento e qualidade de vida.",
+      "transcription": " A cidade combinava edifícios modernos, praças arborizadas e ruas movimentadas, mantendo um equilíbrio harmonioso entre desenvolvimento e qualidade de vida.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 45,
+      "audio": "gradtts_hifigan_polly-camila_045.wav",
+      "reference": "O escritório apresentava um espaço organizado, mesas amplas e equipamentos atualizados que favoreciam a realização das atividades diárias.",
+      "transcription": " O escritório apresentava um espaço organizado, mesas amplas e equipamentos atualizados que favoreciam a realização das atividades diárias.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 46,
+      "audio": "gradtts_hifigan_polly-camila_046.wav",
+      "reference": "O céu permaneceu completamente limpo durante toda a tarde, permitindo observar o horizonte com grande nitidez e cores bastante intensas.",
+      "transcription": " O céu permaneceu completamente limpo durante toda a tarde, permitindo observar o horizonte com grande nitidez e cores bastante intensas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 47,
+      "audio": "gradtts_hifigan_polly-camila_047.wav",
+      "reference": "O museu preservava obras de diferentes épocas em ambientes cuidadosamente preparados para garantir conforto aos visitantes e proteção ao acervo.",
+      "transcription": " O museu preservava obras de diferentes épocas em ambientes cuidadosamente preparados para garantir conforto aos visitantes e proteção ao acervo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 48,
+      "audio": "gradtts_hifigan_polly-camila_048.wav",
+      "reference": "A trilha atravessava uma floresta silenciosa, riachos cristalinos e pequenas pontes de madeira construídas ao longo do percurso.",
+      "transcription": " A trilha atravessava uma floresta silenciosa, riachos cristalinos e pequenas pontes de madeira construídas ao longo do percurso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 49,
+      "audio": "gradtts_hifigan_polly-camila_049.wav",
+      "reference": "O centro de pesquisa reunia profissionais de diferentes áreas, laboratórios especializados e infraestrutura adequada para o desenvolvimento de projetos científicos.",
+      "transcription": " O Centro de Pesquisa reúne a profissionais de diferentes áreas, laboratórios especializados e infraestrutura adequada para o desenvolvimento de projetos científicos.",
+      "wer": 0.1,
+      "cer": 0.018518518518518517
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 50,
+      "audio": "gradtts_hifigan_polly-camila_050.wav",
+      "reference": "O sistema apresentou funcionamento estável, baixo consumo de recursos e desempenho consistente durante todo o período de avaliação experimental.",
+      "transcription": " O sistema apresentou funcionamento estável, baixo consumo de recursos e desempenho consistente durante todo o período de avaliação experimental.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 51,
+      "audio": "gradtts_hifigan_polly-camila_051.wav",
+      "reference": "Você conseguiu concluir todas as tarefas previstas para hoje?",
+      "transcription": " Você conseguiu concluir todas as tarefas previstas para hoje?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 52,
+      "audio": "gradtts_hifigan_polly-camila_052.wav",
+      "reference": "Como posso ajudar você da melhor maneira possível neste momento?",
+      "transcription": " Como posso ajudar você da melhor maneira possível neste momento?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 53,
+      "audio": "gradtts_hifigan_polly-camila_053.wav",
+      "reference": "Qual foi o resultado obtido após a execução completa do experimento?",
+      "transcription": " Qual foi o resultado obtido após a execução completa do experimento?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 54,
+      "audio": "gradtts_hifigan_polly-camila_054.wav",
+      "reference": "Você prefere iniciar os testes agora ou aguardar mais alguns minutos?",
+      "transcription": " Você prefere iniciar os testes agora ou aguardar mais alguns minutos?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 55,
+      "audio": "gradtts_hifigan_polly-camila_055.wav",
+      "reference": "Será que todas as configurações foram aplicadas corretamente antes da inferência?",
+      "transcription": " Será que todas as configurações foram aplicadas corretamente antes da inferência?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 56,
+      "audio": "gradtts_hifigan_polly-camila_056.wav",
+      "reference": "Podemos revisar os resultados mais uma vez antes de finalizar a análise?",
+      "transcription": " Podemos revisar os resultados mais uma vez antes de finalizar a análise?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 57,
+      "audio": "gradtts_hifigan_polly-camila_057.wav",
+      "reference": "O sistema permaneceu estável durante toda a execução do benchmark?",
+      "transcription": " O sistema permaneceu estável durante toda a execução do benchmark.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 58,
+      "audio": "gradtts_hifigan_polly-camila_058.wav",
+      "reference": "Você acredita que este modelo apresenta desempenho suficiente para aplicações em tempo real?",
+      "transcription": " Você acredita que este modelo apresenta desempenho suficiente para aplicações em tempo real?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 59,
+      "audio": "gradtts_hifigan_polly-camila_059.wav",
+      "reference": "Existe alguma outra informação que possa tornar esta avaliação ainda mais completa?",
+      "transcription": " Existe alguma outra informação que possa tornar esta avaliação ainda mais completa?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 60,
+      "audio": "gradtts_hifigan_polly-camila_060.wav",
+      "reference": "Depois de analisar todos os resultados, qual modelo apresentou o melhor equilíbrio entre qualidade e velocidade?",
+      "transcription": " Depois de analisar todos os resultados, qual modelo apresentou o melhor equilíbrio entre qualidade e velocidade?",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 61,
+      "audio": "gradtts_hifigan_polly-camila_061.wav",
+      "reference": "Excelente! Todos os testes foram concluídos com sucesso.",
+      "transcription": " Excelente! Todos os testes foram concluídos com sucesso.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 62,
+      "audio": "gradtts_hifigan_polly-camila_062.wav",
+      "reference": "Ótima notícia! O sistema funcionou exatamente como esperado.",
+      "transcription": " Ótima notícia! O sistema funcionou exatamente como esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 63,
+      "audio": "gradtts_hifigan_polly-camila_063.wav",
+      "reference": "Perfeito! Agora podemos iniciar a próxima etapa da avaliação.",
+      "transcription": " Perfeito, agora podemos iniciar a próxima etapa da avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 64,
+      "audio": "gradtts_hifigan_polly-camila_064.wav",
+      "reference": "Que resultado impressionante! O tempo de inferência ficou muito abaixo do esperado.",
+      "transcription": " Que resultado impressionante, o tempo de inferência ficou muito abaixo do esperado.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 65,
+      "audio": "gradtts_hifigan_polly-camila_065.wav",
+      "reference": "Finalmente! Todos os arquivos foram processados corretamente.",
+      "transcription": " Finalmente, todos os arquivos foram processados corretamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 66,
+      "audio": "gradtts_hifigan_polly-camila_066.wav",
+      "reference": "Muito bem! A configuração foi aplicada sem apresentar qualquer problema.",
+      "transcription": " Muito bem, a configuração foi aplicada sem apresentar qualquer problema.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 67,
+      "audio": "gradtts_hifigan_polly-camila_067.wav",
+      "reference": "Que ótimo! A conexão permaneceu estável durante toda a execução.",
+      "transcription": " Que ótimo! A conexão permaneceu estável durante toda a execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 68,
+      "audio": "gradtts_hifigan_polly-camila_068.wav",
+      "reference": "Fantástico! Conseguimos concluir todas as medições previstas para este experimento.",
+      "transcription": " Fantástico! Conseguimos concluir todas as medições previstas para este experimento.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 69,
+      "audio": "gradtts_hifigan_polly-camila_069.wav",
+      "reference": "Parabéns! O benchmark foi executado com sucesso e sem interrupções.",
+      "transcription": " Parabéns, o benchmark foi executado com sucesso e sem interrupções.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 70,
+      "audio": "gradtts_hifigan_polly-camila_070.wav",
+      "reference": "Excelente trabalho! Os resultados estão prontos para serem analisados e comparados.",
+      "transcription": " Excelente trabalho! Os resultados estão prontos para serem analisados e comparados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 71,
+      "audio": "gradtts_hifigan_polly-camila_071.wav",
+      "reference": "O sistema registrou temperatura, pressão, velocidade, consumo de energia e utilização de memória durante toda a execução.",
+      "transcription": " O sistema registrou temperatura, pressão, velocidade, consumo de energia e utilização de memória durante toda a execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 72,
+      "audio": "gradtts_hifigan_polly-camila_072.wav",
+      "reference": "Para concluir a instalação, verifique os arquivos, atualize as dependências, reinicie o sistema e execute novamente os testes.",
+      "transcription": " Para concluir a instalação, verifique os arquivos, atualize as dependências, reinicie o sistema e execute novamente os testes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 73,
+      "audio": "gradtts_hifigan_polly-camila_073.wav",
+      "reference": "A mochila continha um notebook, um carregador, um caderno, uma garrafa de água e alguns documentos importantes.",
+      "transcription": " A mochila continha um notebook, um carregador, um caderno, uma garrafa de água e alguns documentos importantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 74,
+      "audio": "gradtts_hifigan_polly-camila_074.wav",
+      "reference": "Durante a avaliação foram analisadas a qualidade da voz, a inteligibilidade, a naturalidade, a latência e o consumo de memória.",
+      "transcription": " Durante a avaliação foram analisadas a qualidade da voz, a inteligibilidade, a naturalidade, a latência e o consumo de memória.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 75,
+      "audio": "gradtts_hifigan_polly-camila_075.wav",
+      "reference": "O café da manhã incluía frutas, pães, ovos, queijo, café, suco natural e iogurte.",
+      "transcription": " O café da manhã incluía frutas, pais, ovos, queijo, café, suco natural e iogurte.",
+      "wer": 0.07142857142857142,
+      "cer": 0.02666666666666667
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 76,
+      "audio": "gradtts_hifigan_polly-camila_076.wav",
+      "reference": "O laboratório possuía computadores, placas de desenvolvimento, microfones, alto-falantes e diversos instrumentos de medição.",
+      "transcription": " O laboratório possuía computadores, placas de desenvolvimento, microfones, alto-falantes e diversos instrumentos de medição.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 77,
+      "audio": "gradtts_hifigan_polly-camila_077.wav",
+      "reference": "Antes da apresentação, organize os slides, revise o roteiro, teste o projetor e confirme o funcionamento do áudio.",
+      "transcription": " Antes da apresentação, organize os laídes, revise o roteiro, teste o projetor e confirme o funcionamento do áudio.",
+      "wer": 0.05555555555555555,
+      "cer": 0.02727272727272727
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 78,
+      "audio": "gradtts_hifigan_polly-camila_078.wav",
+      "reference": "A equipe era formada por engenheiros, pesquisadores, desenvolvedores, estudantes e especialistas em processamento de sinais.",
+      "transcription": " A equipe era formada por engenheiros, pesquisadores, desenvolvedores, estudantes e especialistas em processamento de sinais.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 79,
+      "audio": "gradtts_hifigan_polly-camila_079.wav",
+      "reference": "O experimento utilizou gravações em estúdio, textos cuidadosamente selecionados, modelos treinados previamente e métricas padronizadas de avaliação.",
+      "transcription": " O experimento utilizou gravações em estúdio, textos cuidadosamente selecionados, modelos treinados previamente e métricas padronizadas de avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 80,
+      "audio": "gradtts_hifigan_polly-camila_080.wav",
+      "reference": "Durante a comparação foram considerados o tempo de inferência, o fator de tempo real, a qualidade perceptual, a inteligibilidade e a estabilidade dos modelos.",
+      "transcription": " Durante a comparação foram considerados o tempo de inferência, o fator de tempo real, a qualidade perceptual, a inteligibilidade e a estabilidade dos modelos.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 81,
+      "audio": "gradtts_hifigan_polly-camila_081.wav",
+      "reference": "Bem... acho que podemos tentar novamente sem alterar nenhuma configuração.",
+      "transcription": " Bem, acho que podemos tentar novamente sem alterar nenhuma configuração.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 82,
+      "audio": "gradtts_hifigan_polly-camila_082.wav",
+      "reference": "Antes de continuar, por favor, confirme se todos os arquivos foram carregados corretamente.",
+      "transcription": " Antes de continuar, por favor, confirme se todos os arquivos foram carregados corretamente.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 83,
+      "audio": "gradtts_hifigan_polly-camila_083.wav",
+      "reference": "Existem três etapas principais: preparação dos dados, síntese da fala e avaliação dos resultados.",
+      "transcription": " Existem três etapas principais, preparação dos dados, sintese da fala e avaliação dos resultados.",
+      "wer": 0.07142857142857142,
+      "cer": 0.010638297872340425
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 84,
+      "audio": "gradtts_hifigan_polly-camila_084.wav",
+      "reference": "O procedimento foi concluído; agora basta analisar cuidadosamente as métricas obtidas.",
+      "transcription": " O procedimento foi concluído agora basta analisar cuidadosamente as métricas obtidas.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 85,
+      "audio": "gradtts_hifigan_polly-camila_085.wav",
+      "reference": "O resultado foi excelente — muito melhor do que imaginávamos no início do experimento.",
+      "transcription": " O resultado foi excelente e muito melhor do que imaginávamos no início do experimento.",
+      "wer": 0.07692307692307693,
+      "cer": 0.024096385542168676
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 86,
+      "audio": "gradtts_hifigan_polly-camila_086.wav",
+      "reference": "Sim, exatamente! Esse foi o comportamento esperado durante toda a avaliação.",
+      "transcription": " Sim, exatamente, esse foi o comportamento esperado durante toda a avaliação.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 87,
+      "audio": "gradtts_hifigan_polly-camila_087.wav",
+      "reference": "Enquanto o modelo processava a entrada, a equipe acompanhava, em tempo real, cada etapa da execução.",
+      "transcription": " Enquanto o modelo processava a entrada, a equipe acompanhava, em tempo real, cada etapa da execução.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 88,
+      "audio": "gradtts_hifigan_polly-camila_088.wav",
+      "reference": "Primeiro verifique a configuração, depois execute o benchmark e, finalmente, compare todos os resultados.",
+      "transcription": " Primeiro verifique a configuração, depois execute o benchmark e, finalmente, compare todos os resultados.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 89,
+      "audio": "gradtts_hifigan_polly-camila_089.wav",
+      "reference": "O sistema respondeu rapidamente, sem interrupções, sem atrasos e sem apresentar qualquer mensagem de erro.",
+      "transcription": " O sistema respondeu rapidamente, sem interrupções, sem atrasos e sem apresentar qualquer mensagem de erro.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 90,
+      "audio": "gradtts_hifigan_polly-camila_090.wav",
+      "reference": "Depois de revisar cuidadosamente todas as informações, podemos prosseguir com segurança para a próxima etapa da análise.",
+      "transcription": " Depois de revisar cuidadosamente todas as informações, podemos prosseguir com segurança para a próxima etapa da análise.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 91,
+      "audio": "gradtts_hifigan_polly-camila_091.wav",
+      "reference": "Enquanto caminhava tranquilamente pelo parque durante o início da manhã, Ana observava as árvores refletidas sobre a água do lago e aproveitava o silêncio para organizar os planos que havia feito para os próximos dias.",
+      "transcription": " Enquanto caminhava tranquilamente pelo parque durante o início da manhã, Ana observava as árvores refletidas sobre a água do lago e aproveitava o silêncio para organizar os planos que havia feito para os próximos dias.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 92,
+      "audio": "gradtts_hifigan_polly-camila_092.wav",
+      "reference": "Depois de concluir todas as atividades previstas para aquela tarde, a equipe reuniu-se novamente para discutir os resultados obtidos, identificar possíveis melhorias e definir as próximas etapas do projeto.",
+      "transcription": " Depois de concluir todas as atividades previstas para aquela tarde, a equipe reúne-se novamente para discutir os resultados obtidos, identificar possíveis melhorias e definir as próximas etapas do projeto.",
+      "wer": 0.034482758620689655,
+      "cer": 0.01485148514851485
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 93,
+      "audio": "gradtts_hifigan_polly-camila_093.wav",
+      "reference": "Durante a viagem de trem, os passageiros observavam a paisagem pela janela enquanto conversavam sobre diferentes assuntos, compartilhavam histórias e registravam fotografias dos lugares mais interessantes.",
+      "transcription": " Durante a viagem de trem, os passageiros observavam a paisagem pela janela enquanto conversavam sobre diferentes assuntos, compartilhavam histórias e registravam fotografias dos lugares mais interessantes.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 94,
+      "audio": "gradtts_hifigan_polly-camila_094.wav",
+      "reference": "Ao visitar o museu pela primeira vez, Carlos percebeu que cada sala apresentava detalhes únicos sobre diferentes períodos da história, tornando toda a experiência muito mais interessante do que imaginava.",
+      "transcription": " Ao visitar o museu pela primeira vez, Carlos percebeu que cada sala apresentava detalhes únicos sobre diferentes períodos da história, tornando toda a experiência muito mais interessante do que imaginava.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 95,
+      "audio": "gradtts_hifigan_polly-camila_095.wav",
+      "reference": "Assim que a chuva terminou, as famílias voltaram a ocupar a praça, as crianças retomaram as brincadeiras e o ambiente recuperou rapidamente o movimento tranquilo característico das tardes de domingo.",
+      "transcription": " Assim que a chuva terminou, as famílias voltaram a ocupar a praça, as crianças retomaram as brincadeiras e o ambiente recuperou rapidamente o movimento tranquilo característico das tardes de domingo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 96,
+      "audio": "gradtts_hifigan_polly-camila_096.wav",
+      "reference": "Enquanto preparava cuidadosamente o jantar, Mariana escutava uma música tranquila ao fundo, observava a luz do entardecer entrando pela janela e aproveitava aquele momento de calma para relaxar.",
+      "transcription": " Enquanto preparava cuidadosamente o jantar, Mariana escutava uma música tranquila ao fundo, observava a luz do entardecer entrando pela janela e aproveitava aquele momento de calma para relaxar.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 97,
+      "audio": "gradtts_hifigan_polly-camila_097.wav",
+      "reference": "Depois de vários meses de planejamento, treinamento e testes experimentais, os pesquisadores finalmente conseguiram desenvolver um sistema estável que atendeu aos objetivos definidos no início do estudo.",
+      "transcription": " Depois de vários meses de planejamento, treinamento e testes experimentais, os pesquisadores finalmente conseguiram desenvolver um sistema estável que atendeu aos objetivos definidos no início do estudo.",
+      "wer": 0.0,
+      "cer": 0.0
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 98,
+      "audio": "gradtts_hifigan_polly-camila_098.wav",
+      "reference": "Ao longo da apresentação, o professor explicou cada conceito de maneira clara, respondeu às dúvidas dos alunos e utilizou exemplos práticos para tornar o conteúdo mais acessível e fácil de compreender.",
+      "transcription": " Ao longo da apresentação, o professor explicou cada conceito de maneira clara, respondeu as dúvidas dos alunos e utilizou exemplos práticos para tornar o conteúdo mais acessível e fácil de compreender.",
+      "wer": 0.03225806451612903,
+      "cer": 0.005050505050505051
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 99,
+      "audio": "gradtts_hifigan_polly-camila_099.wav",
+      "reference": "Mesmo após várias horas de utilização contínua, o sistema permaneceu estável, respondeu rapidamente às solicitações dos usuários e manteve o mesmo nível de desempenho observado durante os testes iniciais.",
+      "transcription": " Mesmo após várias horas de utilização continua, o sistema permaneceu estável, respondeu rapidamente às solicitações dos usuários e manteve o mesmo nível de desempenho observado durante os testes iniciais.",
+      "wer": 0.034482758620689655,
+      "cer": 0.004975124378109453
+    },
+    {
+      "model": "gradtts-hifigan",
+      "id": 100,
+      "audio": "gradtts_hifigan_polly-camila_100.wav",
+      "reference": "Enquanto o sol desaparecia lentamente no horizonte e as primeiras luzes da cidade começavam a se acender, as pessoas caminhavam tranquilamente pelas ruas aproveitando o clima agradável do início da noite.",
+      "transcription": " Enquanto o sol desaparecia lentamente no horizonte e as primeiras luzes da cidade começavam a se acender, as pessoas caminhavam tranquilamente pelas ruas aproveitando o queima agradável do início da noite.",
+      "wer": 0.03225806451612903,
+      "cer": 0.01485148514851485
+    }
+  ]
+}
