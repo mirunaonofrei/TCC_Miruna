@@ -2,6 +2,7 @@ import os
 import sys
 import time
 import json
+import csv
 import numpy as np
 from scipy.io.wavfile import write
 import torch
@@ -46,8 +47,8 @@ BIGVGAN_CHECKPT = os.path.join(CKPT_DIR, "bigvgan/g_01670000")
 #OUTPUT_DIR2 = os.path.join(BASE_DIR, "audios_rtf", "gradtts-bigvgan")
 #OUTPUT_DIR1 = os.path.join(BASE_DIR, "audios_wer", "gradtts-hifigan")
 #OUTPUT_DIR2 = os.path.join(BASE_DIR, "audios_wer", "gradtts-bigvgan")
-OUTPUT_DIR1 = os.path.join(BASE_DIR, "audios_utmos", "gradtts-hifigan")
-OUTPUT_DIR2 = os.path.join(BASE_DIR, "audios_utmos", "gradtts-bigvgan")
+OUTPUT_DIR1 = os.path.join(BASE_DIR, "audios_utmos_2", "gradtts-hifigan")
+OUTPUT_DIR2 = os.path.join(BASE_DIR, "audios_utmos_2", "gradtts-bigvgan")
 
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
@@ -99,6 +100,7 @@ rtf_hifi_list = []
 rtf_big_list = []
 rtf_grad_hifi_list = []
 rtf_grad_big_list = []
+results = []
 
 def normalize(audio):
     peak = np.max(np.abs(audio))
@@ -170,6 +172,7 @@ for voice in VOICES:
             rtf_big_list.append(rtf_big)
             rtf_grad_hifi_list.append(rtf_grad_hifi)
             rtf_grad_big_list.append(rtf_grad_big)
+            results.append((voice, i, text, rtf_grad, rtf_hifi, rtf_big, rtf_grad_hifi, rtf_grad_big))
 
             print(f"[{i}/{len(texts)}] {text}")
             print(
@@ -196,3 +199,20 @@ print(f"BigVGAN              : {np.mean(rtf_big_list):.4f} ± {np.std(rtf_big_li
 print("\nRTF do sistema completo")
 print(f"Grad-TTS + HiFi-GAN  : {np.mean(rtf_grad_hifi_list):.4f} ± {np.std(rtf_grad_hifi_list):.4f}")
 print(f"Grad-TTS + BigVGAN   : {np.mean(rtf_grad_big_list):.4f} ± {np.std(rtf_grad_big_list):.4f}")
+
+# SALVAR RTFs EM ARQUIVO
+rtf_csv_path = os.path.join(BASE_DIR, "rtf_results_gradtts.csv")
+with open(rtf_csv_path, "w", newline="", encoding="utf-8") as f:
+    writer = csv.writer(f)
+    writer.writerow(["voice", "id", "text", "rtf_grad", "rtf_hifi", "rtf_big", "rtf_grad_hifi", "rtf_grad_big"])
+    for row in results:
+        voice_r, i_r, text_r, rg, rh, rb, rgh, rgb = row
+        writer.writerow([voice_r, i_r, text_r, f"{rg:.6f}", f"{rh:.6f}", f"{rb:.6f}", f"{rgh:.6f}", f"{rgb:.6f}"])
+    writer.writerow([])
+    writer.writerow(["media_grad", "", "", f"{np.mean(rtf_grad_list):.6f}"])
+    writer.writerow(["media_hifi", "", "", "", f"{np.mean(rtf_hifi_list):.6f}"])
+    writer.writerow(["media_big", "", "", "", "", f"{np.mean(rtf_big_list):.6f}"])
+    writer.writerow(["media_grad_hifi", "", "", "", "", "", f"{np.mean(rtf_grad_hifi_list):.6f}"])
+    writer.writerow(["media_grad_big", "", "", "", "", "", "", f"{np.mean(rtf_grad_big_list):.6f}"])
+
+print(f"\nRTFs salvos em: {rtf_csv_path}")

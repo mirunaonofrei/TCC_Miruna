@@ -1,6 +1,7 @@
 import os
 import time
 import torch
+import csv
 
 from TTS_glow.tts.utils.generic_utils import setup_model
 from TTS_glow.tts.utils.synthesis import synthesis
@@ -20,7 +21,7 @@ VOCODER_CONFIG_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-g
 CORPUS_PATH = "corpus_utmos.txt"
 #OUT_PATH = "audios_rtf/glowtts-hifigan"
 #OUT_PATH = "audios_wer/glowtts-hifigan"
-OUT_PATH = "audios_utmos/glowtts-hifigan"
+OUT_PATH = "audios_utmos_2/glowtts-hifigan"
 #CORPUS_PATH = "corpus_benchmark.txt"
 
 USE_CUDA = torch.cuda.is_available()
@@ -131,6 +132,7 @@ if __name__ == "__main__":
     model, vocoder_model, ap, C, speaker_embedding = load_models()
     sentences = load_corpus(CORPUS_PATH)
     rtfs = []
+    results = []
 
     # Voz
     print("=" * 60)
@@ -149,11 +151,26 @@ if __name__ == "__main__":
         output_file = os.path.join(OUT_PATH, speaker, f"glowtts_{speaker}_{id:03d}.wav")
         ap.save_wav(wav, output_file)
         rtfs.append(rtf)
+        results.append((id, text, rtf))
 
         print(f"[{id}/{len(sentences)}] {text}")
         print(f"RTF: {rtf:.4f}")
 
+    media_rtf = sum(rtfs) / len(rtfs)
     print("\n" + "=" * 60)
     print(f"Arquivos gerados : {len(sentences)}")
-    print(f"RTF médio        : {sum(rtfs)/len(rtfs):.4f}")
+    # print(f"RTF médio        : {sum(rtfs)/len(rtfs):.4f}")
+    print(f"RTF médio        : {media_rtf:.4f}")
     print("=" * 60)
+
+    # SALVAR RTFs EM ARQUIVO
+    rtf_csv_path = os.path.join(OUT_PATH, "rtf_results.csv")
+    with open(rtf_csv_path, "w", newline="", encoding="utf-8") as f:
+        writer = csv.writer(f)
+        writer.writerow(["id", "text", "rtf"])
+        for id, text, rtf in results:
+            writer.writerow([id, text, f"{rtf:.6f}"])
+        writer.writerow([])
+        writer.writerow(["media", "", f"{media_rtf:.6f}"])
+
+    print(f"RTFs salvos em: {rtf_csv_path}")
