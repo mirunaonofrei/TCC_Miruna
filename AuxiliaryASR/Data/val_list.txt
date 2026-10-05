@@ -1,34 +1,362 @@
-LJSpeech-1.1/wavs/LJ047-0044.wav|Oswald was, however, willing to discuss his contacts with Soviet authorities. He denied having any involvement with Soviet intelligence agencies|0
-LJSpeech-1.1/wavs/LJ031-0038.wav|The first physician to see the President at Parkland Hospital was Dr. Charles J. Carrico, a resident in general surgery.|0
-LJSpeech-1.1/wavs/LJ049-0026.wav|On occasion the Secret Service has been permitted to have an agent riding in the passenger compartment with the President.|0
-LJSpeech-1.1/wavs/LJ009-0114.wav|Mr. Wakefield winds up his graphic but somewhat sensational account by describing another religious service, which may appropriately be inserted here.|0
-LJSpeech-1.1/wavs/LJ028-0506.wav|A modern artist would have difficulty in doing such accurate work.|0
-LJSpeech-1.1/wavs/LJ031-0070.wav|Dr. Clark, who most closely observed the head wound,|0
-LJSpeech-1.1/wavs/LJ034-0198.wav|Euins, who was on the southwest corner of Elm and Houston Streets testified that he could not describe the man he saw in the window.|0
-LJSpeech-1.1/wavs/LJ026-0068.wav|Energy enters the plant, to a small extent,|0
-LJSpeech-1.1/wavs/LJ004-0096.wav|the fatal consequences whereof might be prevented if the justices of the peace were duly authorized|0
-LJSpeech-1.1/wavs/LJ018-0239.wav|His disappearance gave color and substance to evil reports already in circulation that the will and conveyance above referred to|0
-LJSpeech-1.1/wavs/LJ036-0103.wav|The police asked him whether he could pick out his passenger from the lineup.|0
-LJSpeech-1.1/wavs/LJ017-0131.wav|even when the high sheriff had told him there was no possibility of a reprieve, and within a few hours of execution.|0
-LJSpeech-1.1/wavs/LJ046-0184.wav|but there is a system for the immediate notification of the Secret Service by the confining institution when a subject is released or escapes.|0
-LJSpeech-1.1/wavs/LJ014-0263.wav|When other pleasures palled he took a theatre, and posed as a munificent patron of the dramatic art.|0
-LJSpeech-1.1/wavs/LJ012-0235.wav|While they were in a state of insensibility the murder was committed.|0
-LJSpeech-1.1/wavs/LJ036-0077.wav|Roger D. Craig, a deputy sheriff of Dallas County,|0
-LJSpeech-1.1/wavs/LJ013-0164.wav|who came from his room ready dressed, a suspicious circumstance, as he was always late in the morning.|0
-LJSpeech-1.1/wavs/LJ031-0202.wav|Mrs. Kennedy chose the hospital in Bethesda for the autopsy because the President had served in the Navy.|0
-LJSpeech-1.1/wavs/LJ021-0145.wav|From those willing to join in establishing this hoped-for period of peace,|0
-LJSpeech-1.1/wavs/LJ021-0066.wav|together with a great increase in the payrolls, there has come a substantial rise in the total of industrial profits|0
-LJSpeech-1.1/wavs/LJ009-0238.wav|After this the sheriffs sent for another rope, but the spectators interfered, and the man was carried back to jail.|0
-LJSpeech-1.1/wavs/LJ035-0019.wav|drove to the northwest corner of Elm and Houston, and parked approximately ten feet from the traffic signal.|0
-LJSpeech-1.1/wavs/LJ017-0044.wav|and the deepest anxiety was felt that the crime, if crime there had been, should be brought home to its perpetrator.|0
-LJSpeech-1.1/wavs/LJ016-0020.wav|He never reached the cistern, but fell back into the yard, injuring his legs severely.|0
-LJSpeech-1.1/wavs/LJ008-0294.wav|nearly indefinitely deferred.|0
-LJSpeech-1.1/wavs/LJ012-0035.wav|the number and names on watches, were carefully removed or obliterated after the goods passed out of his hands.|0
-LJSpeech-1.1/wavs/LJ016-0179.wav|contracted with sheriffs and conveners to work by the job.|0
-LJSpeech-1.1/wavs/LJ016-0138.wav|at a distance from the prison.|0
-LJSpeech-1.1/wavs/LJ027-0052.wav|These principles of homology are essential to a correct interpretation of the facts of morphology.|0
-LJSpeech-1.1/wavs/LJ014-0010.wav|yet he could not overcome the strange fascination it had for him, and remained by the side of the corpse till the stretcher came.|0
-LJSpeech-1.1/wavs/LJ033-0047.wav|I noticed when I went out that the light was on, end quote,|0
-LJSpeech-1.1/wavs/LJ040-0027.wav|He was never satisfied with anything.|0
-LJSpeech-1.1/wavs/LJ048-0228.wav|and others who were present say that no agent was inebriated or acted improperly.|0
-LJSpeech-1.1/wavs/LJ003-0111.wav|He was in consequence put out of the protection of their internal law, end quote. Their code was a subject of some curiosity.|0
+../TTS-Portuguese-Corpus/wavs/sample-345.wav|Francisco Fernando não era o tipo de personalidade que comandava a popularidade e sua morte não lançou o império em profundo luto.|0
+../TTS-Portuguese-Corpus/wavs/sample-5432.wav|A primeira foi fundada em mil, novecentos e oitenta e sete. A segunda foi fundada em mil, novecentos e cinquenta e dois e é gerida pela Opus Dei.|0
+../TTS-Portuguese-Corpus/wavs/sample-3153.wav|O novo processo a que o anúncio se referia era o uso de placas secas de gelatina transparente, utilizadas como camada adesiva para a fixação dos sais de prata sobre o papel.|0
+../TTS-Portuguese-Corpus/wavs/sample-5034.wav|O leve cisalhamento do vento em torno do furacão permitiu que ele se fortalecesse ainda mais.|0
+../TTS-Portuguese-Corpus/wavs/sample-5298.wav|Nesse mesmo ano, o município experimentava um crescimento tanto no comércio e na indústria.|0
+../TTS-Portuguese-Corpus/wavs/sample-4676.wav|Enquanto isso seu pai persistia em planejar para Emma um futuro como dona de casa e tentou arranjar- lhe um casamento quando ela completou quinze anos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1042.wav|Antes de ficar com a designação atual, Brasil, as novas terras descobertas foram designadas de Monte Pascoal, Ilha de Vera Cruz, Terra de Santa Cruz, Nova Lusitânia, Cabrália, Império do Brasil e Estados Unidos do Brasil.|0
+../TTS-Portuguese-Corpus/wavs/sample-1051.wav|No entanto, empurrado pelo diafragma e pelo útero em crescimento, o coração da grávida fica mais perto da parede torácica, o que pode distorcer os sons ouvidos ao estetoscópio.|0
+../TTS-Portuguese-Corpus/wavs/sample-5562.wav|Mais de dez espécies de animais silvestres, mamíferos e peixes e uma grande diversidade de algas e plantas também compõem o ecossistema da Represa de São José do Rio Preto.|0
+../TTS-Portuguese-Corpus/wavs/sample-6030.wav|Como já foi mencionado, entre as primeiras missas completas compostas nessa técnica estava a Missa Barcelona, e as evidências encontradas em vários manuscritos musicais, indicam uma forte dependência da França.|0
+../TTS-Portuguese-Corpus/wavs/sample-1508.wav|Quando ele estava quase derrotando o Rafael, João o matou.|0
+../TTS-Portuguese-Corpus/wavs/sample-5835.wav|Elas traziam o equipamento.|0
+../TTS-Portuguese-Corpus/wavs/sample-277.wav|Para fins estatísticos, os municípios são agrupados pelo IBGE em microrregiões.|0
+../TTS-Portuguese-Corpus/wavs/sample-2400.wav|Fachada da Igreja de Nossa Senhora do Porto da Eterna Salvação.|0
+../TTS-Portuguese-Corpus/wavs/sample-324.wav|As primeiras quatro balaustradas têm os quatro primeiros mudras, com as estátuas de frente para o ponto cardinal correspondente ao mudra.|0
+../TTS-Portuguese-Corpus/wavs/sample-272.wav|Christina a cantou nas audições às cegas na sexta temporada da A Voz estadunidense.|0
+../TTS-Portuguese-Corpus/wavs/sample-1953.wav|Em Portugal, apesar de não expressivo internacionalmente, há inúmeros campeonatos nacionais que incentivam a prática da modalidade, como o Nacional da Primeira Divisão.|0
+../TTS-Portuguese-Corpus/wavs/sample-733.wav|Muito bem, obrigado.|0
+../TTS-Portuguese-Corpus/wavs/sample-4772.wav|O terceiro medicamento disponível é o acetato de glatirâmero, um imunomodulador não-esteróide e não- interferão.|0
+../TTS-Portuguese-Corpus/wavs/sample-6595.wav|A distribuição de renda melhorou desde dois mil e dois, mas ainda é consideravelmente desigual.|0
+../TTS-Portuguese-Corpus/wavs/sample-6663.wav|Um bom exemplo é o Retrato da Senhora Bruno Toledo, instalada em uma sala repleta de ornamentos caros e tocando uma grande harpa dourada.|0
+../TTS-Portuguese-Corpus/wavs/sample-319.wav|Tais sistemas não são raros e uma simples amostra de gás confinado em uma garrafa seria um exemplo.|0
+../TTS-Portuguese-Corpus/wavs/sample-6297.wav|Em muitos aspectos de sua vida a Natureza se fazia presente, e de fato, como se viu, sua sobrevivência dependia dela em regime diário.|0
+../TTS-Portuguese-Corpus/wavs/sample-5635.wav|As mulheres vestiam um vestido de linho branco e os homens uma tanga. A população trabalhadora habitualmente andava nua ou então usava apenas um pedaço de tecido enrolado a cintura.|0
+../TTS-Portuguese-Corpus/wavs/sample-1457.wav|A exposição do conteúdo de Ética, tal como especificado no título, é pois organizada segundo um método "geométrico" baseado no modelo axiomático dedutivo da geometria euclidiana.|0
+../TTS-Portuguese-Corpus/wavs/sample-5359.wav|Sua sugestão provar-se ia como divisora de águas não só do clube, mas do futebol nacional e internacional.|0
+../TTS-Portuguese-Corpus/wavs/sample-6097.wav|Entre os feitiços mais importantes citados no seriado, além daquele que lhes deu o poder, estão aquele capaz de banir suas habilidades e o criado para derrotar a Fonte.|0
+../TTS-Portuguese-Corpus/wavs/sample-4724.wav|Em dois mil e dez, o país tinha um total de setenta e nove mil, quatrocentos e quarenta e três quilômetros de estradas nacionais, das quais duzentos quilômetros eram classificadas como autoestradas.|0
+../TTS-Portuguese-Corpus/wavs/sample-572.wav|A mentira tem perna curta.|0
+../TTS-Portuguese-Corpus/wavs/sample-448.wav|Estudou na Escola Secundária de Melbourne, e mais tarde juntou-se à Força Imperial Australiana durante a Primeira Guerra Mundial.|0
+../TTS-Portuguese-Corpus/wavs/sample-6275.wav|Construída inicialmente com a técnica da taipa de pilão, passou por várias reformas, incluindo uma que transformou sua fachada em neogótica, entre as décadas de mil, novecentos e vinte e mil, novecentos e oitenta, quando foi reformada e a arquitetura colonial resgatada.|0
+../TTS-Portuguese-Corpus/wavs/sample-1325.wav|Canadá, China, México, Japão e Alemanha são os seus principais parceiros comerciais.|0
+../TTS-Portuguese-Corpus/wavs/sample-4349.wav|Não tenha medo, há ruídos na ilha.|0
+../TTS-Portuguese-Corpus/wavs/sample-390.wav|Os municípios mais importantes são Lages, Curitibanos, São Joaquim, Urubici e Bom Jardim da Serra.|0
+../TTS-Portuguese-Corpus/wavs/sample-3344.wav|Consideram -se ótimas as condições de saúde do estado, o que torna elevado o nível de economia da população.|0
+../TTS-Portuguese-Corpus/wavs/sample-5794.wav|O grêmio ganhou uma quadra de esportes.|0
+../TTS-Portuguese-Corpus/wavs/sample-240.wav|Destes, quarenta e dois mil, quatrocentos soldados de etnia ucraniana que viviam nas regiões da Polônia recém - incorporadas à URSS foram libertados em outubro.|0
+../TTS-Portuguese-Corpus/wavs/sample-2642.wav|Em caso de tempestades, a melhor forma de proteção pessoal é procurar um abrigo seguro.|0
+../TTS-Portuguese-Corpus/wavs/sample-2660.wav|A fibra de carbono é utilizada extensivamente nas asas, na fuselagem, nas superfícies da cauda e nas portas.|0
+../TTS-Portuguese-Corpus/wavs/sample-4786.wav|O país está em sexto lugar entre os dezessete países megadiversos do mundo.|0
+../TTS-Portuguese-Corpus/wavs/sample-1151.wav|As noites paratinguenses são marcadas por seus bares, praças e espaços de lazer.|0
+../TTS-Portuguese-Corpus/wavs/sample-3389.wav|O país ocupa uma vasta área ao longo da costa leste da América do Sul e inclui grande parte do interior do continente, compartilhando fronteiras terrestres com Uruguai ao sul ; Argentina e Paraguai a sudoeste, Bolívia e Peru a oeste; Colômbia a noroeste e Venezuela, Suriname, Guyana e com o departamento ultramarino francês da Guyana Francesa ao norte.|0
+../TTS-Portuguese-Corpus/wavs/sample-5846.wav|No lado de cá do rio há uma boa sombra.|0
+../TTS-Portuguese-Corpus/wavs/sample-3966.wav|As semelhanças entre cães e lobos dificultam os trabalhos dos arqueólogos para fazer distinção exata entre os vestígios de cada subespécie, quando apresentam -se incompletos ou quando o contexto arqueológico torna a coabitação pouco provável.|0
+../TTS-Portuguese-Corpus/wavs/sample-3661.wav|Rio Grande do Norte é uma das vinte e sete unidades federativas do Brasil.|0
+../TTS-Portuguese-Corpus/wavs/sample-1329.wav|Em dois mil e nove ocorreram cento e sessenta e um acidentes no trânsito local com vítimas fatais e mil duzentos e sessenta e oito  atropelamentos.|0
+../TTS-Portuguese-Corpus/wavs/sample-4821.wav|Atraídos pelo ciclo da borracha, os nordestinos se instalaram em importantes cidades amazonenses, como Manaus, Tabatinga, Parintins, Itacoatiara e Barcelos, a primeira capital do Amazonas.|0
+../TTS-Portuguese-Corpus/wavs/sample-5073.wav|O usuário não era criminalizado e a proibição não era absoluta.|0
+../TTS-Portuguese-Corpus/wavs/sample-5207.wav|O equilíbrio de poder no Mediterrâneo Oriental estava a mudar e os efeitos do falhanço de Manuel no Egito continuaram a fazer-se sentir muito para além da sua morte.|0
+../TTS-Portuguese-Corpus/wavs/sample-5684.wav|Nosso telefone está mudo.|0
+../TTS-Portuguese-Corpus/wavs/sample-894.wav|sinto- me feliz por ouvir isso de você|0
+../TTS-Portuguese-Corpus/wavs/sample-4328.wav|A inter-relação da contração, pânico bancário e mercado bolsista em queda resultou numa significativa perturbação económica.|0
+../TTS-Portuguese-Corpus/wavs/sample-2386.wav|As pessoas que criticaram a canção incluem a colunista Elen, que chamou o vídeo de um comercial para a gravidez na adolescência.|0
+../TTS-Portuguese-Corpus/wavs/sample-6458.wav|O portal é presidido pela Virgem com o Menino, ladeada por Santo Domingo e Santa Catarina.|0
+../TTS-Portuguese-Corpus/wavs/sample-3761.wav|Enquanto isso, o Classicismo atravessava o Atlântico e inspirava a formação do Estado norteamericano e sua escola de escultura.|0
+../TTS-Portuguese-Corpus/wavs/sample-853.wav|que bom, obrigada|0
+../TTS-Portuguese-Corpus/wavs/sample-5388.wav|A empresa continuou até a década de mil, novecentos e vinte a encomendar seus navios com o estaleiro de acordo com certas especificações, dando carta branca para os construtores encontrarem os melhores materiais e técnicas.|0
+../TTS-Portuguese-Corpus/wavs/sample-3412.wav|Suas competições possuem cinco divisões par feminino, par masculino, par misto, trio feminino e quarteto masculino.|0
+../TTS-Portuguese-Corpus/wavs/sample-175.wav|Godwin tinha preferência por sua própria filha em oposição a outra.|0
+../TTS-Portuguese-Corpus/wavs/sample-1413.wav|No Reino Unido, "Royals" concorria pela primeira posição.|0
+../TTS-Portuguese-Corpus/wavs/sample-20.wav|A violência também tem seu custo econômico.|0
+../TTS-Portuguese-Corpus/wavs/sample-1400.wav|O planejamento repetiu a planta da cidade de Belo Horizonte, capital do estado de Minas Gerais, também foi baseado em conceitos urbanísticos usados nos traçados de Washington.|0
+../TTS-Portuguese-Corpus/wavs/sample-6522.wav|A liberalidade do seu pensamento foi cristalizada no conceito da acomodação.|0
+../TTS-Portuguese-Corpus/wavs/sample-2096.wav|Isto pode provocar inicialmente disfunções na comunicação bioquímica entre os neurónios e numa fase posterior a morte das células.|0
+../TTS-Portuguese-Corpus/wavs/sample-3662.wav|A televisão tem desempenhado um papel importante na história da liga premiada.|0
+../TTS-Portuguese-Corpus/wavs/sample-3266.wav|É na realidade uma vista geral de toda a escola, de forma uniforme, onde um grupo de jurados avalia por alto toda a interação entre os vários quesitos.|0
+../TTS-Portuguese-Corpus/wavs/sample-417.wav|A inspiração por trás dela surgiu a partir de um namorado que a cantora teve, do qual sua família e amigos não gostavam.|0
+../TTS-Portuguese-Corpus/wavs/sample-5834.wav|Prazer em conhecê- los.|0
+../TTS-Portuguese-Corpus/wavs/sample-508.wav|Datam ainda do século dezesseis várias obras no convento, como os dormitórios, o refeitório, a cozinha e o claustro, bem como o cadeiral do coro, o órgão da igreja e o retábulo do altar- mor, pertencendo já a finais deste século o retábulo do Espírito Santo.|0
+../TTS-Portuguese-Corpus/wavs/sample-21.wav|A cena se repetiu com todos os chefes da SA, um apenas, o silesiano Edmund Heines, foi encontrado na cama com um jovem, também a serviço da SA.|0
+../TTS-Portuguese-Corpus/wavs/sample-148.wav|Do espaço, ciclones extratropicais apresentam um padrão de nuvens com o formato típico de uma vírgula.|0
+../TTS-Portuguese-Corpus/wavs/sample-769.wav|onde mais tem UNILAB?|0
+../TTS-Portuguese-Corpus/wavs/sample-2252.wav|Nesse período também surgiram as primeiras edificações criadas por arquitetos dinamarqueses, o que fez com que as construções desse período fossem similares às da Dinamarca, exceto pelo material utilizado.|0
+../TTS-Portuguese-Corpus/wavs/sample-1164.wav|Atualmente, os números indicam uma tendência decrescente na Europa e na Ásia devido ao uso de pesticidas e à intensificação da agricultura, que reduzem a quantidade de insetos de que se alimenta.|0
+../TTS-Portuguese-Corpus/wavs/sample-732.wav|Muito bem!|0
+../TTS-Portuguese-Corpus/wavs/sample-5946.wav|A terceira perspectiva, mais moderada, é maioritária entre os anarquistas, e sustenta que grupos locais democráticos no local de trabalho e de moradia seriam o núcleo do desenvolvimento social.|0
+../TTS-Portuguese-Corpus/wavs/sample-3989.wav|Com o avanço e a consolidação da febre do ouro, os bancos locais começaram a emitir notas de crédito ou notas, em troca de ouro, e algumas casas de moeda privadas criaram moedas de ouro.|0
+../TTS-Portuguese-Corpus/wavs/sample-2908.wav|Nenhuma de suas obras originais sobreviveu até o presente, salvo os grupos escultóricos do Partenon, mas não se sabe em que medida ele participou pessoalmente na execução.|0
+../TTS-Portuguese-Corpus/wavs/sample-3928.wav|Os faraós também fizeram concessões de terras para seus cultos funerários e templos locais, de forma a garantir que estas instituições teriam recursos necessários para a adoração do faraó após a sua morte.|0
+../TTS-Portuguese-Corpus/wavs/sample-4457.wav|As distribuições de probabilidade permitem representar fenômenos aleatórios.|0
+../TTS-Portuguese-Corpus/wavs/sample-5503.wav|O mais conhecido estilo de música português é o Fado, cuja intérprete mais célebre foi Amália Rodrigues.|0
+../TTS-Portuguese-Corpus/wavs/sample-5594.wav|Da mesma forma, são muito variadas em tema e tratamento, passando de imagens fortemente realistas a representações de grande poesia, e desde cenas do trabalho no campo a retratos da vida nas pequenas vilas com seus costumes ancestrais e seu folclore, suas feiras, festas e ofícios urbanos.|0
+../TTS-Portuguese-Corpus/wavs/sample-6348.wav|São compostas de cinco zonas principais a zona de temperatura mínima, a região de transição solar e a heliosfera.|0
+../TTS-Portuguese-Corpus/wavs/sample-4684.wav|Investigações pela sonda Galileu revelam que Calisto pode ter um pequeno núcleo de silicato e possivelmente um oceano subterrâneo de água líquida em profundidades superiores a cem quilômetros.|0
+../TTS-Portuguese-Corpus/wavs/sample-671.wav|estou muito orgulhoso de ti|0
+../TTS-Portuguese-Corpus/wavs/sample-395.wav|Essas enzimas catalisam a reação redox reversível entre H2 e seus componentes, dois prótons e dois neutrons.|0
+../TTS-Portuguese-Corpus/wavs/sample-5864.wav|O termômetro indicava o calor.|0
+../TTS-Portuguese-Corpus/wavs/sample-3564.wav|Infelizmente, Barba Negra tinha despido o navio de seus objetos de valor e de provisões, abandonado a tripulação em um local inabitado.|0
+../TTS-Portuguese-Corpus/wavs/sample-5848.wav|Minha filha é especialista em música sacra.|0
+../TTS-Portuguese-Corpus/wavs/sample-28.wav|O Japão também tinha um programa de armamentos nucleares, mas lhe faltava os recursos humanos, minerais e financeiros que o Projeto Manhattan detinha e o governo japonês acabou por nunca fazer muito progresso no sentido de desenvolver uma bomba atômica.|0
+../TTS-Portuguese-Corpus/wavs/sample-413.wav|A primeira equipe de roteiristas foi montada por Sam Simon e era composta por josé, Antonio, victor, Jeferson e Wallace.|0
+../TTS-Portuguese-Corpus/wavs/sample-481.wav|Abrindo três estabelecimentos em apenas dois anos, já era considerado o mais ousado e atilado empresário da fotografia no Brasil oitocentista.|0
+../TTS-Portuguese-Corpus/wavs/sample-454.wav|À pedidos dos parentes canadenses de Daniel George, tesoureiro da malfadada invasão, Macdonald concordou em aconselhar George que, como os outros prisioneiros, tinham de realizar sua própria defesa.|0
+../TTS-Portuguese-Corpus/wavs/sample-840.wav|Qual o município do interior do estado do Ceará que tem pontos turísticos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1369.wav|A maior parte das pessoas recupera completamente ao fim de uma ou duas semanas, embora algumas possam desenvolver complicações com risco de vida, como a pneumonia.|0
+../TTS-Portuguese-Corpus/wavs/sample-3792.wav|A obra teve, pois, alguma receptividade nos ambientes heterodoxos ligados ao libertinismo, críticos das concepções providencialistas de Deus e cépticos em relação à existência de valores morais absolutos.|0
+../TTS-Portuguese-Corpus/wavs/sample-5500.wav|A Malásia é o único país com território no continente asiático e no arquipélago malaio.|0
+../TTS-Portuguese-Corpus/wavs/sample-207.wav|No Brasil, a banca publicou histórias do Capitão América e do Homem de Ferro.|0
+../TTS-Portuguese-Corpus/wavs/sample-4043.wav|Percebia-se ao longo da entrevista que, quando questionada sobre o que sentia pelo ex -namorado, Suzana disse Muito ódio.|0
+../TTS-Portuguese-Corpus/wavs/sample-380.wav|Cerca de cem mil militares poloneses foram evacuados para a Romênia e países bálticos, muitos destes soldados lutaram mais tarde contra os alemães em outras frentes da guerra.|0
+../TTS-Portuguese-Corpus/wavs/sample-805.wav|Ótimo|0
+../TTS-Portuguese-Corpus/wavs/sample-5116.wav|A invocação de Nossa Senhora do Porto data dos primeiros tempos do estabelecimento do cristianismo na Gália.|0
+../TTS-Portuguese-Corpus/wavs/sample-0.wav|O título de página solicitado contém carateres inválidos.|0
+../TTS-Portuguese-Corpus/wavs/sample-6562.wav|No entanto, em Israel, o filme foi acusado de apresentar uma versão distorcida da história.|0
+../TTS-Portuguese-Corpus/wavs/sample-2625.wav|Como vai seu trabalho ?|0
+../TTS-Portuguese-Corpus/wavs/sample-2867.wav|Existe uma relação entre o tamanho das pintas brancas na cauda e o número de descendentes produzidos em cada ano.|0
+../TTS-Portuguese-Corpus/wavs/sample-1665.wav|Olá, como foi seu dia?|0
+../TTS-Portuguese-Corpus/wavs/sample-5681.wav|Isso se resolverá de maneira tranquila.|0
+../TTS-Portuguese-Corpus/wavs/sample-3909.wav|Pouco mais de três porcento das pessoas vive mais de quatorze anos após o diagnóstico.|0
+../TTS-Portuguese-Corpus/wavs/sample-6290.wav|A ausência de tais registros é por vezes atribuída à desordem geral no Egito em torno do Segundo Período Intermediário.|0
+../TTS-Portuguese-Corpus/wavs/sample-4042.wav|Sua bacia hidrográfica cobre o estado de Minas Gerais e Petrópolis.|0
+../TTS-Portuguese-Corpus/wavs/sample-2422.wav|Quando o resultado da luta começa a ser- lhe desfavorável, veste uma túnica e uma peruca de mulher, aparentemente do mesmo conjunto e, assim, acaba por obter um indulto, embora este traje possa não ser visto como feminino dado ser também usado pelos sacerdotes de Marte, de quem Gracos era o chefe.|0
+../TTS-Portuguese-Corpus/wavs/sample-5013.wav|A cidade é servida por ampla rede bancária.|0
+../TTS-Portuguese-Corpus/wavs/sample-4764.wav|Apesar do sucesso na exportação de eletricidade, geração de tecnologia nuclear e reatores nucleares que a Coreia do Sul conseguiu obter, o país não pode capitalizar instalações de enriquecimento nuclear e refinarias no mercado, impedindo-o de expandir ainda mais o seu nicho de exportação.|0
+../TTS-Portuguese-Corpus/wavs/sample-3386.wav|Na Índia, o álbum foi certificado como ouro em sua primeira semana de lançamento e se tornou o álbum internacional com vendas mais rápidas do ano.|0
+../TTS-Portuguese-Corpus/wavs/sample-315.wav|Após a sua anexação pelo Império, o Egito seria aglomerado.|0
+../TTS-Portuguese-Corpus/wavs/sample-1694.wav|Esta carta também mencionava o fato de que os bispos missionários irlandeses, como Dagão, se recusavam a fazer suas refeições com os missionários romanos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1262.wav|Estes valores estão muito próximos da medida correta de sessenta e trinta, respetivamente.|0
+../TTS-Portuguese-Corpus/wavs/sample-3684.wav|Em poucas semanas, porém, Davi foi assassinado por bandos valáquios e Moisés foi ferido mortalmente por uma pedra durante o cerco de Serres.|0
+../TTS-Portuguese-Corpus/wavs/sample-606.wav|coloque água sanitária e deixe agir por cinco minutos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1865.wav|A Corte ainda estava de luto pelo príncipe Alberto, por isso as senhoras convidadas só puderam vestir-se de cinzento, lilás ou malva.|0
+../TTS-Portuguese-Corpus/wavs/sample-259.wav|Os episódios foram nomeados para a categoria Melhor Argumento para Série de Comédia.|0
+../TTS-Portuguese-Corpus/wavs/sample-6560.wav|Muda-se com a esposa para a Suíça onde consegue um emprego de mecânico em Genebra.|0
+../TTS-Portuguese-Corpus/wavs/sample-6004.wav|A venda da marca olímpica tem sido um tanto controversa.|0
+../TTS-Portuguese-Corpus/wavs/sample-701.wav|Fale- me sobre você.|0
+../TTS-Portuguese-Corpus/wavs/sample-1003.wav|Os verdes resultam do acréscimo de pigmento amarelo ao azul estrutural.|0
+../TTS-Portuguese-Corpus/wavs/sample-4559.wav|Os povos indígenas do Brasil compreendem um grande número de diferentes grupos étnicos que habitam o país desde milênios antes do início da colonização portuguesa, que principiou no século dezesseis, fazendo parte do grupo maior dos povos ameríndios.|0
+../TTS-Portuguese-Corpus/wavs/sample-2033.wav|Após o veredito, o procurador distrital José Freitas enfrentou uma furiosa comunidade gay para explicar o que tinha ocorrido de errado.|0
+../TTS-Portuguese-Corpus/wavs/sample-5809.wav|O pão que eu comprei era ótimo.|0
+../TTS-Portuguese-Corpus/wavs/sample-924.wav|tu trouxeste luz a minha vida|0
+../TTS-Portuguese-Corpus/wavs/sample-6516.wav|O desenvolvimento rápido de Manaus para uma cidade de grande porte deu-se principalmente através da dispersão das indústrias na cidade, o que resulta numa grande importância deste setor para a sua economia.|0
+../TTS-Portuguese-Corpus/wavs/sample-5043.wav|O Sul do Brasil, nesse período, exercia um poder de atração de italianos, pois contava com disponibilidade de terras, atraindo os que aspiravam se tornar proprietários rurais.|0
+../TTS-Portuguese-Corpus/wavs/sample-850.wav|bom|0
+../TTS-Portuguese-Corpus/wavs/sample-2968.wav|Em outros corpos celestes com crateras, como a Terra e a Lua, as crateras apresentam uma variedade de estados de degradação.|0
+../TTS-Portuguese-Corpus/wavs/sample-2142.wav|Entretanto, quando os polissacarídeos foram destruídos, a mistura ainda era capaz de conversão.|0
+../TTS-Portuguese-Corpus/wavs/sample-4847.wav|Gostaria muito de te ver novamente.|0
+../TTS-Portuguese-Corpus/wavs/sample-2953.wav|Estes animais ainda são capazes de julgar movimentos e forças, como a aproximação de uma onda na praia.|0
+../TTS-Portuguese-Corpus/wavs/sample-4643.wav|Este o quinto maior nível de pobreza relativa da União Europeia.|0
+../TTS-Portuguese-Corpus/wavs/sample-4976.wav|Seis meses depois, Coleco ofereceu versões para Atari dois mil, seiscentos.|0
+../TTS-Portuguese-Corpus/wavs/sample-5285.wav|O dueto transformou-se num tópico bastante falado nas redes sociais, e as cantoras trocaram várias mensagens provocantes e em tom de brincadeira sobre a faixa.|0
+../TTS-Portuguese-Corpus/wavs/sample-6432.wav|Embora fosse a única aeronave capaz de enfrentar e superar os aviões de escolta aliados, a sua produção foi deliberadamente atrasada para que o avião fosse adaptado para realizar missões de caça bombardeiro, sob as ordens expressas de Hitler.|0
+../TTS-Portuguese-Corpus/wavs/sample-383.wav|Os dragões de komodo tentam por vezes acelerar o processo espetando a carcaça contra uma árvore para forçá- las a descer a sua garganta, chegando a deixar árvores abaixo.|0
+../TTS-Portuguese-Corpus/wavs/sample-740.wav|Não é seu poder de observação eu duvido, mas apenas a natureza paradoxal de pedir um homem mascarado que é. Mas diga- me, você gosta de música?|0
+../TTS-Portuguese-Corpus/wavs/sample-4745.wav|A inteligência artificial para personagens jogáveis teve que ser limitada para curar, sobreviver e outras ações menores por causa de restrições técnicas e a presença da função Assistência Acadêmica.|0
+../TTS-Portuguese-Corpus/wavs/sample-3769.wav|Esses fatores geram frequentes reclamações do público que ali reside e também de visitantes.|0
+../TTS-Portuguese-Corpus/wavs/sample-5956.wav|Os membros puderam ver imagens em desenvolvimento da jogabilidade, pedaços do roteiro e ilustrações dos personagens para servirem de inspiração.|0
+../TTS-Portuguese-Corpus/wavs/sample-6640.wav|A repressão e o controle autoritário estabelecido na União Soviética causaram uma mudança radical em sua perspectiva.|0
+../TTS-Portuguese-Corpus/wavs/sample-1943.wav|não há evidências nos arquivos reais ou em outras autoridades escritas que justificam a crença que a relação do príncipe e seu filho mais velho não era profundamente carinhosa.|0
+../TTS-Portuguese-Corpus/wavs/sample-898.wav|sua estrutura se localiza somente em redenção|0
+../TTS-Portuguese-Corpus/wavs/sample-654.wav|Em que ano o presidente John Kennedy foi assassinado?|0
+../TTS-Portuguese-Corpus/wavs/sample-145.wav|É uma área de baixa pressão atmosférica com uma circulação fechada de ventos e diferencia-se dos ciclones extratropicais por ter um núcleo quente e um centro bastante definido em sistemas mais intensos, conhecido como olho.|0
+../TTS-Portuguese-Corpus/wavs/sample-736.wav|Na casa do médico, todos estão doentes|0
+../TTS-Portuguese-Corpus/wavs/sample-737.wav|Nada de mais.|0
+../TTS-Portuguese-Corpus/wavs/sample-5662.wav|É bom te ver colhendo flores menino|0
+../TTS-Portuguese-Corpus/wavs/sample-2521.wav|Os académicos construíram vários perfis do Jesus histórico, que geralmente o retratam em um ou mais dos seguintes papéis o líder de um movimento apocalíptico, o Messias, um curandeiro carismático, um sábio e filósofo, ou um reformista igualitário.|0
+../TTS-Portuguese-Corpus/wavs/sample-1071.wav|Perdeu um dos seus Tigres, num incêndio no dia um de Julho.|0
+../TTS-Portuguese-Corpus/wavs/sample-5810.wav|Meu pai se entenderá com o padre chato amanhã|0
+../TTS-Portuguese-Corpus/wavs/sample-1482.wav|Infratores podem enfrentar a pena de morte em algumas áreas fundamentalistas muçulmanas, como o Irã e partes da Nigéria.|0
+../TTS-Portuguese-Corpus/wavs/sample-1731.wav|A luz solar, ao incidir sobre as gotículas de água ou gelo na atmosfera, gera ainda fenômenos ópticos, dentre os mais notáveis o arco-íris.|0
+../TTS-Portuguese-Corpus/wavs/sample-4870.wav|Se conseguir fazer alguma coisa parecida, que sinta que é correta, verdadeira e boa, terei sido bem sucedida então.|0
+../TTS-Portuguese-Corpus/wavs/sample-360.wav|Cratera de Araguainha A Cratera de Araguainha é o maior astroblema conhecido na América do Sul.|0
+../TTS-Portuguese-Corpus/wavs/sample-5464.wav|O quinto mandamento proíbe o suicídio, incluindo o suicídio assistido, e a eutanásia ou golpe de misericórdia aos que estão morrendo, até mesmo para eliminar o sofrimento.|0
+../TTS-Portuguese-Corpus/wavs/sample-554.wav|Como faço para  tirar pelos da roupa preta?|0
+../TTS-Portuguese-Corpus/wavs/sample-1261.wav|As nuvens visíveis, localizadas onde a pressão atmosférica varia entre zero ponto sete a um bar, são feitas de gelo de amônia.|0
+../TTS-Portuguese-Corpus/wavs/sample-3353.wav|Em termos físicos, a probabilidade ganha um sentido mais concreto.|0
+../TTS-Portuguese-Corpus/wavs/sample-368.wav|As tropas alemãs teriam que atravessar a Romênia e, por bem ou por mal, a Bulgária.|0
+../TTS-Portuguese-Corpus/wavs/sample-68.wav|Aos quatorze anos de idade, após querer saber a qual igreja de sua época se filiar, retirou-se para ler a Bíblia em seu quarto quando leu, em Tiago quinze E, se algum de vós tem falta de sabedoria, peça-a a Deus, que a todos dá liberalmente, e o não lança em rosto, e ser- lhe-á dada.|0
+../TTS-Portuguese-Corpus/wavs/sample-1868.wav|Qual é o melhor time brasileiro?|0
+../TTS-Portuguese-Corpus/wavs/sample-1918.wav|De fato, é possível que a ausência de qualquer perturbação no ambiente leve a evolução do grupo para um clímax dominado por latifoliadas, com expulsão da araucária.|0
+../TTS-Portuguese-Corpus/wavs/sample-1184.wav|Atribuindo a trovoada à colisão entre nuvens e o raio ao incêndio de uma exalação ejetada pelas nuvens.|0
+../TTS-Portuguese-Corpus/wavs/sample-3568.wav|A partir daí são contados quatro anos de um cão pequeno para um vivido pelo homem, ao passo que em cães maiores, de maturidade mais lenta, a tendência é de envelhecimento mais rápido.|0
+../TTS-Portuguese-Corpus/wavs/sample-6333.wav|Uma das novidades mais importantes nesses últimos anos foi a introdução de novas tecnologias e novos paradigmas na área musical.|0
+../TTS-Portuguese-Corpus/wavs/sample-1040.wav|Nas duas décadas seguintes, eles passaram a deter a hegemonia política no Estado, e rapidamente perderam a aliança com partidos mais à esquerda.|0
+../TTS-Portuguese-Corpus/wavs/sample-3703.wav|É de notar que Hermes demonstrou tato suficiente para furtar apenas vacas, e nenhum touro, pois se o fizesse afrontaria a masculinidade do irmão.|0
+../TTS-Portuguese-Corpus/wavs/sample-5620.wav|Este foi o caso do furacão Catarina em dois mil e quatro, que atingiu a costa da região sul do Brasil como um ciclone tropical com ventos de até cento e oitenta e cinco quilômetros por hora.|0
+../TTS-Portuguese-Corpus/wavs/sample-3962.wav|Conforme o avanço aliado mudava inexoravelmente para o Japão, as condições de vida tornaram -se cada vez piores para o povo japonês.|0
+../TTS-Portuguese-Corpus/wavs/sample-112.wav|Ipatinga tem um papel fundamental como empregador para as cidades a seu redor e em dois mil e onze, gerava sessenta e oito ponto nove  porcento do Produto Interno Bruto  metropolitano.|0
+../TTS-Portuguese-Corpus/wavs/sample-5836.wav|O sol ilumina dez planetas.|0
+../TTS-Portuguese-Corpus/wavs/sample-2469.wav|Não apenas a população da Itália, mas de toda a Europa de um modo geral estava afundada na miséria no século dezenove.|0
+../TTS-Portuguese-Corpus/wavs/sample-531.wav|Por conta disso os críticos notam que o estilo machadiano é culto por fazer uso da cultura e sua compreensão aprofundada exige cultura da parte do leitor.|0
+../TTS-Portuguese-Corpus/wavs/sample-3219.wav|As construções londrinas são muito diversificadas e são caracterizadas por vários estilos arquitetônicos diferentes, em parte por causa da idade das edificações.|0
+../TTS-Portuguese-Corpus/wavs/sample-6033.wav|Nos cinco anos de preparação, diversos locais de competição foram construídos ou reformados e mais de vinte mil voluntários foram convocados para trabalhar no evento principal e em eventos preparatórios.|0
+../TTS-Portuguese-Corpus/wavs/sample-6657.wav|Um exemplo foi a aldeia dividida, na Baviera.|0
+../TTS-Portuguese-Corpus/wavs/sample-817.wav|por que a UNILAB tem um capus em outra cidade|0
+../TTS-Portuguese-Corpus/wavs/sample-1158.wav|O lugar se localiza próximo da cratera.|0
+../TTS-Portuguese-Corpus/wavs/sample-731.wav|Minha namorada está me evitando, embora ela não confirme, sei que ela quer um tempo|0
+../TTS-Portuguese-Corpus/wavs/sample-913.wav|tua verdade é o que me atrai|0
+../TTS-Portuguese-Corpus/wavs/sample-1025.wav|É a primeira cidade do Brasil a ter um domínio web próprio.|0
+../TTS-Portuguese-Corpus/wavs/sample-322.wav|Mais tarde, Liz encontra-se com Wesley para dizer- lhe que a sua resposta é negativa, como acredita que ambos conseguem encontrar melhor; ela fica ainda mais surpresa quando descobre que ele partilha o nome com o actor norte-americano Wesley.|0
+../TTS-Portuguese-Corpus/wavs/sample-1950.wav|De todo modo a situação é confusa, muitas das evidências materiais já não existem e não podem ser reavaliadas, e ao que tudo indica o caso vai permanecer para sempre um mistério.|0
+../TTS-Portuguese-Corpus/wavs/sample-3960.wav|O primeiro, foi escrito sobre o Conflito na Irlanda do Norte, enquanto que a terceira, diz respeito à luta de um grupo de mulheres cujos filhos foram mortos ou desaparecidos pelo governo durante a Guerra Civil de El Salvador.|0
+../TTS-Portuguese-Corpus/wavs/sample-548.wav|Após mil, novecentos e quarenta e dois, esse número atingiu dez milhões.|0
+../TTS-Portuguese-Corpus/wavs/sample-1473.wav|No final do ano de dois mil e dez a Prefeitura anunciou a construção de um ginásio multiúso na Via Oeste, no entroncamento das Ruas Campos Elisios e Winston, no Jardim das Indústrias, cujo processo licitatório já ocorreu e a execução do projeto está em marcha, com previsão de conclusão para outubro de dois mil e doze.|0
+../TTS-Portuguese-Corpus/wavs/sample-603.wav|Cavalo dado não se olha os dentes.|0
+../TTS-Portuguese-Corpus/wavs/sample-922.wav|tu estas mais bem arrumado hoje|0
+../TTS-Portuguese-Corpus/wavs/sample-5895.wav|noventa e cinco porcento das regiões registradas como ortodoxas pertencem à Igreja Ortodoxa Russa, enquanto há uma série de outras pequenas Igrejas Ortodoxas.|0
+../TTS-Portuguese-Corpus/wavs/sample-6557.wav|São levados a considerar todas as coisas da Natureza como meios para a sua utilidade pessoal.|0
+../TTS-Portuguese-Corpus/wavs/sample-1016.wav|apenas o matrimónio entre um homem e uma mulher é válido e reconhecido na Califórnia.|0
+../TTS-Portuguese-Corpus/wavs/sample-3598.wav|Apesar de estar gelado, ainda conseguiu abater e recolher dois mergulhões enquanto remava no catamarã.|0
+../TTS-Portuguese-Corpus/wavs/sample-8.wav|Apesar de serem termos aplicáveis com toda a propriedade a qualquer das artes, a grande maioria dos pesquisadores tem voltado sua atenção principalmente aos efeitos do modelo acadêmico sobre as artes visuais, e dentre elas, a pintura.|0
+../TTS-Portuguese-Corpus/wavs/sample-144.wav|Eles estavam tão perto que os oficiais alemães afirmaram que podiam ver as torres do Kremlin, mas então a primeira nevasca começou.|0
+../TTS-Portuguese-Corpus/wavs/sample-22.wav|Ela não conhecia MacFarlane ou tinha visto qualquer um dos seus trabalhos e disse que estava realmente perdida.|0
+../TTS-Portuguese-Corpus/wavs/sample-3522.wav|Os frangos representam a maior parte do consumo de aves, embora o peru, o pato e os gansos domesticados sejam também comuns.|0
+../TTS-Portuguese-Corpus/wavs/sample-4343.wav|Foi preciso ter em conta muitos fatores para se chegar a uma estimativa do aumento do nível do mar e o cálculo que levou à conclusão não foi simples de fazer, porque este nível é influenciado pela constante movimentação natural da crosta terrestre, que eleva algumas regiões enquanto outras afundam.|0
+../TTS-Portuguese-Corpus/wavs/sample-1973.wav|Ao longo dos anos, com a consolidação do santuário como um importante centro de culto mariano e com a crescente atenção dada por papas e outros destacados prelados à Mensagem de Fátima, elas viriam a crescer enormemente, atraindo grandes multidões de todo o mundo.|0
+../TTS-Portuguese-Corpus/wavs/sample-366.wav|A nona faixa é uma canção de estilos rock independente e alternativo minimalista.|0
+../TTS-Portuguese-Corpus/wavs/sample-2580.wav|O mar estava agitado na madrugada de primeiro de abril e o navio acabou batendo em rochas e começou a afundar.|0
+../TTS-Portuguese-Corpus/wavs/sample-5329.wav|Nestas décadas recebeu vários outros prêmios nacionais e estaduais.|0
+../TTS-Portuguese-Corpus/wavs/sample-5974.wav|Esta coloração é obtida devido a um tipo de célula encontrada em abundância, chamada glóbulo vermelho ou hemácia.|0
+../TTS-Portuguese-Corpus/wavs/sample-1019.wav|Em Novembro de mil oitocentos e onze, o Príncipe Regente britânico mandou fazer uma medalha para comemorar a brilhante vitória obtida sobre o Inimigo foi entregue aos oficiais superiores britânicos presentes na batalha.|0
+../TTS-Portuguese-Corpus/wavs/sample-1764.wav|Os trabalhos eram frequentemente sujeitos a múltiplas edições, algumas com mudanças nos blocos de madeira originais.|0
+../TTS-Portuguese-Corpus/wavs/sample-2497.wav|Eu disse a ele a sensação que eu queria e Manuel colocou as mãos sobre o teclado e eu comecei a cantar a melodia.|0
+../TTS-Portuguese-Corpus/wavs/sample-3674.wav|Possui um alongamento da asa na proporção de nove, um novo trem de pouso principal, engrenagem reforçada no nariz e tanques de combustível extras.|0
+../TTS-Portuguese-Corpus/wavs/sample-3821.wav|Mesmo assim, essa apreciação não era generalizada, e somente em mil, seiscentos e vinte e três surgiu uma coletânea, obra de seu sobrinho neto, o Jovem, mas largamente corrigida, atualizando a linguagem e expurgando-a de alusões homoeróticas e de declarações consideradas inaceitáveis para a moral e a religião.|0
+../TTS-Portuguese-Corpus/wavs/sample-2513.wav|Ela planejava abrir uma clínica de controle de natalidade modelada na primeira clínica desse tipo no mundo, a qual havia visitado em Amsterdã.|0
+../TTS-Portuguese-Corpus/wavs/sample-6159.wav|Nas cidades desperdiça-se de cinquenta a setenta porcento de toda a água captada, e na construção civil, setor que consome de vinte a cinquenta porcento de todos os recursos naturais disponíveis, perde-se em média de nove a cinquenta porcento dos materiais, o que representa até quarenta porcento de todo o lixo produzido.|0
+../TTS-Portuguese-Corpus/wavs/sample-3914.wav|Em mil, quinhentos e oitenta e cinco ele parece haver contratado um assistente, o pintor italiano Francisco, e estabeleceu um estúdio próprio capaz de produzir quadros para altares e estátuas, além das pinturas.|0
+../TTS-Portuguese-Corpus/wavs/sample-5051.wav|Apesar da retirada subsequente de uma grande parte da ajuda financeira estrangeira para a barragem, esta seria terminada em Dezembro de mil, novecentos e setenta e quatro.|0
+../TTS-Portuguese-Corpus/wavs/sample-3324.wav|Estas descobertas permitiram sustentar a evidência de um comportamento social no Albertossauro ainda que alguns ou todos os lugares mencionados possam representar agregações temporais ou não-naturais.|0
+../TTS-Portuguese-Corpus/wavs/sample-5837.wav|A correção do exame foi coerente.|0
+../TTS-Portuguese-Corpus/wavs/sample-1691.wav|O fornecimento de água e a coleta de esgoto da cidade são feitos pela Águas de Pará de Minas, uma subsidiária da empresa Águas do Brasil.|0
+../TTS-Portuguese-Corpus/wavs/sample-6052.wav|Imagina nossa decepção quando ele foi bom.|0
+../TTS-Portuguese-Corpus/wavs/sample-5214.wav|enquanto há poucas dúvidas sobre sua habilidade, é de se perguntar durante quanto tempo ele vai continuar lutando com o rock.|0
+../TTS-Portuguese-Corpus/wavs/sample-6511.wav|Algumas comunidades carregam superstições sobre o lobo guará e podem até nutrir certa aversão ao animal.|0
+../TTS-Portuguese-Corpus/wavs/sample-1347.wav|Para que um projeto de lei entre em vigor, deve começar por ser aprovado por maioria absoluta de votos em três leituras, sendo seguidamente encaminhado para a apreciação do rei.|0
+../TTS-Portuguese-Corpus/wavs/sample-1571.wav|Mas os resultados das pesquisas sobre este aspecto têm sido contraditórios.|0
+../TTS-Portuguese-Corpus/wavs/sample-6588.wav|Enquanto a parte do minueto foi provavelmente adicionada para formar uma ponte musical entre o lamento da abertura e o final triunfal, com outras alterações tornou a Abertura Tasso numa não-abertura.|0
+../TTS-Portuguese-Corpus/wavs/sample-5902.wav|ou similar para converter as multiplicações em adições, bem como consultas a tabelas.|0
+../TTS-Portuguese-Corpus/wavs/sample-5048.wav|Também pode ser usado de forma satírica para descrever algum líder religioso importante.|0
+../TTS-Portuguese-Corpus/wavs/sample-73.wav|Mais tarde, durante uma entrevista, foi perguntado a Kelly Johnson a sua opinião sobre a aeronave, ao que este respondeu, ela chegou à expectativa do design concebido.|0
+../TTS-Portuguese-Corpus/wavs/sample-3652.wav|O município é a sede de uma Superintendência Regional de Saúde do governo estadual, que abrange trinta e cinco municípios.|0
+../TTS-Portuguese-Corpus/wavs/sample-3402.wav|A energia solar também pode ser utilizada num tanque para o tratamento de águas residuais, sem o uso de produtos químicos ou de eletricidade.|0
+../TTS-Portuguese-Corpus/wavs/sample-1666.wav|Existe na Terra tanto metano na forma de hidratos que parece o ingrediente perfeito para um cenário apocalíptico.|0
+../TTS-Portuguese-Corpus/wavs/sample-45.wav|A menção seguinte, de Jean, viria a ser feita cerca de cem anos depois, em meados do século dezoito.|0
+../TTS-Portuguese-Corpus/wavs/sample-165.wav|Um mês depois foi confirmado que o filme seria uma animação em Computação Gráfica, em vez de animação desenhada à mão.|0
+../TTS-Portuguese-Corpus/wavs/sample-1248.wav|O setor secundário ou industrial é aquele que gera mais emprego estável na cidade, contando esta com três parques industriais e um quarto em construção.|0
+../TTS-Portuguese-Corpus/wavs/sample-3767.wav|Uma série de quadrinhos limitada foi produzida e lançada previamente ao jogo.|0
+../TTS-Portuguese-Corpus/wavs/sample-783.wav|o que é uma metáfora?|0
+../TTS-Portuguese-Corpus/wavs/sample-2412.wav|cento e trinta mil reais é o valor adicionado bruto da agropecuária.|0
+../TTS-Portuguese-Corpus/wavs/sample-5639.wav|A escolha da prata, além de ser uma honra especial, por seu alto valor, estava ligada a uma simbologia tradicional referente à natureza interior do santo, considerada semelhante à prata.|0
+../TTS-Portuguese-Corpus/wavs/sample-687.wav|Eu não sei ler.|0
+../TTS-Portuguese-Corpus/wavs/sample-6658.wav|É vista ainda como matéria corante de origem vegetal e animal, como a cochonilha, a orcina e o pau-brasil.|0
+../TTS-Portuguese-Corpus/wavs/sample-3722.wav|A indústria, em dois mil e treze, era o segundo setor mais relevante para a economia do município.|0
+../TTS-Portuguese-Corpus/wavs/sample-577.wav|As figuras de linguagem são recursos usados na fala ou na escrita para tornar mais expressiva a mensagem transmitida.|0
+../TTS-Portuguese-Corpus/wavs/sample-402.wav|Três anos mais tarde, observações de radar dos estadunidenses Gordon e Peter.|0
+../TTS-Portuguese-Corpus/wavs/sample-2257.wav|Somente no final de sua vida se preocupou em revisar, organizar e publicar diversos trabalhos em coleções.|0
+../TTS-Portuguese-Corpus/wavs/sample-4205.wav|Simulações numéricas mostram que uma interação orbital ressonante com Júpiter pode levar a excentricidade orbital de Mercúrio a aumentar a ponto de o planeta ter uma probabilidade de um porcento de se chocar com Vênus nos próximos cinco bilhões de anos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1961.wav|A tradição teve origem para evitar a falsificação de documentos, mas hoje é meramente um símbolo do fim do pontificado do papa.|0
+../TTS-Portuguese-Corpus/wavs/sample-889.wav|Sim, estou bem.|0
+../TTS-Portuguese-Corpus/wavs/sample-37.wav|Em dois mil e nove fez uma parceria musical com Alicia Keys, sua amiga desde os quatorze anos de idade.|0
+../TTS-Portuguese-Corpus/wavs/sample-3333.wav|e o dinheiro anda mais curto do que perna de cobra.|0
+../TTS-Portuguese-Corpus/wavs/sample-526.wav|O tema também foi utilizado na sequência de abertura do vigésimo episódio da vigésima primeira temporada da série de animação americana os  Simpsons, no qual todo o elenco lábio-sincroniza a canção.|0
+../TTS-Portuguese-Corpus/wavs/sample-4149.wav|Universidades, faculdades e escolas especializadas oferecem cursos de graduação e pós-graduação, bem como cursos e oficinas para a comunidade, sobre ecologia e áreas correlatas.|0
+../TTS-Portuguese-Corpus/wavs/sample-6071.wav|A monarquia manteve o conselho e a maior parte das instituições cívicas, permitindo a eleição de magistrados até duzentos e sessenta e cinco.|0
+../TTS-Portuguese-Corpus/wavs/sample-1137.wav|Os governos britânico e irlandês cooperam em questões não descentralizadas que afetam a Irlanda do Norte por meio da Conferência Intergovernamental Britânica Irlandesa, que assume as responsabilidades do governo da Irlanda do Norte caso este não atue.|0
+../TTS-Portuguese-Corpus/wavs/sample-1617.wav|A segunda unidade foi enviada para o local para filmar vários ângulos do vulcão que mais tarde foram emendados para o fundo das animações e a versão final do planeta Mustafar.|0
+../TTS-Portuguese-Corpus/wavs/sample-667.wav|espero ser sempre assim, fascinante|0
+../TTS-Portuguese-Corpus/wavs/sample-2705.wav|Anos depois, mais atos de violência contra os holandeses viriam a ocorrer.|0
+../TTS-Portuguese-Corpus/wavs/sample-874.wav|Que tipo de filme você gosta?|0
+../TTS-Portuguese-Corpus/wavs/sample-708.wav|Golfinhos usam um sentido, semelhante ao sonar, para determinar a localização e forma de itens próximos|0
+../TTS-Portuguese-Corpus/wavs/sample-4274.wav|A gravidez afeta a susceptibilidade às agudizações, baixando o ritmo de ocorrência a cada trimestre de gestação.|0
+../TTS-Portuguese-Corpus/wavs/sample-88.wav|Atualmente, se tornou um símbolo de conservação de toda a Mata Atlântica e da preservação do meio ambiente em geral, tanto no Brasil quanto no mundo.|0
+../TTS-Portuguese-Corpus/wavs/sample-274.wav|O novo terminal será destinado ao transporte de cargas e voos internacionais, enquanto o Aeroporto de Fortaleza manterá os voos domésticos e executivos.|0
+../TTS-Portuguese-Corpus/wavs/sample-4900.wav|O quarteto foi o primeiro grupo a fazer shows na América do Sul, com datas na Argentina, Brasil e Venezuela, e também a primeira banda a se apresentar na África do Sul, uma performance polêmica ocorrida em mil, novecentos e oitenta e quatro.|0
+../TTS-Portuguese-Corpus/wavs/sample-2089.wav|Eventualmente, quando o cogumelo amadurece, o anel colapsa sobre o tronco formando uma fina membrana.|0
+../TTS-Portuguese-Corpus/wavs/sample-6414.wav|Com muitos planos e espírito aventureiro, fez algumas amizades e relacionamentos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1294.wav|O acordo de paz final aceitando as reivindicações do Brasil foi assinado em janeiro de mil oitocentos e sessenta e dois.|0
+../TTS-Portuguese-Corpus/wavs/sample-3772.wav|Logaritmos são uma alternativa fácil de resolver cálculos em alguns casos.|0
+../TTS-Portuguese-Corpus/wavs/sample-6271.wav|No entanto, a administração excessiva de oxigénio pode provocar o aumento dos níveis de dióxido de carbono e a diminuição do estado de consciência.|0
+../TTS-Portuguese-Corpus/wavs/sample-842.wav|Quando será realizado o próximo?|0
+../TTS-Portuguese-Corpus/wavs/sample-1769.wav|A vantagem da convergência das funções de distribuição é que as funções existem para todas as distribuições de probabilidade.|0
+../TTS-Portuguese-Corpus/wavs/sample-4080.wav|Já foi citada sua grande contribuição para a amplificação do aquecimento global através da emissão de gases estufa, mas elas desencadeiam uma série de outros efeitos negativos.|0
+../TTS-Portuguese-Corpus/wavs/sample-5689.wav|Zeca, corra bem rápido para casa.|0
+../TTS-Portuguese-Corpus/wavs/sample-5917.wav|Após um período de grande repressão.|0
+../TTS-Portuguese-Corpus/wavs/sample-6496.wav|Os comerciantes também cultuavam deuses, como Hermes, sempre em tentativa de deixá- lo satisfeito e assim conseguir bons resultados em suas vendas.|0
+../TTS-Portuguese-Corpus/wavs/sample-2831.wav|Minas Gerais é um dos maiores produtores de energia hidroelétrica do país, com grandes geradores dos quais destacam -se a Usina Hidrelétrica de Furnas, Itumbiara e São Simão.|0
+../TTS-Portuguese-Corpus/wavs/sample-4664.wav|A população goianense é formada principalmente por descendentes de povos indígenas, colonos portugueses, escravos africanos e diversos grupos de imigrantes que se estabeleceram no Brasil e em Pernambuco, sobretudo entre os anos de mil, oitocentos e vinte e de mil, novecentos e setenta, principalmente de holandeses.|0
+../TTS-Portuguese-Corpus/wavs/sample-4939.wav|A edição foi a grande estreia da ginasta em Mundiais.|0
+../TTS-Portuguese-Corpus/wavs/sample-5395.wav|Em especial, um estágio da série Animal apresenta eventos em determinada hora do dia.|0
+../TTS-Portuguese-Corpus/wavs/sample-4383.wav|Em muitos aspectos, os Direitos da Mulher é influenciado por uma visão burguesa de mundo, como é o seu antecessor Direitos dos Homens.|0
+../TTS-Portuguese-Corpus/wavs/sample-142.wav|Ainda em dois mil e um, saiu em turnê ao lado das demais ginastas olímpicas, no Rock and Roll, que percorreu várias cidades dos Estados Unidos.|0
+../TTS-Portuguese-Corpus/wavs/sample-3752.wav|Estes animais são ainda designados como eufausídeos, palavra derivada da ordem taxonómica a que pertencem.|0
+../TTS-Portuguese-Corpus/wavs/sample-532.wav|O babaçu ocorre na transição entre as regiões Norte e Nordeste.|0
+../TTS-Portuguese-Corpus/wavs/sample-6224.wav|Houve relatos de enchentes localizadas e de mar agitado.|0
+../TTS-Portuguese-Corpus/wavs/sample-200.wav|Apesar de o Agente Racional sempre fazer a  melhor coisas possível, essa nem sempre é a melhor forma, pois o mesmo possui limitações como as limitações de sensores, de conhecimento, de tempo, entre outros.|0
+../TTS-Portuguese-Corpus/wavs/sample-5675.wav|Leila tem um lindo casaco.|0
+../TTS-Portuguese-Corpus/wavs/sample-5808.wav|O jardim exige muito trabalho.|0
+../TTS-Portuguese-Corpus/wavs/sample-5714.wav|O velho tigre ainda aceita combate.|0
+../TTS-Portuguese-Corpus/wavs/sample-5759.wav|Em muitas cidades a população está diminuindo.|0
+../TTS-Portuguese-Corpus/wavs/sample-5746.wav|Fumar é prejudicial à saúde e é feio.|0
+../TTS-Portuguese-Corpus/wavs/sample-5975.wav|A pneumonia e a desidratação são as mais frequentes causas de morte imediata.|0
+../TTS-Portuguese-Corpus/wavs/sample-599.wav|Cão que late não morde|0
+../TTS-Portuguese-Corpus/wavs/sample-4953.wav|Outros nomes na prosa do período são historiadores ou cronistas, estimulados pelo grande interesse que o exotismo do Brasil suscitara entre os europeus, ávidos por novidades maravilhosas.|0
+../TTS-Portuguese-Corpus/wavs/sample-5402.wav|É necessário que, dentro de vinte e quatro horas, parta para a sua senatoria".|0
+../TTS-Portuguese-Corpus/wavs/sample-4484.wav|Sem um sistema organizado de abastecimentos, os soldados russos passavam por dificuldades ao nível da sua saúde e prontidão para o combate.|0
+../TTS-Portuguese-Corpus/wavs/sample-3680.wav|Em março de mil, novecentos e vinte e três, Lenin sofreu um terceiro acidente vascular cerebral e perdeu a capacidade de fala; naquele mês, teve paralisia parcial em seu lado direito e começou a exibir afasia sensorial.|0
+../TTS-Portuguese-Corpus/wavs/sample-219.wav|As forças  estavam equipadas com armamento e munições soviéticos que era distribuído através da Zâmbia, era também a partir deste país que recebia medicamentos e alimentos enlatados.|0
+../TTS-Portuguese-Corpus/wavs/sample-6371.wav|Ao chegar ao Botafogo, trabalhou a autoestima dos jogadores, e o time foi, aos poucos, subindo de produção.|0
+../TTS-Portuguese-Corpus/wavs/sample-5139.wav|Duas novas linhas de metrô foram construídas, a sinalização de trânsito foi renovada e um sistema de rodízio de veículos foi implantado durante o evento para evitar congestionamentos.|0
+../TTS-Portuguese-Corpus/wavs/sample-81.wav|Foi descrito por Carl Linnaeus, em mil, setecentos e sessenta e seis.|0
+../TTS-Portuguese-Corpus/wavs/sample-1322.wav|Pedro, não teve direito a figurar com tal destaque, embora seja referido ao longo da Crónica, em especial quando se negociava o seu casamento com a princesa.|0
+../TTS-Portuguese-Corpus/wavs/sample-523.wav|Enquanto alguns se opunham as políticas da OMC em defesa das políticas de estado de bem estar social e medidas reformistas pró-trabalhistas, outros assumiam conscientemente posições anticapitalistas que tinham como intenção atingir o sistema do capital globalizado.|0
+../TTS-Portuguese-Corpus/wavs/sample-6606.wav|A quebra da fuselagem ainda em voo foi audível pela população de uma localidade próxima.|0
+../TTS-Portuguese-Corpus/wavs/sample-4863.wav|A abertura oficial dos Jogos de mil, novecentos e noventa e seis foi declarada pelo presidente dos Estados Unidos.|0
+../TTS-Portuguese-Corpus/wavs/sample-916.wav|tu és colírio para os meus olhos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1629.wav|Após a decomposição do corpo, os ossos foram provavelmente movidos quer para um canto do sarcófago, quer para o chão da sepultura em si, ou simplesmente transferidos para outro lárnaque que passaria a servir como ossário.|0
+../TTS-Portuguese-Corpus/wavs/sample-702.wav|Ferdinand de Saussure considera a parole como individual e assistemática, por isso ele diz que a langue é que deve ser objeto de investigação para a linguista.|0
+../TTS-Portuguese-Corpus/wavs/sample-5926.wav|Além disso, as moças podem usar luvas e o pó de magnésio, e devem ter os cabelos curtos ou usá- los presos, também para não prejudicar a movimentação.|0
+../TTS-Portuguese-Corpus/wavs/sample-419.wav|Algumas espécies conseguem usar os dois lados da siringe de forma independente, o que lhes permite produzir dois sons diferentes em simultâneo.|0
+../TTS-Portuguese-Corpus/wavs/sample-3756.wav|Para nós, artistas, é a renascença, é um raio de sol que, através da chuva miúda e aborrecida, vem dourar-nos a janela e a alma.|0
+../TTS-Portuguese-Corpus/wavs/sample-6664.wav|O álbum foi lançado em setembro de mil, novecentos e sessenta e nove.|0
+../TTS-Portuguese-Corpus/wavs/sample-2975.wav|A taxa metabólica basal começa a aumentar a partir do terceiro mês, de modo a responder às necessidades conjuntas da mãe e do feto.|0
+../TTS-Portuguese-Corpus/wavs/sample-5005.wav|Essa aproximação ao Sol fornecerá um oportunidade de estudo que não vai acontecer de novo por doze mil anos.|0
+../TTS-Portuguese-Corpus/wavs/sample-1280.wav|Nestes primeiros dias do novo regime, Lenin evitou falar em termos marxistas e socialistas para não alienar a população russa, e em vez disso falou sobre ter um país controlado pelos trabalhadores.|0
+../TTS-Portuguese-Corpus/wavs/sample-6701.wav|Àquela altura, com mais de quarenta anos de idade, ela não atraía mais o interesse de homens influentes como antes e passava por dificuldades financeiras.|0
+../TTS-Portuguese-Corpus/wavs/sample-663.wav|Errar é humano|0
+../TTS-Portuguese-Corpus/wavs/sample-5820.wav|O estilete é uma arma perigosa.|0
+../TTS-Portuguese-Corpus/wavs/sample-2860.wav|Aliás, a peça marcou o início da amizade e da produção artística dos dois, sendo esse acontecimento, para Vinicius, o ponto principal dos resultados obtidos por ele em sua composição da obra.|0
+../TTS-Portuguese-Corpus/wavs/sample-2516.wav|Os cientistas britânicos primeiramente estavam convencidos que se tratava de uma fraude.|0
+../TTS-Portuguese-Corpus/wavs/sample-5613.wav|As más condições de vida levaram a altas taxas de doenças, ferimentos e morte, bem como sabotagem e atividades criminosas.|0
+../TTS-Portuguese-Corpus/wavs/sample-4723.wav|Ao contrário das três peles que ainda existem, uma das duas ilustrações de um exemplar vivo mantido na Holanda por volta de mil, setecentos e noventa mostra uma testa vermelha.|0
+../TTS-Portuguese-Corpus/wavs/sample-1545.wav|Uma de suas principais condições era que todo o elenco fosse britânico, que foi atendida.|0
+../TTS-Portuguese-Corpus/wavs/sample-3098.wav|As tumbas mais importantes nessa fase estão na região de Tarquinia, Tuscania, Perugia e Sovana.|0
+../TTS-Portuguese-Corpus/wavs/sample-3446.wav|A importância dos ventos alísios para a navegação em ambos os hemisférios era já conhecida pelos navegadores portugueses do século dezesseis.|0
+../TTS-Portuguese-Corpus/wavs/sample-4281.wav|Na época, a cidade já estava sob um cerco pelas forças alemãs nazistas que durou novecentos dias e que matou cerca de um terço de sua população de antes da guerra.|0
+../TTS-Portuguese-Corpus/wavs/sample-72.wav|Em dois mil e dez, de acordo com dados da amostra do censo demográfico, da população total, vinte e três seiscentos e trinta e três habitantes frequentavam creches e/ou escolas.|0
+../TTS-Portuguese-Corpus/wavs/sample-776.wav|O que é a parole?|0
+../TTS-Portuguese-Corpus/wavs/sample-2410.wav|Os pratos comuns da culinária do país incluem o molho de peixe, a pasta de camarão, o molho de soja, o arroz, as ervas frescas, as frutas e os legumes.|0
+../TTS-Portuguese-Corpus/wavs/sample-6431.wav|Não me sentiria atraída por um homem que traísse sua esposa.|0
+../TTS-Portuguese-Corpus/wavs/sample-1933.wav|A primeira vez que Melito é mencionado na história é nas cartas de Gregório e nada mais se sabe sobre seu passado.|0
+../TTS-Portuguese-Corpus/wavs/sample-1784.wav|O mundo aberto do jogo é o estado ficcional norte-americano de San Andreas.|0
+../TTS-Portuguese-Corpus/wavs/sample-1210.wav|O Espírito Santo, que é o mestre da oração, foi enviado por Jesus para guiar, edificar, animar e santificar a Igreja e para que ela sempre testemunhe e interprete bem a Revelação divina.|0
+../TTS-Portuguese-Corpus/wavs/sample-5779.wav|Apesar desse resultado tomarei uma decisão.|0
+../TTS-Portuguese-Corpus/wavs/sample-1770.wav|Uma testemunha descreveu ser incapaz de "se afastar dos rostos de vítimas inocentes que foram mortas.|0
+../TTS-Portuguese-Corpus/wavs/sample-1657.wav|Mas mesmo aqui foram ouvidas algumas críticas, apontando como falhas o cromatismo limitado e seu naturalismo, considerado vulgar.|0
+../TTS-Portuguese-Corpus/wavs/sample-1683.wav|As Encantadas encontram uma escola de magia, cujo diretor, chamado Gideon, mostrou-se um forte inimigo.|0
+../TTS-Portuguese-Corpus/wavs/sample-3971.wav|O departamento de arte criou esboços conceituais para mostrarem a Paramount, enquanto o fabricante de miniaturas William George foi convencido por um membro da equipe a submeter seu próprio desenho baseado na ideia de como a Enterprise seria caso fosse projetada pelos japoneses.|0
+../TTS-Portuguese-Corpus/wavs/sample-1035.wav|A velocidade de síntese proteica é maior nos procariontes do que nos eucariontes, podendo atingir os vinte aminoácidos por segundo.|0
+../TTS-Portuguese-Corpus/wavs/sample-1781.wav|Você é muito linda, qual é seu nome?|0
+../TTS-Portuguese-Corpus/wavs/sample-5893.wav|Ao final deste período, Barnabé foi ao encontro de Paulo e o trouxe de volta para Antioquia.|0
+../TTS-Portuguese-Corpus/wavs/sample-5324.wav|A Rússia domina quase metade da Europa e um terço da Ásia.|0
+../TTS-Portuguese-Corpus/wavs/sample-5262.wav|A disponibilidade de mão de obra escrava também colocou um teto nos salários que os empregadores estavam dispostos a oferecer pelo trabalho livre, como consequência, os trabalhadores não eram comumente usados em atividades com um alto produto marginal durante a primeira metade do século.|0
+../TTS-Portuguese-Corpus/wavs/sample-773.wav|O que é a alfabetização?|0
+../TTS-Portuguese-Corpus/wavs/sample-5816.wav|Nosso filho ama os animais.|0
+../TTS-Portuguese-Corpus/wavs/sample-3657.wav|Rações de cigarros foram limitadas a seis por soldado por dia.|0
+../TTS-Portuguese-Corpus/wavs/sample-4047.wav|Dedicada à Glória celestial de Jesus, representa o caminho ascensional a Deus a Morte, o Julgamento Final e a Glória, bem como o Inferno, para todo aquele que se afasta do ditado de Deus.|0
+../TTS-Portuguese-Corpus/wavs/sample-2577.wav|O monarca passou cada vez mais a enxergar o sistema imperial como inexoravelmente preso a si, que não sobreviveria a sua morte.|0
+../TTS-Portuguese-Corpus/wavs/sample-5344.wav|A ascensão claramente manipulada de Borges de Medeiros ao poder estadual desencadeou a Revolução de mil, novecentos e vinte e três, culminando um período de crise política e econômica que se desenhava há algum tempo, com consequências negativas para o comércio e indústria de Caxias do Sul.|0
+../TTS-Portuguese-Corpus/wavs/sample-1810.wav|O plano japonês era atrair os porta-aviões remanescentes dos Estados Unidos para uma armadilha e afundá- los, ocupando Midway em seguida para ampliar o perímetro defensivo do Japão no Pacífico, afastando-o das ilhas metropolitanas japonesas.|0
+../TTS-Portuguese-Corpus/wavs/sample-4771.wav|No entanto, a grande maioria dos crentes ortodoxos não frequentam a igreja regularmente.|0
+../TTS-Portuguese-Corpus/wavs/sample-530.wav|Entretanto, na porção que ele usou na abertura, Mendes removeu a trilha e deixou de fora um plano de reação de Ricky que deixava uma certa ambiguidade sobre sua culpa.|0
+../TTS-Portuguese-Corpus/wavs/sample-1235.wav|Apesar de o shopping ter sido anunciado em dois mil e dez pelo grupo, várias datas foram determinadas para o início da obra, porém, em nenhuma o empreendimento foi tirado do papel.|0
+../TTS-Portuguese-Corpus/wavs/sample-451.wav|Oito dos doze cem - cento e trinta do esquadrão estiveram envolvidos, na época natalícia de mil, novecentos e setenta e quatro, em missões  humanitárias e de socorro, depois de um ciclone ter atingido a cidade de Darwin, as aeronaves voaram quinhentos e cinquenta horas, transportando dois mil, oitocentos e sessenta e quatro passageiros e quase trezentos e sessenta mil quilogramas de mercadorias.|0
+../TTS-Portuguese-Corpus/wavs/sample-2021.wav|Em um esforço final, os três rinocerontes foram reunidos em Cincinati.|0
+../TTS-Portuguese-Corpus/wavs/sample-205.wav|O mercado de arte internacional passava por um momento propício para quem dispunha de capital para adquirir obras de qualidade, havia muitas à disposição em vista do final da guerra, e o Brasil passava por um momento de prosperidade.|0
+../TTS-Portuguese-Corpus/wavs/sample-364.wav|Na última avaliação do MEC, a UFPR atingiu trezentos e dezessete pontos, e foi classificada a quarta  melhor universidade do estado e a decima primeira do sul do Brasil.|0
+../TTS-Portuguese-Corpus/wavs/sample-349.wav|Em Bauru sedia-se o Instituto de Pesquisas Meteorológicas, unidade complementar da Universidade Estadual Paulista  criada em mil, novecentos e sessenta e nove com o intuito de realizar pesquisas meteorológicas voltadas à utilização em previsão do tempo para todo o São Paulo, além de quantificar e monitorar tempestades e a pluviosidade nessa região, através do uso de um radar meteorológico.|0
+../TTS-Portuguese-Corpus/wavs/sample-3780.wav|Em última análise, nenhuma nação apoiou o boicote.|0
+../TTS-Portuguese-Corpus/wavs/sample-2547.wav|Os fatores ambientais, associados a este substrato genético polimórfico, vão conferir a predisposição de cada indivíduo a desenvolver ou não uma patologia de causa multifatorial como é o caso da hipertensão arterial.|0
+../TTS-Portuguese-Corpus/wavs/sample-5519.wav|O século dezenove foi marcado por uma intensa expulsão demográfica na Europa.|0
+../TTS-Portuguese-Corpus/wavs/sample-3600.wav|As proporções de todos os tipos de matéria e energia mudaram ao longo da história do Universo.|0
+../TTS-Portuguese-Corpus/wavs/sample-1706.wav|Com isto foi instituido o xogunato enquanto figura permanente, que duraria cerca de setecentos anos até à restauração.|0
