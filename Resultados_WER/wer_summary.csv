@@ -1,0 +1,6 @@
+model,wer,cer
+azure,0.021560,0.016253
+gradtts-bigvgan,0.028499,0.017575
+piper,0.029415,0.018528
+gradtts-hifigan,0.029507,0.017856
+glowtts-hifigan,0.030927,0.018953

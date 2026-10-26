@@ -1,0 +1,6 @@
+model,speaker,num_files,utmos_mean,utmos_std,utmos_median,utmos_min,utmos_max
+azure,Antonio,100,3.2602,0.3056,3.2686,2.1973,4.1797
+piper,cadu,100,3.1589,0.2565,3.1543,2.6230,3.8789
+gradtts-hifigan,polly-camila,100,2.6152,0.2250,2.5977,1.9473,3.1914
+glowtts-hifigan,edresson,100,2.3132,0.3309,2.2939,1.6045,3.1953
+gradtts-bigvgan,polly-camila,100,2.2623,0.2701,2.2793,1.7295,3.0371

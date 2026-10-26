@@ -1,0 +1,3056 @@
+{
+  "summary": [
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "num_files": 100,
+      "mean": 3.26017578125,
+      "std": 0.30557150968124897,
+      "median": 3.2685546875,
+      "min": 2.197265625,
+      "max": 4.1796875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "num_files": 100,
+      "mean": 3.1589453125,
+      "std": 0.2564819909790069,
+      "median": 3.154296875,
+      "min": 2.623046875,
+      "max": 3.87890625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "num_files": 100,
+      "mean": 2.6151953125,
+      "std": 0.22496017977086577,
+      "median": 2.59765625,
+      "min": 1.947265625,
+      "max": 3.19140625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "num_files": 100,
+      "mean": 2.31318359375,
+      "std": 0.3309171993618437,
+      "median": 2.2939453125,
+      "min": 1.6044921875,
+      "max": 3.1953125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "num_files": 100,
+      "mean": 2.262265625,
+      "std": 0.270082524821317,
+      "median": 2.279296875,
+      "min": 1.7294921875,
+      "max": 3.037109375
+    }
+  ],
+  "details": [
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_001.wav",
+      "utmos": 3.62109375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_002.wav",
+      "utmos": 3.6796875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_003.wav",
+      "utmos": 2.837890625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_004.wav",
+      "utmos": 3.546875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_005.wav",
+      "utmos": 3.267578125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_006.wav",
+      "utmos": 3.15234375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_007.wav",
+      "utmos": 3.654296875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_008.wav",
+      "utmos": 2.638671875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_009.wav",
+      "utmos": 3.193359375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_010.wav",
+      "utmos": 2.78125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_011.wav",
+      "utmos": 3.078125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_012.wav",
+      "utmos": 3.083984375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_013.wav",
+      "utmos": 3.361328125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_014.wav",
+      "utmos": 3.0859375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_015.wav",
+      "utmos": 3.5703125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_016.wav",
+      "utmos": 3.03125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_017.wav",
+      "utmos": 3.6953125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_018.wav",
+      "utmos": 3.5703125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_019.wav",
+      "utmos": 3.150390625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_020.wav",
+      "utmos": 3.466796875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_021.wav",
+      "utmos": 3.181640625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_022.wav",
+      "utmos": 2.365234375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_023.wav",
+      "utmos": 3.22265625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_024.wav",
+      "utmos": 4.1796875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_025.wav",
+      "utmos": 2.876953125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_026.wav",
+      "utmos": 3.1015625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_027.wav",
+      "utmos": 3.29296875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_028.wav",
+      "utmos": 2.724609375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_029.wav",
+      "utmos": 3.388671875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_030.wav",
+      "utmos": 3.44921875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_031.wav",
+      "utmos": 2.947265625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_032.wav",
+      "utmos": 3.65625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_033.wav",
+      "utmos": 3.48828125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_034.wav",
+      "utmos": 3.44921875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_035.wav",
+      "utmos": 3.455078125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_036.wav",
+      "utmos": 3.3515625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_037.wav",
+      "utmos": 3.435546875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_038.wav",
+      "utmos": 3.509765625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_039.wav",
+      "utmos": 3.3515625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_040.wav",
+      "utmos": 3.62890625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_041.wav",
+      "utmos": 3.310546875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_042.wav",
+      "utmos": 3.427734375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_043.wav",
+      "utmos": 3.404296875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_044.wav",
+      "utmos": 3.26953125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_045.wav",
+      "utmos": 3.40625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_046.wav",
+      "utmos": 3.23046875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_047.wav",
+      "utmos": 3.171875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_048.wav",
+      "utmos": 3.15234375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_049.wav",
+      "utmos": 3.353515625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_050.wav",
+      "utmos": 3.20703125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_051.wav",
+      "utmos": 2.99609375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_052.wav",
+      "utmos": 3.015625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_053.wav",
+      "utmos": 2.826171875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_054.wav",
+      "utmos": 2.990234375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_055.wav",
+      "utmos": 3.25
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_056.wav",
+      "utmos": 3.708984375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_057.wav",
+      "utmos": 2.197265625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_058.wav",
+      "utmos": 3.05078125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_059.wav",
+      "utmos": 3.55078125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_060.wav",
+      "utmos": 3.130859375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_061.wav",
+      "utmos": 3.4375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_062.wav",
+      "utmos": 3.412109375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_063.wav",
+      "utmos": 3.1328125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_064.wav",
+      "utmos": 3.458984375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_065.wav",
+      "utmos": 3.255859375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_066.wav",
+      "utmos": 3.5859375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_067.wav",
+      "utmos": 2.623046875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_068.wav",
+      "utmos": 2.9140625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_069.wav",
+      "utmos": 3.248046875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_070.wav",
+      "utmos": 3.025390625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_071.wav",
+      "utmos": 3.34375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_072.wav",
+      "utmos": 3.50390625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_073.wav",
+      "utmos": 3.736328125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_074.wav",
+      "utmos": 2.94921875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_075.wav",
+      "utmos": 3.607421875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_076.wav",
+      "utmos": 3.685546875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_077.wav",
+      "utmos": 3.37890625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_078.wav",
+      "utmos": 3.166015625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_079.wav",
+      "utmos": 3.22265625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_080.wav",
+      "utmos": 3.001953125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_081.wav",
+      "utmos": 3.51171875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_082.wav",
+      "utmos": 3.4765625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_083.wav",
+      "utmos": 3.39453125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_084.wav",
+      "utmos": 3.205078125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_085.wav",
+      "utmos": 3.255859375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_086.wav",
+      "utmos": 3.3046875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_087.wav",
+      "utmos": 2.880859375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_088.wav",
+      "utmos": 3.123046875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_089.wav",
+      "utmos": 2.9140625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_090.wav",
+      "utmos": 3.2890625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_091.wav",
+      "utmos": 3.43359375
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_092.wav",
+      "utmos": 2.806640625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_093.wav",
+      "utmos": 3.06640625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_094.wav",
+      "utmos": 3.58203125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_095.wav",
+      "utmos": 3.232421875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_096.wav",
+      "utmos": 3.357421875
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_097.wav",
+      "utmos": 3.515625
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_098.wav",
+      "utmos": 3.158203125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_099.wav",
+      "utmos": 3.142578125
+    },
+    {
+      "model": "azure",
+      "speaker": "Antonio",
+      "audio": "azure_Antonio_100.wav",
+      "utmos": 3.50390625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_001.wav",
+      "utmos": 2.576171875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_002.wav",
+      "utmos": 2.275390625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_003.wav",
+      "utmos": 2.205078125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_004.wav",
+      "utmos": 2.17578125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_005.wav",
+      "utmos": 2.33984375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_006.wav",
+      "utmos": 2.26171875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_007.wav",
+      "utmos": 1.7060546875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_008.wav",
+      "utmos": 2.34765625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_009.wav",
+      "utmos": 2.0859375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_010.wav",
+      "utmos": 2.302734375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_011.wav",
+      "utmos": 1.9052734375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_012.wav",
+      "utmos": 2.044921875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_013.wav",
+      "utmos": 2.865234375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_014.wav",
+      "utmos": 2.28515625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_015.wav",
+      "utmos": 2.72265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_016.wav",
+      "utmos": 2.482421875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_017.wav",
+      "utmos": 2.818359375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_018.wav",
+      "utmos": 2.546875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_019.wav",
+      "utmos": 1.9501953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_020.wav",
+      "utmos": 1.830078125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_021.wav",
+      "utmos": 1.8720703125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_022.wav",
+      "utmos": 2.51171875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_023.wav",
+      "utmos": 1.849609375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_024.wav",
+      "utmos": 2.7265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_025.wav",
+      "utmos": 1.921875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_026.wav",
+      "utmos": 2.47265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_027.wav",
+      "utmos": 1.96875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_028.wav",
+      "utmos": 2.61328125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_029.wav",
+      "utmos": 2.568359375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_030.wav",
+      "utmos": 2.501953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_031.wav",
+      "utmos": 1.7763671875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_032.wav",
+      "utmos": 2.2421875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_033.wav",
+      "utmos": 2.541015625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_034.wav",
+      "utmos": 2.65625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_035.wav",
+      "utmos": 2.755859375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_036.wav",
+      "utmos": 2.775390625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_037.wav",
+      "utmos": 2.3125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_038.wav",
+      "utmos": 2.349609375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_039.wav",
+      "utmos": 2.005859375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_040.wav",
+      "utmos": 2.150390625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_041.wav",
+      "utmos": 1.6044921875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_042.wav",
+      "utmos": 2.326171875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_043.wav",
+      "utmos": 2.23046875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_044.wav",
+      "utmos": 1.986328125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_045.wav",
+      "utmos": 2.09375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_046.wav",
+      "utmos": 2.1796875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_047.wav",
+      "utmos": 2.802734375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_048.wav",
+      "utmos": 1.9892578125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_049.wav",
+      "utmos": 3.1953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_050.wav",
+      "utmos": 2.41015625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_051.wav",
+      "utmos": 2.251953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_052.wav",
+      "utmos": 2.62890625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_053.wav",
+      "utmos": 2.5546875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_054.wav",
+      "utmos": 2.796875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_055.wav",
+      "utmos": 2.869140625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_056.wav",
+      "utmos": 2.583984375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_057.wav",
+      "utmos": 2.322265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_058.wav",
+      "utmos": 2.16796875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_059.wav",
+      "utmos": 2.990234375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_060.wav",
+      "utmos": 2.15625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_061.wav",
+      "utmos": 2.53125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_062.wav",
+      "utmos": 2.5859375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_063.wav",
+      "utmos": 2.412109375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_064.wav",
+      "utmos": 1.822265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_065.wav",
+      "utmos": 2.40625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_066.wav",
+      "utmos": 2.220703125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_067.wav",
+      "utmos": 2.53125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_068.wav",
+      "utmos": 1.9462890625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_069.wav",
+      "utmos": 2.265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_070.wav",
+      "utmos": 2.3359375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_071.wav",
+      "utmos": 2.626953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_072.wav",
+      "utmos": 2.443359375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_073.wav",
+      "utmos": 2.57421875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_074.wav",
+      "utmos": 2.34765625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_075.wav",
+      "utmos": 2.10546875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_076.wav",
+      "utmos": 2.4921875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_077.wav",
+      "utmos": 1.978515625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_078.wav",
+      "utmos": 2.30078125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_079.wav",
+      "utmos": 3.048828125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_080.wav",
+      "utmos": 1.8984375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_081.wav",
+      "utmos": 2.275390625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_082.wav",
+      "utmos": 2.64453125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_083.wav",
+      "utmos": 2.51953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_084.wav",
+      "utmos": 1.86328125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_085.wav",
+      "utmos": 2.1953125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_086.wav",
+      "utmos": 1.7890625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_087.wav",
+      "utmos": 2.669921875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_088.wav",
+      "utmos": 2.048828125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_089.wav",
+      "utmos": 2.22265625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_090.wav",
+      "utmos": 2.73828125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_091.wav",
+      "utmos": 2.111328125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_092.wav",
+      "utmos": 2.25
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_093.wav",
+      "utmos": 1.8515625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_094.wav",
+      "utmos": 2.48828125
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_095.wav",
+      "utmos": 2.24609375
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_096.wav",
+      "utmos": 2.0625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_097.wav",
+      "utmos": 2.25390625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_098.wav",
+      "utmos": 1.744140625
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_099.wav",
+      "utmos": 1.7421875
+    },
+    {
+      "model": "glowtts-hifigan",
+      "speaker": "edresson",
+      "audio": "glowtts_edresson_100.wav",
+      "utmos": 2.287109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_001.wav",
+      "utmos": 2.29296875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_002.wav",
+      "utmos": 2.177734375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_003.wav",
+      "utmos": 2.51171875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_004.wav",
+      "utmos": 3.037109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_005.wav",
+      "utmos": 2.82421875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_006.wav",
+      "utmos": 2.32421875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_007.wav",
+      "utmos": 2.744140625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_008.wav",
+      "utmos": 2.15234375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_009.wav",
+      "utmos": 2.19921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_010.wav",
+      "utmos": 2.4921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_011.wav",
+      "utmos": 2.162109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_012.wav",
+      "utmos": 2.33203125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_013.wav",
+      "utmos": 2.876953125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_014.wav",
+      "utmos": 2.32421875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_015.wav",
+      "utmos": 2.212890625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_016.wav",
+      "utmos": 2.20703125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_017.wav",
+      "utmos": 2.736328125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_018.wav",
+      "utmos": 2.498046875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_019.wav",
+      "utmos": 2.28125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_020.wav",
+      "utmos": 2.169921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_021.wav",
+      "utmos": 1.95703125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_022.wav",
+      "utmos": 2.0390625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_023.wav",
+      "utmos": 2.2890625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_024.wav",
+      "utmos": 2.322265625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_025.wav",
+      "utmos": 2.5
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_026.wav",
+      "utmos": 2.197265625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_027.wav",
+      "utmos": 2.43359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_028.wav",
+      "utmos": 2.322265625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_029.wav",
+      "utmos": 2.412109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_030.wav",
+      "utmos": 2.55078125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_031.wav",
+      "utmos": 2.3359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_032.wav",
+      "utmos": 2.435546875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_033.wav",
+      "utmos": 2.19140625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_034.wav",
+      "utmos": 2.314453125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_035.wav",
+      "utmos": 2.599609375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_036.wav",
+      "utmos": 2.58984375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_037.wav",
+      "utmos": 2.32421875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_038.wav",
+      "utmos": 2.20703125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_039.wav",
+      "utmos": 2.076171875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_040.wav",
+      "utmos": 2.12109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_041.wav",
+      "utmos": 1.8115234375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_042.wav",
+      "utmos": 1.7392578125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_043.wav",
+      "utmos": 2.42578125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_044.wav",
+      "utmos": 1.869140625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_045.wav",
+      "utmos": 2.462890625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_046.wav",
+      "utmos": 2.248046875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_047.wav",
+      "utmos": 2.646484375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_048.wav",
+      "utmos": 1.916015625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_049.wav",
+      "utmos": 1.8818359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_050.wav",
+      "utmos": 1.998046875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_051.wav",
+      "utmos": 2.205078125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_052.wav",
+      "utmos": 1.94921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_053.wav",
+      "utmos": 2.279296875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_054.wav",
+      "utmos": 2.462890625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_055.wav",
+      "utmos": 2.693359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_056.wav",
+      "utmos": 2.50390625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_057.wav",
+      "utmos": 2.2578125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_058.wav",
+      "utmos": 1.865234375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_059.wav",
+      "utmos": 2.41015625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_060.wav",
+      "utmos": 2.623046875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_061.wav",
+      "utmos": 2.365234375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_062.wav",
+      "utmos": 2.310546875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_063.wav",
+      "utmos": 2.68359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_064.wav",
+      "utmos": 2.25390625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_065.wav",
+      "utmos": 2.125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_066.wav",
+      "utmos": 1.9130859375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_067.wav",
+      "utmos": 2.458984375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_068.wav",
+      "utmos": 1.95703125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_069.wav",
+      "utmos": 2.3359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_070.wav",
+      "utmos": 2.201171875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_071.wav",
+      "utmos": 2.126953125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_072.wav",
+      "utmos": 2.45703125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_073.wav",
+      "utmos": 2.140625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_074.wav",
+      "utmos": 1.849609375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_075.wav",
+      "utmos": 1.8994140625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_076.wav",
+      "utmos": 2.302734375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_077.wav",
+      "utmos": 2.265625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_078.wav",
+      "utmos": 2.4296875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_079.wav",
+      "utmos": 2.279296875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_080.wav",
+      "utmos": 2.0234375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_081.wav",
+      "utmos": 1.9580078125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_082.wav",
+      "utmos": 2.59765625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_083.wav",
+      "utmos": 1.7294921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_084.wav",
+      "utmos": 1.8193359375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_085.wav",
+      "utmos": 1.7744140625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_086.wav",
+      "utmos": 2.69921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_087.wav",
+      "utmos": 2.03515625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_088.wav",
+      "utmos": 2.23046875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_089.wav",
+      "utmos": 2.544921875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_090.wav",
+      "utmos": 2.3671875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_091.wav",
+      "utmos": 2.296875
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_092.wav",
+      "utmos": 1.8251953125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_093.wav",
+      "utmos": 2.33984375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_094.wav",
+      "utmos": 2.0
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_095.wav",
+      "utmos": 1.9912109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_096.wav",
+      "utmos": 2.080078125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_097.wav",
+      "utmos": 2.048828125
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_098.wav",
+      "utmos": 2.306640625
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_099.wav",
+      "utmos": 1.9912109375
+    },
+    {
+      "model": "gradtts-bigvgan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_bigvgan_polly-camila_100.wav",
+      "utmos": 2.1875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_001.wav",
+      "utmos": 2.705078125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_002.wav",
+      "utmos": 2.951171875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_003.wav",
+      "utmos": 2.916015625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_004.wav",
+      "utmos": 2.279296875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_005.wav",
+      "utmos": 3.19140625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_006.wav",
+      "utmos": 2.69921875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_007.wav",
+      "utmos": 2.876953125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_008.wav",
+      "utmos": 2.53515625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_009.wav",
+      "utmos": 2.3984375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_010.wav",
+      "utmos": 2.830078125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_011.wav",
+      "utmos": 2.904296875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_012.wav",
+      "utmos": 2.71484375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_013.wav",
+      "utmos": 2.732421875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_014.wav",
+      "utmos": 2.7421875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_015.wav",
+      "utmos": 3.173828125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_016.wav",
+      "utmos": 2.544921875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_017.wav",
+      "utmos": 2.84375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_018.wav",
+      "utmos": 2.9453125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_019.wav",
+      "utmos": 2.623046875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_020.wav",
+      "utmos": 2.716796875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_021.wav",
+      "utmos": 2.15625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_022.wav",
+      "utmos": 2.234375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_023.wav",
+      "utmos": 2.740234375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_024.wav",
+      "utmos": 2.826171875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_025.wav",
+      "utmos": 2.62890625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_026.wav",
+      "utmos": 2.58984375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_027.wav",
+      "utmos": 2.669921875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_028.wav",
+      "utmos": 2.55859375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_029.wav",
+      "utmos": 2.759765625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_030.wav",
+      "utmos": 2.861328125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_031.wav",
+      "utmos": 2.55859375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_032.wav",
+      "utmos": 2.591796875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_033.wav",
+      "utmos": 2.650390625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_034.wav",
+      "utmos": 2.486328125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_035.wav",
+      "utmos": 2.71875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_036.wav",
+      "utmos": 2.82421875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_037.wav",
+      "utmos": 2.58203125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_038.wav",
+      "utmos": 2.263671875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_039.wav",
+      "utmos": 2.58984375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_040.wav",
+      "utmos": 2.447265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_041.wav",
+      "utmos": 2.1796875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_042.wav",
+      "utmos": 2.2265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_043.wav",
+      "utmos": 2.78125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_044.wav",
+      "utmos": 2.5625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_045.wav",
+      "utmos": 2.751953125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_046.wav",
+      "utmos": 2.576171875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_047.wav",
+      "utmos": 2.990234375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_048.wav",
+      "utmos": 2.7734375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_049.wav",
+      "utmos": 2.35546875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_050.wav",
+      "utmos": 2.537109375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_051.wav",
+      "utmos": 2.298828125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_052.wav",
+      "utmos": 2.51953125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_053.wav",
+      "utmos": 2.40625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_054.wav",
+      "utmos": 2.962890625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_055.wav",
+      "utmos": 2.78125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_056.wav",
+      "utmos": 3.025390625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_057.wav",
+      "utmos": 2.447265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_058.wav",
+      "utmos": 2.6640625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_059.wav",
+      "utmos": 2.794921875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_060.wav",
+      "utmos": 2.70703125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_061.wav",
+      "utmos": 2.572265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_062.wav",
+      "utmos": 2.447265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_063.wav",
+      "utmos": 2.65234375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_064.wav",
+      "utmos": 2.748046875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_065.wav",
+      "utmos": 2.4609375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_066.wav",
+      "utmos": 2.44140625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_067.wav",
+      "utmos": 2.826171875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_068.wav",
+      "utmos": 2.43359375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_069.wav",
+      "utmos": 2.71484375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_070.wav",
+      "utmos": 2.666015625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_071.wav",
+      "utmos": 2.7890625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_072.wav",
+      "utmos": 2.828125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_073.wav",
+      "utmos": 2.486328125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_074.wav",
+      "utmos": 2.666015625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_075.wav",
+      "utmos": 2.5078125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_076.wav",
+      "utmos": 2.587890625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_077.wav",
+      "utmos": 2.13671875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_078.wav",
+      "utmos": 2.279296875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_079.wav",
+      "utmos": 2.466796875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_080.wav",
+      "utmos": 2.2578125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_081.wav",
+      "utmos": 2.53515625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_082.wav",
+      "utmos": 2.564453125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_083.wav",
+      "utmos": 2.5546875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_084.wav",
+      "utmos": 2.587890625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_085.wav",
+      "utmos": 2.595703125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_086.wav",
+      "utmos": 2.869140625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_087.wav",
+      "utmos": 2.599609375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_088.wav",
+      "utmos": 2.50390625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_089.wav",
+      "utmos": 1.947265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_090.wav",
+      "utmos": 2.47265625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_091.wav",
+      "utmos": 2.45703125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_092.wav",
+      "utmos": 2.75390625
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_093.wav",
+      "utmos": 2.689453125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_094.wav",
+      "utmos": 2.734375
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_095.wav",
+      "utmos": 2.560546875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_096.wav",
+      "utmos": 2.533203125
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_097.wav",
+      "utmos": 2.7421875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_098.wav",
+      "utmos": 2.216796875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_099.wav",
+      "utmos": 2.79296875
+    },
+    {
+      "model": "gradtts-hifigan",
+      "speaker": "polly-camila",
+      "audio": "gradtts_hifigan_polly-camila_100.wav",
+      "utmos": 2.435546875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_001.wav",
+      "utmos": 3.484375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_002.wav",
+      "utmos": 3.3828125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_003.wav",
+      "utmos": 2.72265625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_004.wav",
+      "utmos": 2.9140625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_005.wav",
+      "utmos": 3.87890625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_006.wav",
+      "utmos": 2.623046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_007.wav",
+      "utmos": 3.59375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_008.wav",
+      "utmos": 3.072265625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_009.wav",
+      "utmos": 2.970703125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_010.wav",
+      "utmos": 3.21484375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_011.wav",
+      "utmos": 2.69921875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_012.wav",
+      "utmos": 2.884765625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_013.wav",
+      "utmos": 2.935546875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_014.wav",
+      "utmos": 3.05078125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_015.wav",
+      "utmos": 2.8828125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_016.wav",
+      "utmos": 3.19921875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_017.wav",
+      "utmos": 3.412109375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_018.wav",
+      "utmos": 3.869140625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_019.wav",
+      "utmos": 3.345703125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_020.wav",
+      "utmos": 3.16796875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_021.wav",
+      "utmos": 3.70703125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_022.wav",
+      "utmos": 2.9453125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_023.wav",
+      "utmos": 3.419921875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_024.wav",
+      "utmos": 2.837890625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_025.wav",
+      "utmos": 3.0859375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_026.wav",
+      "utmos": 3.0390625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_027.wav",
+      "utmos": 3.15625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_028.wav",
+      "utmos": 3.349609375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_029.wav",
+      "utmos": 3.283203125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_030.wav",
+      "utmos": 2.966796875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_031.wav",
+      "utmos": 3.083984375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_032.wav",
+      "utmos": 3.4921875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_033.wav",
+      "utmos": 3.6484375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_034.wav",
+      "utmos": 2.998046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_035.wav",
+      "utmos": 3.197265625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_036.wav",
+      "utmos": 3.123046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_037.wav",
+      "utmos": 3.1875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_038.wav",
+      "utmos": 2.76171875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_039.wav",
+      "utmos": 3.064453125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_040.wav",
+      "utmos": 2.9921875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_041.wav",
+      "utmos": 2.8046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_042.wav",
+      "utmos": 2.916015625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_043.wav",
+      "utmos": 3.189453125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_044.wav",
+      "utmos": 2.68359375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_045.wav",
+      "utmos": 3.505859375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_046.wav",
+      "utmos": 3.306640625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_047.wav",
+      "utmos": 3.3828125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_048.wav",
+      "utmos": 3.26953125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_049.wav",
+      "utmos": 3.193359375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_050.wav",
+      "utmos": 3.681640625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_051.wav",
+      "utmos": 2.888671875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_052.wav",
+      "utmos": 3.0546875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_053.wav",
+      "utmos": 3.458984375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_054.wav",
+      "utmos": 3.275390625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_055.wav",
+      "utmos": 3.61328125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_056.wav",
+      "utmos": 2.806640625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_057.wav",
+      "utmos": 3.037109375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_058.wav",
+      "utmos": 3.185546875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_059.wav",
+      "utmos": 3.25390625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_060.wav",
+      "utmos": 3.31640625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_061.wav",
+      "utmos": 3.2734375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_062.wav",
+      "utmos": 3.072265625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_063.wav",
+      "utmos": 3.15234375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_064.wav",
+      "utmos": 2.87890625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_065.wav",
+      "utmos": 3.345703125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_066.wav",
+      "utmos": 2.73046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_067.wav",
+      "utmos": 3.2890625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_068.wav",
+      "utmos": 3.2421875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_069.wav",
+      "utmos": 3.57421875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_070.wav",
+      "utmos": 2.875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_071.wav",
+      "utmos": 3.11328125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_072.wav",
+      "utmos": 3.04296875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_073.wav",
+      "utmos": 2.970703125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_074.wav",
+      "utmos": 3.396484375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_075.wav",
+      "utmos": 3.43359375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_076.wav",
+      "utmos": 3.125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_077.wav",
+      "utmos": 3.2265625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_078.wav",
+      "utmos": 3.111328125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_079.wav",
+      "utmos": 3.48828125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_080.wav",
+      "utmos": 2.791015625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_081.wav",
+      "utmos": 3.0078125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_082.wav",
+      "utmos": 3.1953125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_083.wav",
+      "utmos": 3.2109375
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_084.wav",
+      "utmos": 3.1328125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_085.wav",
+      "utmos": 3.12890625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_086.wav",
+      "utmos": 2.96875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_087.wav",
+      "utmos": 3.05078125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_088.wav",
+      "utmos": 3.119140625
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_089.wav",
+      "utmos": 3.23046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_090.wav",
+      "utmos": 2.939453125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_091.wav",
+      "utmos": 3.283203125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_092.wav",
+      "utmos": 3.013671875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_093.wav",
+      "utmos": 3.17578125
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_094.wav",
+      "utmos": 3.263671875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_095.wav",
+      "utmos": 2.841796875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_096.wav",
+      "utmos": 3.201171875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_097.wav",
+      "utmos": 3.1171875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_098.wav",
+      "utmos": 3.2421875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_099.wav",
+      "utmos": 3.23046875
+    },
+    {
+      "model": "piper",
+      "speaker": "cadu",
+      "audio": "piper_cadu_100.wav",
+      "utmos": 2.939453125
+    }
+  ]
+}

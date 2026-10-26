@@ -16,13 +16,19 @@ MODEL_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/gl
 CONFIG_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/glowtts/config.json"
 VOCODER_MODEL_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/hifigan/best_model.pth.tar"
 VOCODER_CONFIG_PATH = "/mnt/c/Users/rainh/TCC_Miruna/edresson-glowtts/edresson-glowtts/hifigan/config.json"
-#CORPUS_PATH = "corpus_rtf.txt"
-#CORPUS_PATH = "corpus_wer.txt"
-CORPUS_PATH = "corpus_utmos.txt"
-#OUT_PATH = "audios_rtf/glowtts-hifigan"
-#OUT_PATH = "audios_wer/glowtts-hifigan"
-OUT_PATH = "audios_utmos_2/glowtts-hifigan"
-#CORPUS_PATH = "corpus_benchmark.txt"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+METRICA = "wer"  # rtf, wer, nisqa, utmos
+
+CORPUS_PATH = os.path.join(
+    BASE_DIR, "Corpus_Avaliacao", f"corpus_{METRICA}.txt"
+)
+
+OUT_PATH = os.path.join(
+    BASE_DIR, f"audios_{METRICA}", "glowtts-hifigan"
+)
+
+RTF_DIR = os.path.join(BASE_DIR, "Resultados_RTF")
 
 USE_CUDA = torch.cuda.is_available()
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -70,8 +76,10 @@ def load_models():
 # SYNTHESIS
 def synthesize(text, model, vocoder_model, ap, C, speaker_embedding=None):
 
-    start_time = time.time()
-    mel_start = time.time()
+    if DEVICE.type == "cuda":
+        torch.cuda.synchronize()
+
+    start_time = time.perf_counter()
 
     waveform, _, _, mel_postnet_spec, _, _ = synthesis(
         model,
@@ -86,7 +94,6 @@ def synthesize(text, model, vocoder_model, ap, C, speaker_embedding=None):
         True
     )
 
-    mel_end = time.time()
 
     device = next(vocoder_model.parameters()).device
 
@@ -105,7 +112,11 @@ def synthesize(text, model, vocoder_model, ap, C, speaker_embedding=None):
 
     duration = len(waveform_voc) / ap.sample_rate
 
-    rtf = (time.time() - start_time) / duration
+    if DEVICE.type == "cuda":
+        torch.cuda.synchronize()
+
+    synthesis_time = time.perf_counter() - start_time
+    rtf = synthesis_time / duration
 
     return waveform_voc, rtf
 
@@ -163,14 +174,23 @@ if __name__ == "__main__":
     print(f"RTF médio        : {media_rtf:.4f}")
     print("=" * 60)
 
-    # SALVAR RTFs EM ARQUIVO
-    rtf_csv_path = os.path.join(OUT_PATH, "rtf_results.csv")
-    with open(rtf_csv_path, "w", newline="", encoding="utf-8") as f:
-        writer = csv.writer(f)
-        writer.writerow(["id", "text", "rtf"])
-        for id, text, rtf in results:
-            writer.writerow([id, text, f"{rtf:.6f}"])
-        writer.writerow([])
-        writer.writerow(["media", "", f"{media_rtf:.6f}"])
+    if METRICA == "rtf":
 
-    print(f"RTFs salvos em: {rtf_csv_path}")
+        os.makedirs(RTF_DIR, exist_ok=True)
+
+        rtf_csv_path = os.path.join(
+            RTF_DIR, f"rtf_glowtts_hifigan_{VOICES[0]}.csv"
+        )
+
+        with open(rtf_csv_path, "w", newline="", encoding="utf-8") as f:
+            writer = csv.writer(f)
+
+            writer.writerow(["id", "text", "rtf"])
+
+            for id, text, rtf in results:
+                writer.writerow([id, text, f"{rtf:.6f}"])
+
+            writer.writerow([])
+            writer.writerow(["media", "", f"{media_rtf:.6f}"])
+
+        print(f"RTFs salvos em: {rtf_csv_path}")

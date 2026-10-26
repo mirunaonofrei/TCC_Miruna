@@ -1,4 +1,0 @@
-model,speaker,num_files,utmos_mean,utmos_std,utmos_median,utmos_min,utmos_max
-gradtts-hifigan,polly-camila,100,2.6082,0.2058,2.6279,2.0781,3.0527
-gradtts-bigvgan,polly-camila,100,2.2823,0.2438,2.2783,1.6064,2.7949
-glowtts-hifigan,edresson,100,2.2532,0.3082,2.2236,1.5342,3.2617

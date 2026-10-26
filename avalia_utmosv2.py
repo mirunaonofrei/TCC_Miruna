@@ -5,9 +5,16 @@ from statistics import mean, median, stdev
 import utmosv2
 
 # CONFIG
-AUDIO_ROOT = "audios_utmos"
-OUTPUT_JSON = "utmos_results.json"
-OUTPUT_CSV = "utmos_summary.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+AUDIO_ROOT = os.path.join(BASE_DIR, "audios_utmos")
+
+OUTPUT_DIR = os.path.join(BASE_DIR, "Resultados_UTMOS")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+OUTPUT_JSON = os.path.join(OUTPUT_DIR, "utmos_results.json")
+OUTPUT_CSV = os.path.join(OUTPUT_DIR, "utmos_summary.csv")
+OUTPUT_DETAILS = os.path.join(OUTPUT_DIR, "utmos_details.csv")
 
 # LOAD MODEL
 print("Loading UTMOS...")
@@ -35,68 +42,63 @@ for model_name in model_dirs:
         if os.path.isdir(os.path.join(model_path, d))
     ])
 
-    if len(speaker_dirs) != 1:
-        print(f"ERRO: {model_name} possui {len(speaker_dirs)} speakers.")
-        continue
+    for speaker_name in speaker_dirs:
 
-    speaker_name = speaker_dirs[0]
-    speaker_path = os.path.join(model_path, speaker_name)
+        speaker_path = os.path.join(model_path, speaker_name)
 
-    print(f"Avaliando {model_name} ({speaker_name})...")
+        print(f"Avaliando {model_name} ({speaker_name})...")
 
-    # Lista os áudios
-    wav_files = sorted([
-        f for f in os.listdir(speaker_path)
-        if f.lower().endswith(".wav")
-    ])
+        wav_files = sorted([
+            f for f in os.listdir(speaker_path)
+            if f.lower().endswith(".wav")
+        ])
 
-    # Predição
-    resultados = model.predict(input_dir=speaker_path)
+        if not wav_files:
+            print(f"[AVISO] Nenhum WAV em {speaker_path}")
+            continue
 
-    if len(resultados) != len(wav_files):
-        print(
-            f"WARNING: {model_name} possui "
-            f"{len(wav_files)} wavs mas "
-            f"UTMOS retornou {len(resultados)} scores."
-        )
+        resultados = model.predict(input_dir=speaker_path)
 
-    scores = []
+        if len(resultados) != len(wav_files):
+            raise ValueError(
+                f"{model_name}/{speaker_name}: "
+                f"{len(wav_files)} WAVs, mas "
+                f"{len(resultados)} scores retornados."
+            )
 
-    for wav_file, resultado in zip(wav_files, resultados):
+        scores = []
 
-        score = resultado["predicted_mos"]
+        for wav_file, resultado in zip(wav_files, resultados):
 
-        scores.append(score)
+            score = float(resultado["predicted_mos"])
 
-        details.append({
+            scores.append(score)
+
+            details.append({
+                "model": model_name,
+                "speaker": speaker_name,
+                "audio": wav_file,
+                "utmos": score
+            })
+
+        resumo = {
             "model": model_name,
             "speaker": speaker_name,
-            "audio": wav_file,
-            "utmos": score
-        })
+            "num_files": len(scores),
+            "mean": mean(scores),
+            "std": stdev(scores) if len(scores) > 1 else 0.0,
+            "median": median(scores),
+            "min": min(scores),
+            "max": max(scores)
+        }
 
-    if len(scores) == 0:
-        continue
+        summary.append(resumo)
 
-    resumo = {
-        "model": model_name,
-        "speaker": speaker_name,
-        "num_files": len(scores),
-        "mean": mean(scores),
-        "std": stdev(scores) if len(scores) > 1 else 0.0,
-        "median": median(scores),
-        "min": min(scores),
-        "max": max(scores)
-    }
-
-    summary.append(resumo)
-
-    print(
-        f"{model_name:<20}"
-        f"{len(scores):>10}"
-        f"{resumo['mean']:>12.3f}"
-    )
-
+        print(
+            f"{model_name:<20}"
+            f"{len(scores):>10}"
+            f"{resumo['mean']:>12.3f}"
+        )
 # SORT
 summary = sorted(
     summary,
@@ -163,3 +165,19 @@ for pos, r in enumerate(summary, start=1):
 print("\nArquivos salvos:")
 print(f"  {OUTPUT_JSON}")
 print(f"  {OUTPUT_CSV}")
+
+# =========================================================
+# SALVAR DETALHES
+# =========================================================
+
+with open(OUTPUT_DETAILS, "w", newline="", encoding="utf-8") as f:
+
+    writer = csv.DictWriter(
+        f,
+        fieldnames=["model", "speaker", "audio", "utmos"]
+    )
+
+    writer.writeheader()
+    writer.writerows(details)
+
+print(f"  {OUTPUT_DETAILS}")

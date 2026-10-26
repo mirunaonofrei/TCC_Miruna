@@ -1,16 +1,34 @@
+
+'''
+wget -O large-v3.pt \
+https://openaipublic.azureedge.net/main/whisper/models/e5b1a55b89c1367dacf97e3e19bfd829a01529dbfdeefa8caeb59b3f1b81dadb/large-v3.pt
+'''
 import os
 import json
 import torch
 import jiwer
 import whisper
 from tqdm import tqdm
+import re
+import csv
 
 # CONFIG
-AUDIO_ROOT = "audios_utmos"
-CORPUS_PATH = "corpus_utmos.txt"
-#CORPUS_PATH = "corpus_benchmark.txt"
-OUTPUT_JSON = "wer_results.json"
-OUTPUT_CSV = "wer_summary.csv"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+AUDIO_ROOT = os.path.join(BASE_DIR, "audios_wer")
+
+CORPUS_PATH = os.path.join(
+    BASE_DIR, "Corpus_Avaliacao", "corpus_wer.txt"
+)
+
+OUTPUT_DIR = os.path.join(BASE_DIR, "Resultados_WER")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+OUTPUT_JSON = os.path.join(OUTPUT_DIR, "wer_results.json")
+OUTPUT_CSV = os.path.join(OUTPUT_DIR, "wer_summary.csv")
+OUTPUT_DETAILS = os.path.join(
+    OUTPUT_DIR, "wer_details.csv"
+)
 
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
@@ -63,33 +81,44 @@ for model_name in model_dirs:
     #    if f.lower().endswith(".wav")
     #])
 
-    wav_files = sorted([
-        os.path.join(root, file)
-        for root, _, files in os.walk(model_path)
-        for file in files
-        if file.lower().endswith(".wav")
-    ])
+    wav_map = {}
 
-    if len(wav_files) != len(corpus):
+    for root, _, files in os.walk(model_path):
+        for file in files:
+            if not file.lower().endswith(".wav"):
+                continue
+
+            match = re.search(r"_(\d+)\.wav$", file, re.I)
+
+            if match:
+                idx = int(match.group(1))
+                if idx in wav_map:
+                    raise ValueError(
+                        f"ID duplicado no modelo {model_name}: {idx}"
+                    )
+                wav_map[idx] = os.path.join(root, file)
+
+    if len(wav_map) != len(corpus):
 
         print(
             f"WARNING: {model_name} has "
-            f"{len(wav_files)} audios but corpus has "
+            f"{len(wav_map)} audios but corpus has "
             f"{len(corpus)} sentences."
         )
 
     wers = []
     cers = []
 
-    for i in tqdm(range(min(len(corpus), len(wav_files)))):
+    valid_ids = sorted(
+        idx for idx in wav_map
+        if 1 <= idx <= len(corpus)
+    )
 
-        #audio_file = os.path.join(
-        #    model_path,
-        #    wav_files[i]
-        #)
-        audio_file = wav_files[i]
+    for idx in tqdm(valid_ids):
 
-        reference = corpus[i]
+        audio_file = wav_map[idx]
+
+        reference = corpus[idx - 1]
 
         hypothesis = transcribe_whisper(audio_file)
 
@@ -104,14 +133,17 @@ for model_name in model_dirs:
 
         all_details.append({
             "model": model_name,
-            "id": i + 1,
-            "audio": os.path.basename(wav_files[i]),
+            "id": idx,
+            "audio": os.path.basename(audio_file),
             "reference": reference,
             "transcription": hypothesis,
             "wer": wer,
             "cer": cer
         })
     
+    if not wers:
+        print(f"[AVISO] Nenhum áudio válido para {model_name}")
+        continue
     avg_wer = sum(wers) / len(wers)
     avg_cer = sum(cers) / len(cers)
 
@@ -171,3 +203,23 @@ for pos, row in enumerate(summary, start=1):
 print("\nResults saved:")
 print(f"  {OUTPUT_JSON}")
 print(f"  {OUTPUT_CSV}")
+
+
+
+with open(OUTPUT_DETAILS, "w", newline="", encoding="utf-8") as f:
+    writer = csv.DictWriter(
+        f,
+        fieldnames=[
+            "model", "id", "audio",
+            "reference", "transcription",
+            "wer", "cer", "num_palavras"
+        ]
+    )
+
+    writer.writeheader()
+
+    for row in all_details:
+        writer.writerow({
+            **row,
+            "num_palavras": len(row["reference"].split())
+        })

@@ -1,0 +1,101 @@
+voice,id,text,rtf_grad,rtf_hifi,rtf_big,rtf_grad_hifi,rtf_grad_big
+polly-camila,1,A chuva parou antes do almoço.,0.096996,0.041640,0.109711,0.138636,0.206707
+polly-camila,2,O cachorro dormiu perto da porta.,0.163859,0.033775,0.095201,0.197634,0.259060
+polly-camila,3,Minha irmã trouxe pão fresco.,0.113254,0.032207,0.092441,0.145461,0.205695
+polly-camila,4,A praça ficou cheia de flores.,0.136877,0.062084,0.109489,0.198961,0.246366
+polly-camila,5,O ônibus chegou bem cedo.,0.192631,0.043873,0.125610,0.236504,0.318241
+polly-camila,6,A menina abriu a janela.,0.160742,0.047562,0.116536,0.208304,0.277277
+polly-camila,7,O vento balançou as árvores.,0.143370,0.041196,0.089560,0.184566,0.232931
+polly-camila,8,A professora explicou a tarefa.,0.102564,0.032580,0.090537,0.135144,0.193100
+polly-camila,9,O relógio marcou sete horas.,0.104295,0.033154,0.110287,0.137449,0.214582
+polly-camila,10,A família visitou o museu.,0.297531,0.041800,0.109432,0.339331,0.406964
+polly-camila,11,O carteiro entregou uma carta.,0.138189,0.040031,0.091950,0.178220,0.230139
+polly-camila,12,A cozinha cheirava a café.,0.134186,0.010435,0.058458,0.144620,0.192644
+polly-camila,13,O gato encontrou sua almofada.,0.139311,0.031865,0.084788,0.171176,0.224099
+polly-camila,14,A biblioteca abriu nesta manhã.,0.150682,0.031995,0.100831,0.182677,0.251513
+polly-camila,15,O menino perdeu o boné.,0.175384,0.042411,0.128769,0.217795,0.304154
+polly-camila,16,A vizinha regou as plantas.,0.279159,0.048981,0.158267,0.328140,0.437427
+polly-camila,17,O músico afinou o violão.,0.198277,0.046409,0.152692,0.244685,0.350968
+polly-camila,18,O padeiro preparou os bolos.,0.166048,0.040799,0.102396,0.206846,0.268444
+polly-camila,19,A bicicleta estava na garagem.,0.099337,0.012577,0.064352,0.111914,0.163688
+polly-camila,20,O jardim recebeu novas mudas.,0.088637,0.042738,0.089750,0.131375,0.178387
+polly-camila,21,A estudante terminou a leitura.,0.100385,0.014359,0.064120,0.114744,0.164505
+polly-camila,22,O pescador voltou para casa.,0.141799,0.037736,0.104731,0.179535,0.246530
+polly-camila,23,A fotógrafa registrou o pôr do sol.,0.131862,0.031868,0.092456,0.163730,0.224318
+polly-camila,24,O cozinheiro lavou as verduras.,0.086265,0.035277,0.089735,0.121542,0.176000
+polly-camila,25,A enfermeira fechou a porta.,0.120377,0.046394,0.144893,0.166771,0.265270
+polly-camila,26,O vento trouxe nuvens escuras.,0.104136,0.031470,0.103567,0.135606,0.207703
+polly-camila,27,A criança escolheu um brinquedo.,0.092721,0.034268,0.097475,0.126989,0.190196
+polly-camila,28,O vendedor organizou a vitrine.,0.082940,0.033930,0.103777,0.116870,0.186717
+polly-camila,29,O motorista consultou o mapa.,0.130696,0.038623,0.088928,0.169319,0.219623
+polly-camila,30,A cantora ensaiou uma canção.,0.116364,0.013170,0.064921,0.129534,0.181285
+polly-camila,31,A avó preparou um bolo de laranja para o café da tarde.,0.091746,0.025780,0.090255,0.117526,0.182001
+polly-camila,32,O menino encontrou uma concha brilhante enquanto caminhava pela praia.,0.066646,0.023154,0.087610,0.089801,0.154256
+polly-camila,33,A professora pediu silêncio antes de começar a leitura coletiva.,0.082883,0.018356,0.089039,0.101239,0.171922
+polly-camila,34,O cachorro correu pelo quintal quando ouviu o portão abrir.,0.100167,0.020319,0.079711,0.120485,0.179878
+polly-camila,35,A chuva começou devagar e depois molhou todas as ruas do bairro.,0.076287,0.012421,0.083301,0.088708,0.159588
+polly-camila,36,A família decidiu visitar o parque durante o feriado prolongado.,0.072673,0.016866,0.084632,0.089539,0.157305
+polly-camila,37,O músico guardou o violão depois de terminar o ensaio.,0.098091,0.019337,0.079003,0.117428,0.177095
+polly-camila,38,A vizinha comprou flores amarelas para enfeitar a sala.,0.077845,0.022839,0.077820,0.100684,0.155664
+polly-camila,39,A professora organizou as flores do jardim antes do almoço.,0.077417,0.016188,0.083107,0.093605,0.160524
+polly-camila,40,O jardineiro comprou os bilhetes da viagem depois do café.,0.080845,0.019104,0.077943,0.099949,0.158788
+polly-camila,41,Minha vizinha procurou as cadeiras do salão na semana passada.,0.072517,0.018142,0.084021,0.090659,0.156538
+polly-camila,42,O motorista decorou o material da pesquisa na sala principal.,0.082383,0.015563,0.083406,0.097946,0.165789
+polly-camila,43,A estudante montou uma cesta de frutas no início da tarde.,0.080080,0.017318,0.078669,0.097398,0.158749
+polly-camila,44,O padeiro cultivou o vestido amarelo depois da reunião.,0.056234,0.019420,0.077205,0.075654,0.133440
+polly-camila,45,Nossa família preparou a caixa de lembranças durante a visita.,0.064571,0.017744,0.082459,0.082315,0.147030
+polly-camila,46,O fotógrafo fotografou a decoração da festa durante o intervalo.,0.065876,0.012481,0.083017,0.078357,0.148893
+polly-camila,47,A enfermeira desenhou os brinquedos coloridos perto da janela.,0.052587,0.017315,0.079187,0.069902,0.131774
+polly-camila,48,O músico avaliou a encomenda da semana sem fazer barulho.,0.062986,0.018993,0.075174,0.081979,0.138160
+polly-camila,49,A bibliotecária descobriu as sementes de girassol antes de sair.,0.090585,0.016212,0.082107,0.106797,0.172691
+polly-camila,50,O cozinheiro reparou um livro de receitas com bastante atenção.,0.072802,0.018591,0.078273,0.091394,0.151076
+polly-camila,51,A pesquisadora consertou a janela da sala com ajuda dos colegas.,0.061470,0.020750,0.087030,0.082220,0.148500
+polly-camila,52,O carteiro entregou um desenho de pássaros ao chegar em casa.,0.065291,0.019236,0.076172,0.084526,0.141462
+polly-camila,53,A criança transportou as cortinas da janela na tarde de domingo.,0.080344,0.017918,0.083037,0.098263,0.163381
+polly-camila,54,O vendedor planejou o retrato da família na pequena oficina.,0.046671,0.016951,0.075576,0.063622,0.122247
+polly-camila,55,A arquiteta emprestou um mapa da cidade para a próxima semana.,0.062034,0.019426,0.088202,0.081460,0.150237
+polly-camila,56,O professor testou o cardápio do restaurante durante a manhã.,0.077151,0.017445,0.078716,0.094596,0.155867
+polly-camila,57,A atleta guardou o banco da praça para a festa do bairro.,0.067756,0.019277,0.078629,0.087033,0.146385
+polly-camila,58,O pescador separou uma coleção de fotografias com muito cuidado.,0.045572,0.018650,0.089040,0.064222,0.134612
+polly-camila,59,A escritora apresentou o relógio da parede antes do almoço.,0.046694,0.016004,0.078549,0.062698,0.125243
+polly-camila,60,O mecânico registrou o álbum de fotografias depois do café.,0.046653,0.018206,0.077118,0.064859,0.123771
+polly-camila,61,A dentista comparou a bicicleta vermelha na semana passada.,0.044969,0.017784,0.078763,0.062753,0.123732
+polly-camila,62,O artista encontrou o caderno de anotações na sala principal.,0.049232,0.019548,0.082425,0.068781,0.131657
+polly-camila,63,A repórter visitou as roupas de inverno no início da tarde.,0.056780,0.015600,0.082258,0.072380,0.139038
+polly-camila,64,O turista lavou o equipamento de gravação depois da reunião.,0.065817,0.018173,0.083096,0.083991,0.148913
+polly-camila,65,A costureira embalou as ferramentas da oficina durante a visita.,0.069659,0.016132,0.086855,0.085791,0.156515
+polly-camila,66,O agricultor reformou a receita de pão durante o intervalo.,0.054298,0.018940,0.075639,0.073238,0.129937
+polly-camila,67,A secretária limpou a bicicleta do vizinho perto da janela.,0.050267,0.018233,0.082780,0.068500,0.133047
+polly-camila,68,O veterinário observou a coleção de moedas sem fazer barulho.,0.045015,0.018989,0.081300,0.064003,0.126315
+polly-camila,69,A médica revisou a mochila azul antes de sair.,0.083683,0.018906,0.073656,0.102588,0.157339
+polly-camila,70,O eletricista analisou a lista de compras com bastante atenção.,0.046111,0.015697,0.080493,0.061808,0.126604
+polly-camila,71,"Quando o ônibus finalmente chegou, os passageiros entraram com calma e procuraram seus lugares perto das janelas.",0.049200,0.020755,0.095887,0.069956,0.145087
+polly-camila,72,"Depois de organizar os livros na estante, a estudante preparou um chá e voltou para a mesa de estudos.",0.069096,0.020169,0.097998,0.089265,0.167094
+polly-camila,73,"Embora o céu estivesse nublado pela manhã, as crianças aproveitaram a tarde para brincar no jardim da escola.",0.051809,0.022965,0.092767,0.074775,0.144576
+polly-camila,74,"Antes de fechar a pequena loja do bairro, o vendedor conferiu as encomendas e anotou os pedidos do dia.",0.056071,0.022245,0.094110,0.078316,0.150182
+polly-camila,75,"A professora organizou as flores do jardim antes do almoço, enquanto os vizinhos conversavam sobre os planos para o fim de semana.",0.055904,0.024213,0.097868,0.080116,0.153772
+polly-camila,76,"O jardineiro comprou os bilhetes da viagem depois do café, porque todos queriam deixar o espaço pronto para a visita dos amigos.",0.054763,0.022890,0.094105,0.077653,0.148868
+polly-camila,77,"Minha vizinha procurou as cadeiras do salão na semana passada, depois que a equipe terminou as atividades previstas para aquela manhã.",0.051582,0.022979,0.094856,0.074561,0.146437
+polly-camila,78,"O motorista decorou o material da pesquisa na sala principal, quando percebeu que ainda havia tempo para conversar com os colegas.",0.051829,0.022050,0.094482,0.073879,0.146311
+polly-camila,79,"A estudante montou uma cesta de frutas no início da tarde, antes que a chuva voltasse a cair sobre as ruas tranquilas do bairro.",0.053485,0.022941,0.094876,0.076426,0.148361
+polly-camila,80,"O padeiro cultivou o vestido amarelo depois da reunião, enquanto os vizinhos conversavam sobre os planos para o fim de semana.",0.057011,0.023003,0.096466,0.080015,0.153478
+polly-camila,81,"Nossa família preparou a caixa de lembranças durante a visita, porque todos queriam deixar o espaço pronto para a visita dos amigos.",0.052226,0.022511,0.098148,0.074737,0.150374
+polly-camila,82,"O fotógrafo fotografou a decoração da festa durante o intervalo, depois que a equipe terminou as atividades previstas para aquela manhã.",0.053188,0.024626,0.098176,0.077814,0.151364
+polly-camila,83,"A enfermeira desenhou os brinquedos coloridos perto da janela, quando percebeu que ainda havia tempo para conversar com os colegas.",0.041571,0.022329,0.094514,0.063900,0.136085
+polly-camila,84,"O músico avaliou a encomenda da semana sem fazer barulho, antes que a chuva voltasse a cair sobre as ruas tranquilas do bairro.",0.061799,0.021499,0.096735,0.083298,0.158534
+polly-camila,85,"A bibliotecária descobriu as sementes de girassol antes de sair, enquanto os vizinhos conversavam sobre os planos para o fim de semana.",0.049471,0.022714,0.095810,0.072185,0.145281
+polly-camila,86,"O cozinheiro reparou um livro de receitas com bastante atenção, porque todos queriam deixar o espaço pronto para a visita dos amigos.",0.044506,0.022296,0.095799,0.066802,0.140305
+polly-camila,87,"A pesquisadora consertou a janela da sala com ajuda dos colegas, depois que a equipe terminou as atividades previstas para aquela manhã.",0.052704,0.022899,0.097179,0.075603,0.149883
+polly-camila,88,"O carteiro entregou um desenho de pássaros ao chegar em casa, quando percebeu que ainda havia tempo para conversar com os colegas.",0.050148,0.023006,0.097077,0.073154,0.147225
+polly-camila,89,"A criança transportou as cortinas da janela na tarde de domingo, antes que a chuva voltasse a cair sobre as ruas tranquilas do bairro.",0.049974,0.022973,0.098255,0.072947,0.148228
+polly-camila,90,"O vendedor planejou o retrato da família na pequena oficina, enquanto os vizinhos conversavam sobre os planos para o fim de semana.",0.048341,0.023690,0.097801,0.072031,0.146142
+polly-camila,91,"A arquiteta emprestou um mapa da cidade para a próxima semana, porque todos queriam deixar o espaço pronto para a visita dos amigos.",0.036068,0.024078,0.094603,0.060146,0.130671
+polly-camila,92,"O professor testou o cardápio do restaurante durante a manhã, depois que a equipe terminou as atividades previstas para aquela manhã.",0.042854,0.022706,0.094463,0.065561,0.137317
+polly-camila,93,"A atleta guardou o banco da praça para a festa do bairro, quando percebeu que ainda havia tempo para conversar com os colegas.",0.045277,0.022474,0.093528,0.067751,0.138806
+polly-camila,94,"O pescador separou uma coleção de fotografias com muito cuidado, antes que a chuva voltasse a cair sobre as ruas tranquilas do bairro.",0.046124,0.023326,0.094388,0.069450,0.140512
+polly-camila,95,"A escritora apresentou o relógio da parede antes do almoço, enquanto os vizinhos conversavam sobre os planos para o fim de semana.",0.037882,0.022866,0.095543,0.060748,0.133425
+polly-camila,96,"O mecânico registrou o álbum de fotografias depois do café, porque todos queriam deixar o espaço pronto para a visita dos amigos.",0.036238,0.022576,0.095681,0.058814,0.131919
+polly-camila,97,"A dentista comparou a bicicleta vermelha na semana passada, depois que a equipe terminou as atividades previstas para aquela manhã.",0.047678,0.022894,0.094076,0.070572,0.141754
+polly-camila,98,"O artista encontrou o caderno de anotações na sala principal, quando percebeu que ainda havia tempo para conversar com os colegas.",0.040147,0.022584,0.093263,0.062731,0.133410
+polly-camila,99,"A repórter visitou as roupas de inverno no início da tarde, antes que a chuva voltasse a cair sobre as ruas tranquilas do bairro.",0.035798,0.023354,0.094294,0.059152,0.130093
+polly-camila,100,"O turista lavou o equipamento de gravação depois da reunião, enquanto os vizinhos conversavam sobre os planos para o fim de semana.",0.039466,0.022141,0.093856,0.061606,0.133321
